@@ -15,9 +15,6 @@ tags: [Aadu]
 
 # {{ $doc.title }}
 
-<!-- <h1 class="font-Special">
-    Montreal Vancouver
-</h1> -->
  
 Ostsin enne Montrealis laevale asumist terve karbi tablette merehaiguse vastu, iseendale, kuigi olen juba poisikesepõlvest peale merega sülitsi koos olnud.
 

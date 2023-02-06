@@ -1,11 +1,12 @@
 <template>
-    <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 items-center">
+    <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center">
         <template v-for="(story, i) in data" :key="`story${i}`">
             <NuxtLink :to="story._path">
-                <Card 
+                <Card class="bg-white dark:bg-primary-800"
+                    :class="path == story._path ? 'bg-yellow-200 dark:bg-teal-900' : ''"
                     :style="`transform:rotate(${-3+Math.random()*6}deg)`"
                 >
-                    <p class="font-Special text-xl leading-tight text-saarlus-800">
+                    <p class="font-Special text-xl leading-tight text-saarlus-800 dark:text-primary-300">
                         {{ story.description }}
                     </p>
                 </Card>
@@ -15,9 +16,6 @@
 </template>
 
 <script setup>
-    const data = storiesData();
-//     const { data } = await useAsyncData(`content-${path}`, () => {
-//   return queryContent().where({ _path: path }).only(['title']).findOne()
-// })
-    // const { data } = await useAsyncData('stories', () => queryContent('lood').only(['description','_path']).find())
+    const { path } = useRoute();
+    const { data } = await useAsyncData('stories', () => queryContent('_lood').only(['description','_path']).find());
 </script>

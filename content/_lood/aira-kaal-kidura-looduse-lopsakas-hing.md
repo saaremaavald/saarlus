@@ -1,14 +1,10 @@
 ---
 layout: story-page
 description: Siin mina istun ja imetlen sind; kidura looduse lopsakas hing
-title: Aira Kaal - Kidura looduse lopsakas hing
+title: Kidura looduse lopsakas hing
 author: Aira Kaal
 origin: ""
-images: [
-    {
-        src: "aira-kaal-pank.webp"
-    }
-]
+images: [{ src: "aira-kaal-pank.webp" }]
 dictionary: [[ei, ole]]
 tags: ["Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine"]
 ---
@@ -29,15 +25,13 @@ kidura looduse lopsakas hing.
 
 :story-author{:author="author" :origin="origin"}
 
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
-
-<details-wrapper summary="Mis mõtted tekkisid?">
+::details-wrapper{summary="Mis mõtted tekkisid?"}
 
 - Milline on olnud sinu suurim looduselamus Saaremaal? Pannud südame värisema?
 - Tead sa raunjalga, maokeelt ja kuuvõtmeheina? Uuri järele, millised need on. Ja mis on rüha?
 - Kas oled nõus, et Saaremaa loodus on kidur, aga lopsaka hingega? Kui jah, siis milliseid näiteid sa tooksid?
 
-</details-wrapper>
+::
 
 
 <details-wrapper summary="Allikad" icon="icon-park-outline:document-folder">
