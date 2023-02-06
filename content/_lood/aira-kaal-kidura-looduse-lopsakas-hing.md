@@ -1,0 +1,48 @@
+---
+layout: story-page
+description: Siin mina istun ja imetlen sind; kidura looduse lopsakas hing
+title: Aira Kaal - Kidura looduse lopsakas hing
+author: Aira Kaal
+origin: ""
+images: [
+    {
+        src: "aira-kaal-pank.webp"
+    }
+]
+dictionary: [[ei, ole]]
+tags: ["Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine"]
+---
+
+
+# {{ $doc.title}}
+
+
+Käärimas väinade sinine pärm. \
+Haljas ja helde on lehtede värv. \
+Südame värinal puudutan teid, \
+raunjalg ja maokeel ja kuuvõtmehein! \
+Paekivi pankadel põlvini maas, \
+rüha ja sammaldund rahnude seas, \
+siin mina istun ja imetlen sind; \
+kidura looduse lopsakas hing.
+
+
+:story-author{:author="author" :origin="origin"}
+
+<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+
+<details-wrapper summary="Mis mõtted tekkisid?">
+
+- Milline on olnud sinu suurim looduselamus Saaremaal? Pannud südame värisema?
+- Tead sa raunjalga, maokeelt ja kuuvõtmeheina? Uuri järele, millised need on. Ja mis on rüha?
+- Kas oled nõus, et Saaremaa loodus on kidur, aga lopsaka hingega? Kui jah, siis milliseid näiteid sa tooksid?
+
+</details-wrapper>
+
+
+<details-wrapper summary="Allikad" icon="icon-park-outline:document-folder">
+
+- Luuletus: **Aira Kaal**, “Paekivi pankadel” kogumikust “Saaks kord seda imet veel vaadata”, Eesti Raamat, 1981.
+- Foto: **Triin Reitalu**, Soeginina pank. Roosad õied on verev kurereha, üle pangaserva riputab natuke luuderohu lehti, maikellukest on ka aimata.
+
+</details-wrapper>
