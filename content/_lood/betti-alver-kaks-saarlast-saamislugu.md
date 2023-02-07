@@ -1,0 +1,47 @@
+---
+layout: story-page
+title: Kaks saarlast saamislugu
+description: Kõrvus helises veel saarlaste kõne ja korraga kukkus loo lõpp mulle nagu iseenesest sülle.
+author: Betti Alver
+images: [
+    {
+        src: "betti-alver-kaks-saarlast--2.webp",
+        bgPos: "50% 90%"
+    }
+]
+tags: [Betti Alver]
+---
+
+# {{$doc.title}}
+
+Istusime kord Pärnus lõunalauas ja rääkisime sõprusest. Professor Talviku lesk jutustas meile anekdoodi kahest surmamõistetud sõbrast. Loo sisu oli lühidalt järgmine.
+
+1. Kohtu ees üks meestest (A) palub säästa oma sõbra (B) elu.
+2. Kohtunik nõustub ainsal tingimusel: A jooksku veel pärast nuhtluse täideviimist B-st mööda.
+3. A hukatakse tapakirve all.
+4. A tõuseb, jookseb ja jõuab B juurde.
+5. B asetab A-le jala ette. A kukub ja B hukatakse.
+
+Ma ei tea tänini selle loo algallikat. Oli tuline kiusatus neist sõpradest midagi kirjutada. Muidugi meenus mulle kohe Suur Tõll. Kahtlesin ainult, kas mul jätkub säärase loo jaoks vajalikku lapidaarsust. Ja kust pidin leidma paraja riimipaarilise lõppreale? Instinkt juba teadis, et luuletuse kolm viimast sõna peavad ilmtingimata olema: pani jala ette - ning et sellele jalale toetub kogu ballaad oma raskusega. Kuid nagu öeldud, mu mõtted uitasid Suure Tõllu jälgedel. Olin viibinud hiljuti pikemat aega Saaremaal. Kõrvus helises veel saarlaste kõne ja korraga kukkus loo lõpp mulle nagu iseenesest sülle. Selgesti seisid mõlemad sõbrad mu ees – niihästi hiiglasuur, tohutu tahtejõuga inimene kui ka see teine, kes hüüdega: "Ei! kui sured sa, siis elada ei taha ka su vana soldan mette!" - tal pani jala ette.
+
+Nii sündisid "Kaks saarlast".
+
+<story-author :author="author"></story-author>
+<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+
+
+
+<!-- <details-wrapper summary="Mis mõtted tekkisid?">
+- Kui sa ei tea, mida Betti Alver silmas pidas sellega, et anekdooti kuuldes meenus talle kohe Suur Tõll, siis siit leiab vastuse: https://www.folklore.ee/rl/folkte/myte/olev/42.html
+- Milline on sinu jaoks hea sõber? Mida sõbra heaks teha ja mida mitte? On sinu sõpruskonnas inimesi, kellega tahad sidet hoida ka peale kooli lõpetamist, ja ka sel juhul, kui olete Saaremaalt ära õppimas või töötamas?
+
+</details-wrapper> -->
+
+
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
+
+- Tekst: **Betti Alver**, "Alguses oli lõpp", **Endel Priideli** koostatud kogumik "Teose sünd", Eesti Raamat, 1976.
+- Betti Alveri elu ja loomingu kohta saab lugeda siit: https://kultuur.err.ee/1608314084/onnepalu-betti-alveri-luule-ei-puua-olla-sugav-vaid-on-seda-enese-tahtmata
+- Foto: Merit Karise
+
+</details-wrapper>

@@ -12,29 +12,16 @@
         zoom: {     type:Boolean,   default: false}
     });
 
-    // const store = useStore();
-    // const modalOpen = ref(computed(() => store.getters.modalOpen));
-    const amOpen = ref(false);
-    const toggleModal = () => {
-        amOpen.value = !amOpen.value;
-        // store.commit("toggleModal", modalOpen.value);
-    };
+    const isOpen = modalOpen();
+    const toggleOpen = () => {
+        isOpen.value = !isOpen.value;
+    }
     
-//     function updateLocation() {
-//   location.value = 'South Pole'
-// }
-
-    provide('open', {
-        amOpen,
-        toggleModal
-    });
 </script>
 
 <template>
     <div class="flex justify-center items-center bg-gradient-to-b from-blue-800 via-green-600 to-blue-700 shadow"
     :style="{
-        // 'background':`url(../images/stories/${src}), linear-gradient(to bottom, rgba(29,78,216,1), rgba(245, 158, 11, 1), rgba(4, 120, 87, 1))`,
-        // 'background':`url(../images/stories/${props.src})`,
         'background':`url(${props.src})`,
         'background-size' : props.bgSize, 
         'background-repeat' : props.bgRepeat, 
@@ -44,19 +31,21 @@
         'background-blend-mode': 'overlay'
     }"
     >
-        <div class="zoomable flex justify-center items-center w-full h-full cursor-pointer hover:(bg-saarlus-700/40) transition" v-if="zoom" @click="toggleModal">
-            <div class="icon flex justify-center items-center w-16 h-16 rounded-2xl bg-saarlus-800/80 opacity-0 transition">
-                <icon-zoom-in class="svg text-white stroke-current scale-150" style="transform: scale(2)" />
+        <div class="zoomable flex justify-center items-end w-full h-full cursor-pointer hover:bg-saarlus-700/5 transition" v-if="zoom" @click="toggleOpen">
+            <div class="icon flex justify-center items-center w-20 h-20 
+                mb-20
+                rounded-full bg-primary-800 opacity-0 transition">
+                <Icon name="icon-park-outline:zoom-in" class="svg text-white stroke-current text-4xl"  />
             </div>
         </div>
     </div>
     
-<!-- <teleport to="#teleport-modal">
-    <div v-if="modalOpen && amOpen">
-        <image-modal :image="`../images/stories/${props.src}`" :key="props.src" />
-    </div>
-</teleport> -->
-
+    <Teleport to="body">
+        <div v-if="isOpen">
+            <image-modal :image="props.src" :key="props.src" />
+        </div>
+    </Teleport>
+    
 </template>
 
 <style scoped>

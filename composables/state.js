@@ -1,1 +1,1 @@
-export const tocOpen = () => useState('tocOpen', () => true);
+export const modalOpen = () => useState('modalOpen', () => false);

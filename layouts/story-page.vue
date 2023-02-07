@@ -1,9 +1,4 @@
 <script setup>
-    // const dummy = ref('cover.jpg');
-    // const stories = storiesData();
-    // const images = ref(stories.value[1].images);
-    // console.log("Images", images.value);
-
     const { path } = useRoute();
     const { data } = await useAsyncData(`content-${path}`, () => {
         return queryContent().where({ _path: path }).only(['images']).findOne();
