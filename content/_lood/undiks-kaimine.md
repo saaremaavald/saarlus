@@ -1,37 +1,38 @@
 ---
-slug: undiks-kaimine
-author: Kirja pannud Joann Prooses Pöide kihelkonnas Tornimäe külas.
+layout: story-page
+title: Undiks käimine
+description: Enne käind inimesed ikka undiks. Jeesuse sündimisest saadik ei ole seda enam nii sagedasti.
+author: rahvajutt
+origin: Kirja pannud Joann Prooses Pöide kihelkonnas Tornimäe külas.
 images: [
     {
         src: undiks-kaimine.webp, 
         height: "65vh"
     },
 ]
-tags: [rahvajutt]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
+tags: [rahvajutt]
 ---
 
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Enne käind inimesed ikka undiks. Jeesuse sündimisest saadik ei ole seda enam nii sagedasti.
 
 Kord olivad ämm ja minia. Ämm oli söönd koldemüiril liha, minia oidnud last ja akkand ämmaga nurisema, et see üksi liha nahka paneb ja miniale midagi ei annud.
 
-Ämm öölnud: „Mine too ise! Ma käin ise omale liha toomas.“
-Minia paluma: „Õpeta mind ka, kust ja kuidas liha tuua.“
+Ämm öölnud: „Mine too ise! Ma käin ise omale liha toomas.“ \
+Minia paluma: „Õpeta mind ka, kust ja kuidas liha tuua.“ \
 Ämm oli viind minia värava taha, pöörnud ühe kivi peal kolm korda ringi, ajand undinaha miniale selga ja minia saand undiks.
 
 Kahju aga, et minia ei küsind ja ämm unustas õpetamast, kuidas undist inimeseks jälle saab.
 
 Küll tahtnud naene jälle undinahka kätte saada, aga ei olla saand. Nii jäänd ta ulgaks ajaks metsa. Viimaks akkand laps aga irmsasti karjuma. Ämm tüdind ära. Mis teha? Läind värava taha ja üüdnud:
 
-„Tule nüüd metsast meie emme,
-tule meie lasta lakutama,
-ellakesta imetama,
+„Tule nüüd metsast meie emme, \
+tule meie lasta lakutama, \
+ellakesta imetama, \
 tallekesta tandsitama!“
 
 Sellepeale tulnd siis unt metsast ja akkand last imetama. Nüüd saand vanamoor undi tagumisest jalast kinni, viind undi vägisi kivi ääre, pöörnud seal jälle kolm korda ümber. Sellepeale langend undi kasukas maha, paljast teise jala külge oli jäänd tükk undi karvu.
@@ -40,10 +41,10 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
 
 
 
+<story-author :author="author" :origin="origin"></story-author>
 
+<story-dictionary :terms="dictionary"></story-dictionary>
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">
@@ -53,12 +54,10 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=989
 - Foto: **Hiie Mook**
 
 </details-wrapper>
-
-
 

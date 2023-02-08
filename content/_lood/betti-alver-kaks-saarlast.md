@@ -51,7 +51,7 @@ tal pani jala ette.
 
 
 <story-author :author="author" :origin="origin"></story-author>
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

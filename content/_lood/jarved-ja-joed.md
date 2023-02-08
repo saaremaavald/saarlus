@@ -1,19 +1,19 @@
 ---
-slug: jarved-ja-joed
-author: Kirja pannud Amanda Rand oma vanaemalt Kaarma kihelkonnast Tamsalu külast.
+layout: story-page
+title: Järved ja jõed
+description: Mönda kohta puhund ta nii palju vett, et see ei vaibund enam tagasi merre, vaid jäi maale peatuma.
+author: rahvajutt
+origin: Kirja pannud Amanda Rand oma vanaemalt Kaarma kihelkonnast Tamsalu külast.
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "vanapagan-ja-joed.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: [rahvajutt, murdekeel, Vanapagan, järv, jõgi, meri, laht, loodus, Kaarma]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Kui vanapagan oli alles eland maa peal, siis sattus ta inimestega tülli ja tahtis neid uputada.
 
@@ -21,8 +21,9 @@ Ta läind merele ja puhund sealt vett maale. Mönda kohta puhund ta nii palju ve
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -34,7 +35,7 @@ Ta läind merele ja puhund sealt vett maale. Mönda kohta puhund ta nii palju ve
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=787
 - Foto: **Merit Karise**

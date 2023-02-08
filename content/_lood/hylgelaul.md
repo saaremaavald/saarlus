@@ -1,8 +1,8 @@
 ---
+layout: story-page
 title: Kes kala hülgeks nimetab?
-slug: hylgelaul
-author: rahvajutt
-origin:  
+description: Kes kala hülgeks nimetab?
+author: rahvalaul
 images: [
     {
         src: "hylgelaul.webp"
@@ -13,17 +13,12 @@ tags: [muusika, hüljes, kala, Jämaja]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+#  {{$doc.title}}
 
 Lihtsalt laula kaasa! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/32-kuunlakuus-kui-ilm-on-kare
 
 
-
-
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author"></story-author>
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -37,7 +32,7 @@ Lihtsalt laula kaasa! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/32-kuunl
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Laul: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/
 - Foto: **Mart Jüssi**, hülged Saaremaa rannal

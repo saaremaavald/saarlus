@@ -1,6 +1,9 @@
 ---
-slug: mida-koike-mererannast-voib-leida
-author: Jutustanud Priidu Volm Kihelkonna kihelkonnast Rootsikülast.
+layout: story-page
+title: Mida kõike mererannast võib leida
+description: Ommikul tulnd keegi naine ja tahtnud enda laeva kätte saada. Mehed teind suured silmad.
+author: rahvajutt
+origin: Jutustanud Priidu Volm Kihelkonna kihelkonnast Rootsikülast.
 images: [
     {
         src: "parklaev.webp"
@@ -11,13 +14,11 @@ tags: [rahvajutt, murdekeel, meri, laev, Kihelkonna, haakrik]
 
 ---
 
-*<Component is="IconInfo" class="inline -translate-y-3"></Component> Kuressaare “Hoppet” on kahemastiline kahvelkuunar ehk kaljas.*
+*<sup><Icon name="icon-park-outline:info" size="24"></Icon></sup> Kuressaare “Hoppet” on kahemastiline kahvelkuunar ehk kaljas.*
 
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Mehed leidnud kalu püüdes Jöe-Simmu rannast meremudalt poole puukaussi. Üks vötnud selle kausi eemale tule juurde ühes. Mehed magand öösel metsas ja keegi pannud selle iseendale padjaks pää alla.
 
@@ -28,8 +29,9 @@ Seal kadund naine kausiga. Ja eemal veel seisnud suur parklaev, mille pardal oln
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -40,7 +42,7 @@ Seal kadund naine kausiga. Ja eemal veel seisnud suur parklaev, mille pardal oln
 
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=854
 - Foto: **Merit Karise**

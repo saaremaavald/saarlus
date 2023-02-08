@@ -1,21 +1,17 @@
 ---
+layout: story-page
 title: Mida pidupäeval selga panna?
-slug: saaremaa-rahvariided
-author: rahvajutt
-origin: unknown
+description: Mida pidupäeval selga panna?
 images: [
     {
         src: "saaremaa-rahvariided.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: [rahvariided]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 <!-- Fotole pealkiri: Mida pidupäeval selga panna? -->
 
@@ -25,9 +21,8 @@ Kui hästi tunned Saaremaa rahvariideid ja kihelkondi? http://saaremaa.folklore.
 
 
 
-
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-author :author="author" :origin="origin"></story-author> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -36,7 +31,7 @@ Kui hästi tunned Saaremaa rahvariideid ja kihelkondi? http://saaremaa.folklore.
 </details-wrapper> -->
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Foto: **Margus Lepik**, Anseküla ja Jämaja neiud
 

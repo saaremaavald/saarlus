@@ -1,19 +1,17 @@
 ---
-slug: oskar-kruus-mandmets
+layout: story-page
+title: Jakob Mändmets
+description: "Reis Saaremaale on aeganõudev: esimesel päeval jõudsin ainult Kingisseppa."
 author: Oskar Kruus
-origin:  
 images: [
     {
         src: "kruus-mandmets.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: [Jakob]
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
  
 **Jakob Mändmetsa** nimega puutusin esmakordselt kokku kuuendas klassis. Seal leidus kaks Mändmetsa novelli - “Katkiraiutud kaljas” ja “Kiir kaugusest”. Mõlemad jäid kustumatult meelde oma dramaatilise psühholoogilise situatsiooni ja sisemise valuga. Kaljas oli südamaapoisile küll tundmatu sõna, kuid tähtsamad olid inimestevahelised suhted. Ja need kiskusid kaasa: võisin ette kujutada neid rannataate, kelle pilke ei kannatanud välja Laine Andres ja lõpuks merre läks. 
 
@@ -42,8 +40,7 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author"></story-author>
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">
@@ -56,7 +53,7 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Tekst: **Oskar Kruus**, **Endel Priideli** kogumikus “Teose sünd”, 1976.
 - Jakob Mändmetsa elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=299&page_start=&table=Persons

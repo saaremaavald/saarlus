@@ -1,31 +1,27 @@
 ---
+layout: story-page
 title: Kirjanikud suvel
-slug: kirjanikud-suvel
-author: ""
-origin: ""
+description: Kirjanikud suvel
 images: [
     {
         src: "jarved-ja-joed.webp"
     }
 ]
-# dictionary: [[ei, ole]]
-# tags: []
+tags: [Kirjanik]
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 https://arhiiv.err.ee/vaata/suvi-segab-tood-kirjanikud-suvel
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
-
+<!-- <story-author :author="author"  /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
+<!-- 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
-</details-wrapper>
+</details-wrapper> -->
 
+<!-- 
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
-
-</details-wrapper>
+</details-wrapper> -->

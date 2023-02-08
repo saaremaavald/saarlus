@@ -1,24 +1,23 @@
 ---
-slug: mis-on-kaali-jarve-pohjas
-author: Rahvajutu jutustanud Olga Anupõld Kuressaarest.
-tags: [rahvajutt, murdekeel, Kaali järv]
+layout: story-page
+title: Mis on kaali järve põhjas
+description: Kord tahtnud külarahvas mööta Kaali järve sügavust.
+author: rahvajutt
+origin: Rahvajutu jutustanud Olga Anupõld Kuressaarest.
 images: [
     {
-        src: mis-on-kaali-jarve-pohjas.webp, 
-        zoom: true
+        src: kaali-jarv.webp
     }
 ]
-
+tags: [rahvajutt, murdekeel, Kaali järv]
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Kord tahtnud külarahvas mööta Kaali järve sügavust. Nad sidund terve küla köied üksteise \[külge\], otsa pannud katla liivaga ja akand pöhja laskma. Lasknud kuni köis otsa saand. Akatud välja tirima. Kui nad katla välja olid tirind, nägid inimesed, et liiv oli katlast kadund ja sinna oli pandud verine jäära pea ühes pussnoaga. Nüüd arvab vanarahvas, et seal järve pöhjas on praegugi elanikud sees.
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
+<story-author :author="author" :origin="origin"></story-author>
 
 
 <details-wrapper summary="Mis mõtted tekkisid?" >
@@ -30,7 +29,7 @@ Kord tahtnud külarahvas mööta Kaali järve sügavust. Nad sidund terve küla 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=796
 - Foto: **Valmar Voolaid**

@@ -10,7 +10,7 @@ images: [
     }
 ]
 dictionary: [[ei, ole]]
-tags: []
+tags: [Aira Kaal]
 ---
 
 # {{$doc.title}}
@@ -125,7 +125,7 @@ Alles aasta hiljem tajusin, et «oma saar» oli mulle ka jõudu andnud. Ta olid 
 
 
 :story-author{:author="author"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">

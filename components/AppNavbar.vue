@@ -9,7 +9,7 @@ const { navigation } = useContent()
     <div class="w-full flex items-center justify-between gap-6 text-saarlus-700 dark:text-primary-200">
       <div>
         <NuxtLink to="/">
-          <span class="font-Special font-bold text-4xl tracking-tight leading-none">Saarlus</span>
+          <span class="font-Special font-bold text-2xl tracking-tight leading-none">SAARLUS</span>
         </NuxtLink>
       </div>
       <div class="flex gap-6">

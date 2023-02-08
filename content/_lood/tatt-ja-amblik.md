@@ -1,6 +1,9 @@
 ---
-slug: tatt-ja-amblik
-author: Rahvajutu kirja pannud Arnold Kuusk Püha kihelkonnas Räimaste külas. 
+layout: story-page
+title: Tatt ja ämblik
+description: Tatt ja ämblik saand Nasva jöe silla pääl kokku.
+author: rahvajutt
+origin: Rahvajutu kirja pannud Arnold Kuusk Püha kihelkonnas Räimaste külas. 
 images: [
     {
         src: "tatt-ja-amblik.webp"
@@ -11,9 +14,7 @@ tags: [rahvajutt, murdekeel, loodus, Püha, Nasva]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Tatt ja ämblik saand Nasva jöe silla pääl kokku.
 
@@ -25,9 +26,8 @@ Nüüd läksid jälle teine linna ja teine maale elama.
 
 
 
-
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -41,7 +41,7 @@ Nüüd läksid jälle teine linna ja teine maale elama.
 
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1012
 - Foto: **Merit Karise**. Pildil on herilasämblik, kes Kesk-Euroopast tasapisi Saaremaale ja mujale Eestisse kolib.

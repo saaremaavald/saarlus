@@ -8,7 +8,7 @@ images: [
         src: "aira-kaal-lootus.webp"
     }
 ]
-# tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -26,7 +26,7 @@ Ja nii nad maa peal elavad!
 
 
 :story-author{:author="author"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

@@ -1,12 +1,15 @@
 ---
-slug: janese-lohkine-mokk
-author: Rahvajutu kirja pannud Juhan Ratas Valjala kihelkonnas Lõve vallas.
+layout: story-page
+title: Jänese lõhkine mokk
+description: Üpagem köik ühekorraga aja pääle, et kui kedagi vaenlast teispool aeda oleks olevad, siis meil julgem vastu akata.
+author: rahvajutt
+origin: Rahvajutu kirja pannud Juhan Ratas Valjala kihelkonnas Lõve vallas.
 images: [
     {
         src: janese-lohkine-mokk.webp,
         zoom: true,
         bgPos: "50% 50%",
-        height: 90vh
+        height: 80vh
     }
 ]
 dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama, korralikult üleval pidama, käituma]]
@@ -15,9 +18,7 @@ tags: [rahvajutt, that]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Kord pidasivad veiksed valged jänesed nöu siitmaalt ära minna, sest siin ei karda ükski loom neid. „Kus piaksime minema?“ küsis keegi nendest, „kus piaksime seesugusid eest leidma, kes meid kardavad?“
 
@@ -32,55 +33,56 @@ Sestsaadik vöeti nöuks seia maale jääda ja ei mitte ilmaski enam reisi pää
 Sest ajast saadik on jänese suu nelja risti löhki ja kui jahikoerad teda taga ajavad, läheb ta uueste jälle oma pesa juure tagasi, kust ta üles on kargand.
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
 
-<dummy-spacer height="10vh" />
+<story-dictionary :terms="dictionary"></story-dictionary>
+
+<dummy-spacer height="10vh"></dummy-spacer>
+
 Kuula (ja laula kaasa!), millisena **Sõrve bänd Küi** tänapäeva valgejänese elu metsas kujutab:
 
-<youtube-wrapper video="https://www.youtube.com/embed/l_uVXdZhFWc" />
+
+<youtube-wrapper video="https://www.youtube.com/embed/l_uVXdZhFWc"></youtube-wrapper>
 
 
-<h2 class="story-h2">
-    Jänkulaul 2021
-</h2>
+## Jänkulaul 2021
 
 *(Oliver Parrest)*
 
-Terve mets on kaldu minu poole kui ma hüplen vastu tuult
-kased kummardavad maani nähes minu lõhkist huult
-haavad värisevad kaugelt haistes minu pikka kõrva
-ja mu topeltesihammast – sellega ma mõrvan
-ma varjan puude eest päikese ja kui mu seest
-nad tulevad ma hammustan uuesti ja seedin korra veel
-olen jänes raisk sessiilsed ussikesed
+Terve mets on kaldu minu poole kui ma hüplen vastu tuult \
+kased kummardavad maani nähes minu lõhkist huult \
+haavad värisevad kaugelt haistes minu pikka kõrva \
+ja mu topeltesihammast – sellega ma mõrvan \
+ma varjan puude eest päikese ja kui mu seest \
+nad tulevad ma hammustan uuesti ja seedin korra veel \
+olen jänes raisk sessiilsed ussikesed \
 ma purustan te kondid ja joon te verd tassikese
 
-Ma teen nii keerulisi haake et kui rebane oleks jänes
-ei saaks ta ka mitte midagi aru ja ma kardan mõnes
-kohas kus ma läind hoogu teind korraga kolme
-erinevat vigurit vaene loom läheb sõlme
-kõik sunnitud mind tunnistama liiga väledaks
-mind pole kätte saand põder kits ega oksapraks
-hundid ilvesed mägrad piuksud kääksud ja varjud
+Ma teen nii keerulisi haake et kui rebane oleks jänes \
+ei saaks ta ka mitte midagi aru ja ma kardan mõnes \
+kohas kus ma läind hoogu teind korraga kolme \
+erinevat vigurit vaene loom läheb sõlme \
+kõik sunnitud mind tunnistama liiga väledaks \
+mind pole kätte saand põder kits ega oksapraks \
+hundid ilvesed mägrad piuksud kääksud ja varjud \
 vaevalt ajavad mind taga nad on muga juba harjund
  
-Kui mulle oksa pealt käbi kukub pähe keeran ma jee teise palge
-halljänes sul keerab mina olen valge
-mina jooksen kohe minema ja minul on savi
-mitu pauku on halljäneste taluvuslävi
-mul on palju armsamad jäljed ja kribulad
-ma mängin lumehange siis kui hallid liduvad
-ja kui lumi ongi suland siis ma teen mõne tehte
-ja kui halljänes jälle jookseb mängin ajalehte
+Kui mulle oksa pealt käbi kukub pähe keeran ma jee teise palge \
+halljänes sul keerab mina olen valge \
+mina jooksen kohe minema ja minul on savi \
+mitu pauku on halljäneste taluvuslävi \
+mul on palju armsamad jäljed ja kribulad \
+ma mängin lumehange siis kui hallid liduvad \
+ja kui lumi ongi suland siis ma teen mõne tehte \
+ja kui halljänes jälle jookseb mängin ajalehte 
  
-mul on 18 poega igal aastal ja ma panen nagu jänes
-minu võimeid õmblusmasin igatseb ja näeb unes
-ma sümboliseerin põhiliselt ikkagi viljakust
-ja ainult natuke seda et mu suu on must
-ma näen 360 kraadi kuulen 720
-ja kui sa pole kuulnud siis võta teata vaks et
-ma olen nii armas et mind armastavad kõik
+mul on 18 poega igal aastal ja ma panen nagu jänes \
+minu võimeid õmblusmasin igatseb ja näeb unes \
+ma sümboliseerin põhiliselt ikkagi viljakust \
+ja ainult natuke seda et mu suu on must \
+ma näen 360 kraadi kuulen 720 \
+ja kui sa pole kuulnud siis võta teata vaks et \
+ma olen nii armas et mind armastavad kõik \
 kas nas natuke liiga kiire? see oli valgejänese hõik!
 
 
@@ -94,13 +96,12 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 </details-wrapper>
 
 
-<details-wrapper icon="IconSources" summary="Allikad" class="text-sm">
+<details-wrapper icon="icon-park-outline:document-folder" summary="Allikad" class="text-sm">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1065
-- T-särgi kujundus “Jänes püksis”: Mai Raet, Tartu Kunstikool
-- Foto T-särgist modelli seljas: modell Eleri Kupits, fotograaf Sirelin Siigur, Kuressaare ametikooli disainisuund
+- T-särgi kujundus “Jänes püksis”: **Mai Raet**, Tartu Kunstikool
+- Foto T-särgist modelli seljas: fotograaf **Sirelin Siigur**, modell **Eleri Kupits**, Kuressaare ametikooli disainisuund
 
 </details-wrapper>
-
 
 

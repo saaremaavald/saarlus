@@ -1,6 +1,9 @@
 ---
-slug: rehepapp
-author: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
+layout: story-page
+title: Rehepapp
+description: Kui nad väga mürgeldavad, panen pilli üüdma, siis kaduvad napsu pealt köik!
+author: rahvajutt
+origin: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
 images: [
     {
         src: "rehepapp.webp",
@@ -12,9 +15,7 @@ tags: [rahvajutt, murdekeel, rehepapp, Vanapagan, torupill, muusika, Muhu]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 
 Minu isa vanaisa, sündind Tepu talus, üüdnimega pilli Juhan, olnd tähendatud valla torupillimees ja pääle selle Kingli möisa pöline rehepapp. Tol ajal olnd vanadkurjad alalised möisa rehtede külastajad, nii et öösel pimedas keegi arilik surelik ei julgend enne ommikust kukelaulu möisa rehtedele läheneda.
@@ -29,9 +30,9 @@ Minu isa mäletab veel vähe oma vanaisa, olnd öige väike mehike.
 
 
 
+<story-author :author="author" :origin="origin"></story-author>
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -43,7 +44,7 @@ Minu isa mäletab veel vähe oma vanaisa, olnd öige väike mehike.
 
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1052
 - Foto: **Merit Karise**, festival “IlandSound” Illiku laiul

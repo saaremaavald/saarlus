@@ -8,7 +8,7 @@ images: [
         src: "aira-kaal-need-kivid.webp"
     }
 ]
-# tags: [Aira Kaal]
+tags: [Aira Kaal]
 ---
 
 # {{$doc.title}}
@@ -46,7 +46,7 @@ küllap mind õpetand nad.
 
 
 :story-author{:author="author"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

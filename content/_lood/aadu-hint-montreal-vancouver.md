@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: 'Montreal-Vancouver'
-description: 'Küllap linnud teadsid, kuhu, aga veel enne, kui nad oleksid õigesuunalist lennuhoogu päriselt sisse saanud, viis tulede sära, mis oleks suutnud valgustada kunagist Kuressaare-taolist linna, neid jälle segadusse.'
+description: 'Nagu arstid kinnitavad, etendavat merehaiguse puhul peamist osa psüühiline tegur - kartus.'
 author: Aadu Hint
 images: [
     {
@@ -76,7 +76,7 @@ Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud�
 
 
 
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">

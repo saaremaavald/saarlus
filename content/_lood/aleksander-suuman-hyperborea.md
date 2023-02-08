@@ -8,7 +8,7 @@ images: [
         src: "aleksander-suuman.webp"
     }
 ]
-# tags: []
+tags: ["Aleksander Suumann"]
 ---
 
 
@@ -21,7 +21,7 @@ Suumani Sassi Hüperborea, kus ta raamatutäie luuletusi kirjutas ja mida ta mü
 
 
 :story-author{:author="author"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <!-- 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
@@ -29,6 +29,6 @@ Suumani Sassi Hüperborea, kus ta raamatutäie luuletusi kirjutas ja mida ta mü
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 </details-wrapper> -->

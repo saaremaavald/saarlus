@@ -1,23 +1,24 @@
 ---
+layout: story-page
 title: Mardipäev
-slug: mardipaev
+description: Mis perenaine kostab, kui kari poriseid kaltsakaid toas pilli jöristab ning tantsu vihub?
 author: Mari Lepik 
 origin: Sõrvest
 images: [
     {
-        src: "mardisant-1.webp"
+        src: "mardisant-1.webp",
+        zoom: true
     },
     {
-        src: "mardisant-2.webp"
+        src: "mardisant-2.webp",
+        zoom: true
     }
 ]
-dictionary: [[ei, ole]]
 tags: [mardipäev, santimine]
+
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 
 <!-- Fotodele (kleepida need kaks kokku, et saaks 1 maastikuformaadi) pealkiri: Noh, mis passid - mask ette, jope pahupidi selga ja marti jooksma! -->
@@ -35,19 +36,19 @@ Mis perenaine kostab, kui kari poriseid kaltsakaid toas pilli jöristab ning tan
 
 Kotipoiss korjab palte, pähkleid, õunu, leiba ja muud, mis pererahval anda on. Vahepeal oli moes anda vilja õlle tegemiseks… Siis pidi mardipidu mõned päevad ootama.
 
-Kui ust lahti ei tehta, siis alles hakkab nalja saama. Puuriitade, vankrite, ämbrite ja kukkedega saab igasugu sigadusi korraldada suuremat kahju sünnitamata.
-“Mis te tahate?”
-“Midagi ei taha, õnne tulime tooma! Kui te selle välja teeninud olete! Ja tantsima ning laulma. Omaette ning perega seltsis.”
-“Olge lahked – paneme kotti, mis meil anda on ja head teed teil minna!”
+Kui ust lahti ei tehta, siis alles hakkab nalja saama. Puuriitade, vankrite, ämbrite ja kukkedega saab igasugu sigadusi korraldada suuremat kahju sünnitamata. \
+“Mis te tahate?” \
+“Midagi ei taha, õnne tulime tooma! Kui te selle välja teeninud olete! Ja tantsima ning laulma. Omaette ning perega seltsis.” \
+“Olge lahked – paneme kotti, mis meil anda on ja head teed teil minna!” \
 Viljaõnn – sa püha asi! Et loomad kosuks, et põllud kasvaks! Et oleks leiba, õlut, lambakintsu ning seakülge!
 
-Dialoog on ajapikku paikakulunud, suur osa sest on ka lauluks saanud. Nii ei peagi igaüks alati osav sõnasepp olema, piisab lauluridade meelespidamisest või paremal juhul vaid laulumehe järgi kordamisest. 
-Viimases peres – suurema toa, lahkema pereisa, heldema perenaise ja naeruhimuliste peretütardega peres – saab olema pidu. Pilli ja tralliga. Kasukad heidetakse maha, valssnäud koldesse. Saab süüa. Saab tantsida. Saab kahekesi õues tähti vaatamas käia.
+Dialoog on ajapikku paikakulunud, suur osa sest on ka lauluks saanud. Nii ei peagi igaüks alati osav sõnasepp olema, piisab lauluridade meelespidamisest või paremal juhul vaid laulumehe järgi kordamisest. \
+Viimases peres – suurema toa, lahkema pereisa, heldema perenaise ja naeruhimuliste peretütardega peres – saab olema pidu. Pilli ja tralliga. Kasukad heidetakse maha, valssnäud koldesse. Saab süüa. Saab tantsida. Saab kahekesi õues tähti vaatamas käia. \
 Mida sa inimese hing veel ihkad!”
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -60,7 +61,7 @@ Mida sa inimese hing veel ihkad!”
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - **Mari Lepiku** lugu: https://xn--srvemaa-90a.ee/souke-sorvemaa/sorve-keel/sandid-ning-onnetoojad-saaremaal/
 - Fotod: **Ingela Auväärt** ja **Sigrid-Merili Kuhi**, Kuressaare ametikooli disainisuuna dekoraator-stilistid

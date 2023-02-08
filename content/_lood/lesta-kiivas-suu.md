@@ -1,7 +1,9 @@
 ---
-slug: lesta-kiivas-suu
-author: Rahvajutu jutustanud Jaak Lepik Ansek체la kihelkonnast Salme k체last. 
-origin: 
+layout: story-page
+title: Lesta kiivas suu
+description: Lest lititsegu liiva peel!
+author: rahvajutt
+origin: Rahvajutu jutustanud Jaak Lepik Ansek체la kihelkonnast Salme k체last. 
 images: [
     {
         src: "lesta-kiivas-suu.webp"
@@ -13,9 +15,7 @@ tags: [rahvajutt, lest, murdekeel, Ansek체la ]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Kui Jumal oli kalad loond, siis m채채rand ta igale asukoha. Oli 철elnud lestale, et see lititsegu liiva peel.
 
@@ -25,8 +25,9 @@ Sellest oli lest j채채ndki kiiva suuga. Ajab endale vihaga liiva peele, kui p체�
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis m천tted tekkisid?">
 
@@ -37,7 +38,7 @@ Sellest oli lest j채채ndki kiiva suuga. Ajab endale vihaga liiva peele, kui p체�
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=768
 - Foto: **Eve Rand**

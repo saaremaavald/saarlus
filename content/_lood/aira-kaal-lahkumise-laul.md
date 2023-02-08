@@ -8,7 +8,7 @@ images: [
         src: "aira-kaal-lahkumise-laul.webp"
     }
 ]
-# tags: []
+tags: []
 ---
 
 # {{ $doc.title }} 
@@ -51,7 +51,7 @@ Ma teitele siis annaksi \
 kõik mälestused oort.
 
 :story-author{:author="author"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

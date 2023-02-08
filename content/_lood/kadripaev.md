@@ -1,8 +1,7 @@
 ---
-title: Kadriks käidi. Ehtisivad mütu päeva, 18–19-aastased. Poistel olid aluspüksid teiste pükste peal, suled kübara peal. Kardpaela oli, seda sai panna.
-slug: kadripaev
-author: 
-origin:  
+layout: story-page
+title: Kadripäev
+description: Poistel olid aluspüksid teiste pükste peal, suled kübara peal. 
 images: [
     {
         src: "kadrisandid-1.webp",
@@ -13,15 +12,11 @@ images: [
         zoom: true
     }
 ]
-dictionary: [[a, a]]
 tags: [kadripäev, santimine ]
-
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 
 **Mari Lepik** Sõrvest kirjutab kadripäevast:
@@ -53,8 +48,8 @@ Karjaõnn, lambaõnn, pruudiõnn, peiuõnn, titeõnn! Need on olulised. Neid on 
 
 Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei saagi. Aga ka talutoas on tore. Võibolla samas, kus mardilaupäevalgi, võibolla mõnes teises. Kus mõni pillimees elab ning kuhu noored kokku tulla teavad.”
 
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-author :author="author" :origin="origin"></story-author> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -66,7 +61,7 @@ Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei s
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - **Mari Lepiku** jutt kadripäevast: https://xn--srvemaa-90a.ee/souke-sorvemaa/sorve-keel/sandid-ning-onnetoojad-saaremaal/
 - Foto 1 kadrisandiga: stilist **Marion Ronja Uisk**, modell **Heilika Purge**, fotograaf **Blanche Siirak**, materjalideks vanad pitskardinad, valge kunstkarusnahatükk, kartulikorv, valge spreivärv, valged kootud kindad, valge meik (Muide, seda fotot kasutab oma kadripäeva sooduskampaanias juba aastaid Eesti kosmeetikatootja Joik)
@@ -74,4 +69,3 @@ Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei s
 - Tekst fotodel: https://www.folklore.ee/erk/exhibits/show/kadripaev/item/50500
 
 </details-wrapper>
-

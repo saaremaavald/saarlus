@@ -9,7 +9,7 @@ images: [
         src: "andres-ehin-aavik.webp"
     }
 ]
-# tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
 ---
 
 
@@ -31,7 +31,7 @@ Kel pisut anglosaksilik \
 On antud nimi - m õ r v a r.
 
 <story-author :author="author" :origin="origin"></story-author>
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 

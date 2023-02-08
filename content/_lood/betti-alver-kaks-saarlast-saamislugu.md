@@ -27,7 +27,7 @@ Ma ei tea tänini selle loo algallikat. Oli tuline kiusatus neist sõpradest mid
 Nii sündisid "Kaks saarlast".
 
 <story-author :author="author"></story-author>
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 
 

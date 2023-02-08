@@ -35,9 +35,9 @@ export default defineTheme({
     },
     font: {
         cursive: 'Fuzzy Bubbles, cursive',
-        sans: 'Inter, sans-serif',
+        // sans: 'Inter, sans-serif',
         serif: 'Merriweather, ui-serif, Georgia, serif',
-        mono: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace'
+        // mono: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace'
     }
 })
 

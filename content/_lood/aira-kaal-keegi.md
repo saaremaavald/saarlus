@@ -8,8 +8,7 @@ images: [
         src: "aira-kaal-keegi.webp"
     }
 ]
-# dictionary: [[ei, ole]]
-# tags: [luule, aira kaal, kodanik, kena, kirjanik, naine]
+tags: [luule, aira kaal, kodanik, kena, kirjanik, naine]
 ---
 
 # {{ $doc.title }}
@@ -27,7 +26,7 @@ See aga oleks siiski kõige kenam.
 
 
 :story-author{:author="author" :origin="origin"}
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

@@ -1,6 +1,9 @@
 ---
-slug: kylmking-ja-puuraiuja
-author: Kirja pannud J. Jõgi Kärla kihelkonnas. 
+layout: story-page
+title: Külmking ja puuraiuja
+description: Raiu mulle ka üks kalapahl, ma tahan omale ka ühe kala küpsetada.
+author: rahvajutt
+origin: Kirja pannud J. Jõgi Kärla kihelkonnas. 
 images: [
     {
         src: "kylmking-ja-puuraiuja.webp",
@@ -12,9 +15,7 @@ tags: [rahvajutt, murdekeel, räim, kala, Kärla, külmking, mets, hunt, kartul,
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Kord olnd üks vanamees metsas puid raiumas. Ta akand löunaks tuhlid küpsetama. Tuhlid olnd ääks saamas ja ta pannud kalad* ka pahlaga küpsema.
 
@@ -34,13 +35,14 @@ Undid tulnd sinna ja nuusutand ja otsind igal pool ja viimaks küsind mehe kää
 
 <hr />
 
-*\* Saaremaal on räimed igapäised kalad. Kui seega ainult kalad saavad nimetatud, siis on selle all ikka räimed mõista. Kui muud kalad on, siis nimetatakse need äärkalad, nagu aavid, ahvenad jne.*
+*\* Saaremaal on räimed igapäised kalad. Kui seega ainult kalad saavad nimetatud, siis on selle all ikka räimed mõista. Kui muud kalad on, siis nimetatakse need äärkalad, nagu aavid, ahvenad jne.* \
 *\*\* Selpuuks kutsutakse seda puud, mis heinakoormale peale pannakse, millega koorm kinni tõmmatakse.*
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -53,7 +55,7 @@ Undid tulnd sinna ja nuusutand ja otsind igal pool ja viimaks küsind mehe kää
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=850
 - Foto: **Merit Karise**

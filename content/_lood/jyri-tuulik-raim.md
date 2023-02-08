@@ -1,20 +1,17 @@
 ---
-slug: aa
+layout: story-page
+title: Preedik
+description: Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim...
 author: Jüri Tuulik
-origin:  
 images: [
     {
-        src: "jyri-tuulik-raim.webp"
+        src: "tuulik-raim.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: []
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
- 
+# {{$doc.title}} 
 
 Preedik on vana mees ja hommikutunnil läheb ta Abruka sadama poole mööda teed, mis on iidne. Puud, põõsad, majad ja aiad, häältest ja lõhnadest rääkimata, on nooremad kui see kivirähka tallatud rannatee. Vaid meri eespool ja taevas pea kohal on iidsemad. Meri näitab end kahvatusiniselt, taevas on sama värvi ja pilvitu. Septembri keskpaiga kohta on hommik karge ja jahe. Isegi nii jahe, et meri hakkab ootamatult tõstma. Tõstab kauged Kuramaa rannad ja isegi Ruhnu metsaladvad päris silme ette. Targemad inimesed kutsuvad niisugust nähtust miraažiks.
 
@@ -49,9 +46,9 @@ Raamatuid on palju kirjutatud, aga räimepüügi õpikut pole Preedik oma silmag
 
 
 
+<story-author :author="author"></story-author>
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">
@@ -63,7 +60,7 @@ Raamatuid on palju kirjutatud, aga räimepüügi õpikut pole Preedik oma silmag
 </details-wrapper>
 
 
-<details-wrapper summary="Tegemiseks" icon="IconKnifeFork">
+<details-wrapper summary="Tegemiseks" icon="icon-park-outline:knife-fork">
 
 ### Kadakaräimed
 
@@ -117,7 +114,7 @@ Määritud ahjuvormi laduda kihiti räimefileed, ribastatud sibul, peenestatud k
 </details-wrapper>
 
 
-<details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikas" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Tekstilõigud ja retseptid: **Jüri Tuulik**, “Räim, pisike kena kala: valitud lugusid ja toiduretsepte”, kirjastus Kadmirell, 2008.
 - Jüri Tuuiku elu ja loomingu kohta saab lugeda siit: http://www.looming.ee/artiklid/juri-tuulik-22-ii-1940-3-vii-2014/

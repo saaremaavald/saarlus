@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-bioloogiaopetajale.webp"
     }
 ]
-# tags: [vainurästas, õpetaja, bioloogia, meri, tamm]
+tags: [vainurästas, õpetaja, bioloogia, meri, tamm]
 ---
 
 # {{$doc.title}}

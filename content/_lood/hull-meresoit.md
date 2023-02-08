@@ -1,20 +1,20 @@
 ---
-slug: hull-meresoit
-author: Jutustanud Jaan Hannus Kihelkonna kihelkonnast Kipi külast.
+layout: story-page
+title: Hull meresõit
+description: Ühekorra üks saksa kapten olnd laivaga New Yorgi sadamas. Kapten olnd mures, et kuidas saaks tütre sünnipäevale.
+author: rahvajutt
+origin: Jutustanud Jaan Hannus Kihelkonna kihelkonnast Kipi külast.
 tags: [rahvajutt]
 images: [
     {
-        src: hull-meresoit.webp, 
-        zoom: true
+        src: 03_hull_meresoit_pilt.webp
     }
 ]
 dictionary: [[logi, riist laeva kiiruse mõõtmiseks], [prammid, praampurjed], [reilid, roilpurjed], [peele, peale], [peenaha keige iustega, peanaha kõige juustega], [selle järge, pärast seda], [Ollandimaal, Hollandis], [lukiaugust, lukuaugust], [lae, laev], [Amburgis, Hamburgis], [sant, halb], [äga olga, aga olgu]]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Ühekorra üks saksa kapten olnd laivaga New Yorgi sadamas. Kapteni tütrel olnd teise päeva sünnipäe ning kapten olnd mures, et kuidas saaks tütre sünnipäevale.
 
@@ -44,8 +44,9 @@ Ollandimaal olnd üks kirik ning siis lae söitend kiriku lukiaugust läbi. Oomi
 
 Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid vastu vötma tulla. See vanaeit olnd nii suureks tüliks, et ta nii sant inimene olnd, ning see olnd önneks, kui sellest lahti saand. Vööras mees ütlend, et teda on petetud, äga olga kaup kaubaks. Siis vöttend vanaeide ning läind.
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 
 <details-wrapper summary="Mis mõtted tekkisid?" >
@@ -57,7 +58,7 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=870
 - Foto: New York, **Merit Karise**

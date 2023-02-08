@@ -1,22 +1,17 @@
 ---
+layout: story-page
 title: Pannileib
-slug: pannileib
-author: 
-origin:  
+description: Teeks täna õige pannileiba?
 images: [
     {
         src: "lesta-kiivas-suu.webp"
     }
 ]
-dictionary: [[a, a]]
 tags: [pannileib, toit ]
-
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Fotole pealkiri: Teeks täna õige pannileiba? 
 
@@ -31,8 +26,8 @@ Mõni teeb selle hirmus rasvase, minule meeldib möödukalt läbikasvanud peekon
 Jätku pannileiba! Saarlasest fotograafi **Meriliis Metsamäe** vanatädi Kihelkonna kandist tavatses laua ääres pläärutama (lobisema, mistõttu söömine venis) jäänud lastele öelda nii: “Pane munt virama!” ehk jätkake söömist, suu liikuma.
 
 
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-author :author="author" :origin="origin"></story-author> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -41,7 +36,7 @@ Jätku pannileiba! Saarlasest fotograafi **Meriliis Metsamäe** vanatädi Kihelk
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Foto: *Aili Salong*
 

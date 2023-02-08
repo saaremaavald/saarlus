@@ -1,6 +1,7 @@
 ---
-title: Kes kolistas öösel teises toas?
-slug: murelik-surnu
+layout: story-page
+title: Murelik surnu
+description: Kord oli üks tüdruk Irase külas üksinda koju jäänud. Võõrasema oli kodust tol õhtul ära läinud.
 author: rahvajutt
 origin: Saaremaa tondijuttude kogumisvõistluse käigus kirja pannud Kerli Aksalu.
 images: [
@@ -8,14 +9,11 @@ images: [
         src: "murelik-surnu.webp"
     }
 ]
-dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]
 tags: [rahvajutt, surm, Kaarma]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 See lugu leidis aset 50ndate alguses, peale sõda.
 
@@ -32,8 +30,8 @@ Peale matust oli aeg-ajalt olnud kolinat kuulda.
 *See tüdruk oli minu vanaema (Aino Kask, 78-aastane)*
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -47,7 +45,7 @@ Peale matust oli aeg-ajalt olnud kolinat kuulda.
 
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Tondijutt: http://saaremaa.folklore.ee/wordpress/?p=1124
 - Foto: **Merit Karise**

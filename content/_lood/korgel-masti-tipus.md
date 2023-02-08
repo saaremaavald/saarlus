@@ -1,32 +1,29 @@
 ---
+layout: story-page
 title: Jää jumalaga, Mann, Nublu ja Rotterdam?
-slug: korgel-masti-tipus
-author: rahvajutt
-origin:  
+description: Jää jumalaga, Mann, Nublu ja Rotterdam?
+author: rahvalaul, Nublu
 images: [
     {
         src: "korgel-masti-tipus.webp"
     }
 ]
-dictionary: [[a, a]]
 tags: [muusika, Rotterdam, meri, laev, Püha, Muhu ]
 
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
-Laula kaasa Juuli Kaldiga! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/27-korgel-masti-tipus
+Laula kaasa **Juuli Kaldiga!** https://www.folklore.ee/pubte/eraamat/saaremaa/ee/27-korgel-masti-tipus
 
 Või hoopis Nubluga? 
 
-<youtube-wrapper video="https://www.youtube.com/embed/sURb5jyZH7U" />
+<youtube-wrapper video="https://www.youtube.com/embed/sURb5jyZH7U"></youtube-wrapper>
 
 
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -35,7 +32,7 @@ Või hoopis Nubluga?
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Foto: **Merit Karise**, Rotterdam
 

@@ -1,30 +1,24 @@
 ---
+layout: story-page
 title: Kas sa Saaremaa Toivot tead?
-slug: kas-sa-saaremaa-toivot-tead
-author: 
-origin:  
+description: Kas sa Saaremaa Toivot tead?
 images: [
     {
         src: "kalamees-toivo.webp"
     }
 ]
-dictionary: [[a, a]]
 tags: [meri, kala, kalapüük, paat, Nasva ]
-
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Saa tuttavaks - see on Saaremaa Toivo: https://arhiiv.err.ee/vaata/kalamehe-jutud-saaremaa-toivo
 
 
 
-
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-author :author="author" :origin="origin"></story-author> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -41,7 +35,7 @@ Saa tuttavaks - see on Saaremaa Toivo: https://arhiiv.err.ee/vaata/kalamehe-jutu
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Foto: **Merit Karise**
 

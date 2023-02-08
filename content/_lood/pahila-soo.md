@@ -1,6 +1,9 @@
 ---
-slug: pahila-soo
-author: Jutustanud Priidu Vaet Karja kihelkonnast Lõpi külast.
+layout: story-page
+title: Pahila soo
+description: Vanasti ei tohtind ükski naisterahvas palja pääga välja minna.
+author: rahvajutt
+origin: Jutustanud Priidu Vaet Karja kihelkonnast Lõpi külast.
 images: [
     {
         src: "pahila-soo.webp"
@@ -10,9 +13,7 @@ tags: [rahvajutt, murdekeel, haldjad, soo, naine, tammik, Karja, ]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Vanasti ei tohtind ükski naisterahvas palja pääga välja minna. Kui keegi oli läind, siis olnd sellel suur karistus. Aga üks naisterahvas just vihameele pärast läind palja pääga välja ja ise mötelnud, et mis sellest siis ikka on.
 
@@ -21,8 +22,8 @@ Seal ligidal oli olnd suur tammik ja seal olid eland aldjad. Kui aldjad seda oli
 Ja sellest ajast peale ongi see soo Pahila soo nime all.
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -35,7 +36,7 @@ https://www.youtube.com/watch?v=C11DwNkeJ90
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=815
 - Foto: **Jane Vogt**, modell **Pilvi Karu**

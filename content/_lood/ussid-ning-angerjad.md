@@ -1,7 +1,9 @@
 ---
-slug: ussid-ning-angerjad
-author: Rahvajutu jutustanud Mari Liiv Püha kihelkonnast Hõbeniku külast. 
-origin: 
+layout: story-page
+title: Ussid ning angerjad
+description: Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.
+author: rahvajutt
+origin: Rahvajutu jutustanud Mari Liiv Püha kihelkonnast Hõbeniku külast. 
 images: [
     {
         src: "ussid-ning-angerjad.webp",
@@ -13,15 +15,13 @@ tags: [rahvajutt, murdekeel, loodus, uss, angerjas, meri, Püha]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
  
 Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots jäänd merese, teine maale. Pailajupp kukkund sedaviiti pooleks. Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -34,7 +34,7 @@ Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1038
 - Foto: **Merit Karise**

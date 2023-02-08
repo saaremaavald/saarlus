@@ -1,6 +1,7 @@
 ---
+layout: story-page
 title: Miks küla ävis?
-slug: miks-kyla-avis
+description: Äkki süttind küla pölema. Kust tuli alguse saand, ei teadnud keegi.
 author: rahvajutt
 origin: Jutustanud Peeter Hein Vedruka külast Kihelkonna kihelkonnast. 
 images: [
@@ -8,14 +9,11 @@ images: [
         src: "kyla-havimine.webp"
     }
 ]
-dictionary: [[dis, dat]]
 tags: [rahvajutt, murdekeel, Kihelkonna, küla, soo]
 
 ---
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Vanasti eland Vedruka külas väga targad ja usinad inimesed. Köik armastand tööd ja nende keskel valitsend üksmeel. Aga olnd ka niisuguseid mehi, kes uhked ja kuulsuse tagaajajad. Need saatnud küll korda köiksugu mötlematuid tegusid. Teised külad pidand Vedrukast suurt lugu.
 
@@ -31,17 +29,17 @@ Uut küla enam miski önnetus ei taband, sest inimesed parandand meelt. Pölend 
 
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<story-author :author="author" :origin="origin"></story-author>
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - ?
 
-</details-wrapper>
+</details-wrapper> -->
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=862
 - Foto: **Merit Karise** *(foto pole Vedruka külast, lihtsalt üks vana talumaja)*

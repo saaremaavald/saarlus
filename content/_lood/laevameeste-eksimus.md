@@ -1,6 +1,9 @@
 ---
-slug: laevameeste-eksimus
-author: Jutustanud Aleksander Lepp Mustjala kihelkonnast Järise külast. 
+layout: story-page
+title: Laevameeste eksimus
+description: Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees.
+author: rahvajutt
+origin: Jutustanud Aleksander Lepp Mustjala kihelkonnast Järise külast. 
 images: [
     {
         src: "laevameeste-eksimus.webp"
@@ -13,9 +16,7 @@ tags: [rahvajutt, murdekeel, meri, kala, kammeljas, laev, Mustjala]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 
 Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees. Saan veel öigel ajal pidama, et pole kinni joos. Meistel old ee meel suur, et söukse maa olid Paldi merest leind, mida enne keski pole teednd. Kohe taarist Peeterpurki aru viia, et nad selle leind on. Kes teeb, mis nad selle ülesleidmise eest vöisid ää saaja.
@@ -31,8 +32,9 @@ Pärasti tulnd üles, et see olnd üks suur kammlest, kes jäänd soja pääva k
 Niid saab ikka vahest mereääre meiste kääst küsitud, ehk oo keski söukest lesta ka leidnd, millel katel seljas oo.
 
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-author :author="author" :origin="origin"></story-author>
+
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -42,7 +44,7 @@ Niid saab ikka vahest mereääre meiste kääst küsitud, ehk oo keski söukest 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=893
 - Foto: **Eve Rand**

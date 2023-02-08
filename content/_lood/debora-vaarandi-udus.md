@@ -43,7 +43,7 @@ ja huulte serval nukker naeruvina.
 
 
 <story-author :author="author"></story-author>
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 

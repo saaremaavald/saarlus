@@ -1,19 +1,22 @@
 ---
-slug: meeste-ja-naiste-loomine
-author: Jutustanud Villem Tulit Kaarma kihelkonnast Praakli külast. 
+layout: story-page
+title: Meeste ja naiste loomine
+description: Vanasti polla inimesed poolist söuksed olnd kut paes.
+author: rahvajutt
+origin: Jutustanud Villem Tulit Kaarma kihelkonnast Praakli külast. 
 images: [
     {
-        src: mehed-naised_01.webp,
+        src: 01_mehed-naised_grete-pertel.webp,
         zoom: true
     },
     {
-        src: mehed-naised_03.webp,
+        src: 01_mehed-naised_karin-toom.webp, 
+        zoom: true
+    },
+    {
+        src: 01_mehed-naised_tormi-kadak.webp,
         zoom: true,
         bgPos: "0 0"
-    },
-    {
-        src: mehed-naised_02.webp, 
-        zoom: true
     }
 ]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
@@ -24,16 +27,14 @@ tags: [rahvajutt, that]
 <!-- Fotodeks kõigepealt need 3 tööd, ilma pealkirjata. -->
 <!-- Siis kuhugile küsimus: Mis loo need 3 minikoomiksit saare murdes sinu arvates räägivad? -->
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Vanasti polla inimesed poolist söuksed olnd kut paes. Köhu ees olnd söuksed luugid. Äga mees ajand säält sisse, mis täma tahtis. Tööd pole kennegil teha olnd. Vana taevataet näind, et sedati äi lähe.
 Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe ning kui akkand köhtu kogu ömblema, tulnd niidist puudus. Ala jäänd auk. Teistel jäänd niiti üle, need ömblend eesele loti senna ala. Need esimised olid naised ning teised mehed. Naised olla ikka söuksed raiskajad.
 
-<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
+<story-author :author="author" :origin="origin"></story-author>
 
-<story-dictionary :terms="frontmatter.dictionary" />
+<story-dictionary :terms="dictionary"></story-dictionary>
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">
@@ -47,7 +48,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=790]
 - Väikeste ufo-laadsete tegelastega minikoomiks: **Tormi Kadak** Tartu Kunstikoolist

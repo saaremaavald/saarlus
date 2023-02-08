@@ -14,16 +14,14 @@ tags: [muusika, poiss, meri, maa, Valjala ]
 ---
 
 
-<h1 class="story-h1">
-    {{frontmatter.title}}
-</h1>
+# {{$doc.title}}
 
 Laula kaasa: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/16-see-saaremaa
 
 
 
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
-<!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
+<!-- <story-author :author="author" :origin="origin"></story-author> -->
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -32,7 +30,7 @@ Laula kaasa: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/16-see-saaremaa
 </details-wrapper> -->
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Foto: **Merit Karise** Saareküla, Laimjala
 
