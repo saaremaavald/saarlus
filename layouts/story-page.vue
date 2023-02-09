@@ -23,7 +23,7 @@
         </main>
     </div>
     <div class="p-10">
-      <ListOfStories />
+      <!-- <ListOfStories /> -->
     </div>
 </template>
   

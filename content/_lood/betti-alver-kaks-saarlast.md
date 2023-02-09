@@ -50,7 +50,7 @@ su vana soldan mette!” – \
 tal pani jala ette.
 
 
-<story-author :author="author" :origin="origin"></story-author>
+<story-author :author="author"></story-author>
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
 <details-wrapper summary="Mis mõtted tekkisid?">

@@ -16,7 +16,7 @@ export default defineTheme({
     },
     prose: {
         h1: {
-            fontSize: '{typography.fontSize.5xl}',
+            fontSize: '{typography.fontSize.4xl}',
             letterSpacing: '{typography.letterSpacing.tight}',
             lineHeight: '{typography.lead.none}',
             color: '{typography.color.primary.700}'
@@ -31,7 +31,7 @@ export default defineTheme({
         li: {
             margin: '0.5em 0',
             listStylePosition: 'outside'
-        },
+        }
     },
     font: {
         cursive: 'Fuzzy Bubbles, cursive',

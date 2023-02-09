@@ -4,3 +4,14 @@
 @tailwind components;
 @tailwind utilities; 
 
+@layer base {
+    li > a {
+        word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+    }
+}

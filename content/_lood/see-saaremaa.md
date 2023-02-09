@@ -1,6 +1,6 @@
 ---
 title: See Saaremaa
-slug: see-saaremaa
+description: see saaremaa
 author: rahvalaul
 origin:  
 images: [
