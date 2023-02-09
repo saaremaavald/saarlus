@@ -8,9 +8,8 @@
 
 <template>
     <button @click="amActive = !amActive"
-        class="flex items-center px-2 text-xs
-        ring-1 ring-inset bg-gray-50 ring-gray-100 text-gray-500 rounded-lg"
-        :class="amActive ? 'bg-emerald-600 text-gray-50 ring-emerald-600' : ''"
+        class="flex items-center px-2 text-xs rounded-lg ring-1"
+        :class="amActive ? 'bg-primary-600 text-primary-50 ring-primary-700 dark:bg-primary-300 dark:ring-primary-500 dark:text-primary-900' : 'bg-secondary-50 ring-secondary-300 text-secondary-800 dark:bg-secondary-700 dark:ring-secondary-800 dark:text-primary-50'"
     >
         {{ label.toUpperCase() }}
     </button>

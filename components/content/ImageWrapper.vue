@@ -31,7 +31,7 @@
         'background-blend-mode': 'overlay'
     }"
     >
-        <div class="zoomable flex justify-center items-end w-full h-full cursor-pointer hover:bg-saarlus-700/5 transition" v-if="zoom" @click="toggleOpen">
+        <div class="zoomable flex justify-center items-end w-full h-full cursor-pointer hover:bg-primary-700/5 transition" v-if="zoom" @click="toggleOpen">
             <div class="icon flex justify-center items-center w-20 h-20 
                 mb-20
                 rounded-full bg-primary-800 opacity-0 transition">

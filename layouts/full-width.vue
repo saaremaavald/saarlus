@@ -1,6 +1,7 @@
 <template>
-    <div class="py-20 m-auto bg-primary-50 sm:shadow dark:bg-primary-800 sm:rounded">
-        <main class="px-4 mx-auto prose sm:px-8 lg:px-16 prose-gray dark:prose-invert">
+    <div class="py-20 m-auto bg-white dark:bg-secondary-900">
+        <main class="px-4 mx-auto  sm:px-8 lg:px-16 
+          prose prose-gray dark:prose-invert">
             <slot>
                 <h1 class="text-4xl">
                     Lehte ei leitud

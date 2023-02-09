@@ -6,7 +6,7 @@
 </script>
 
 <template>
-    <div class="m-auto bg-white sm:shadow dark:bg-primary-800 sm:rounded">
+    <div class="m-auto bg-white dark:bg-secondary-900">
         <section class="flex items-stretch shadow-md">
             <template v-for="(img, i) in data.images" :key="`img${i}`">
                 <ImageWrapper
@@ -14,7 +14,7 @@
                 />
             </template>
         </section>
-        <main class="py-20 max-w-4xl px-4 mx-auto prose sm:px-8 prose-gray dark:prose-invert">
+        <main class="py-20 max-w-4xl px-4 mx-auto sm:px-8 prose  prose-gray dark:prose-invert">
             <slot>
                 <h1 class="text-2xl">
                     Page not found

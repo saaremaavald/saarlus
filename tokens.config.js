@@ -21,6 +21,9 @@ export default defineTheme({
             lineHeight: '{typography.lead.none}',
             color: '{typography.color.primary.700}'
         },
+        a: {
+            color: '{typography.color.primary.700}'
+        },
         p: {
             fontSize: '{typography.fontSize.lg}',
             lineHeight: '{typography.lead.relaxed}',
@@ -31,6 +34,46 @@ export default defineTheme({
         li: {
             margin: '0.5em 0',
             listStylePosition: 'outside'
+        }
+    },
+    color: {
+        white: '#fafafa',
+        black: '#151511',
+        primary: {
+            50: "#FBFEFB",
+            100: "#F7FCF8",
+            200: "#E4F4EA",
+            300: "#C6E5D5",
+            400: "#A0D0BD",
+            500: "#76B5A2",
+            600: "#509484",
+            700: "#316F64",
+            800: "#1B4741",
+            900: "#0B211E"
+        },
+        secondary: {
+          50: '{color.gray.50}',
+          100: '{color.gray.100}',
+          200: '{color.gray.200}',
+          300: '{color.gray.300}',
+          400: '{color.gray.400}',
+          500: '{color.gray.500}',
+          600: '{color.gray.600}',
+          700: '{color.gray.700}',
+          800: '{color.gray.800}',
+          900: '{color.gray.900}'
+        },
+        gray: {
+            50: "#FEF9F8",
+            100: "#FCF8F6",
+            200: "#F4EFED",
+            300: "#E5E0DE",
+            400: "#D0CCC9",
+            500: "#B5B1AE",
+            600: "#94918F",
+            700: "#6F6D6B",
+            800: "#474645",
+            900: "#212020"
         }
     },
     font: {

@@ -4,9 +4,10 @@ const { navigation } = useContent()
 </script>
 
 <template>
-  <div class="flex justify-between w-full px-4 py-4 mx-auto sm:px-8">
+  <div class="flex justify-between w-full px-4 py-4 mx-auto sm:px-8
+    ">
     <!-- Navigation -->
-    <div class="w-full flex items-center justify-between gap-6 text-saarlus-700 dark:text-primary-200">
+    <div class="w-full flex items-center justify-between gap-6 text-primary-700 dark:text-primary-400">
       <div>
         <NuxtLink to="/">
           <span class="font-Special font-bold text-2xl tracking-tight leading-none">SAARLUS</span>
