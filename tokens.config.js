@@ -16,9 +16,10 @@ export default defineTheme({
     },
     prose: {
         h1: {
-            fontSize: '{typography.fontSize.4xl}',
+            fontSize: '{typography.fontSize.5xl}',
             letterSpacing: '{typography.letterSpacing.tight}',
             lineHeight: '{typography.lead.none}',
+            fontWeight: 'normal',
             color: '{typography.color.primary.700}'
         },
         a: {

@@ -27,12 +27,18 @@
     </div>
 </template>
   
-  <style>
-  /* Customize headers to remove default underline */
+<style>
+
+    .prose h1 {
+        @apply font-normal;
+    }
+    .prose h1 a {
+        @apply text-secondary-800 dark:text-primary-200;
+    }
   .prose h2 a, .prose h3 a {
     @apply no-underline;
   }
   .prose h2 a:hover, .prose h3 a:hover {
     @apply border-b border-neutral-600 dark:border-neutral-300;
   }
-  </style>
+</style>

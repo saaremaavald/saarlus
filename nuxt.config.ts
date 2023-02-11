@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     'nuxt-icon'
   ],
+  // ssr: false,
   extends: ['content-wind'],
   content: {
     documentDriven: true,

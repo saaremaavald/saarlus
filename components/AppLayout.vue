@@ -3,13 +3,18 @@ const { cover } = useAppConfig()
 </script>
 
 <template>
-  <div class="sm:pt-6 sm:pb-10">
+  <div class="grid grid-cols-[6rem_1fr]">
     <Html lang="et" />
     <Meta property="og:image" :content="cover" />
     <!-- <Meta name="twitter:card" content="summary_large_image" /> -->
-    <AppLoadingBar />
-    <AppNavbar />
-    <slot />
+    
+    <side-bar></side-bar>
+    <section class="w-full">
+      <AppLoadingBar />
+      <slot />
+      <AppNavbar class="fixed w-full top-0 z-0 bg-white shadow
+        dark:bg-secondary-900" />
+    </section>
   </div>
 </template>
 

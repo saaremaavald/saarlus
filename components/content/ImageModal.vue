@@ -20,7 +20,7 @@
 
 <template>
 
-<div class="fixed h-screen w-screen z-110 inset-0 overflow-y-auto" v-if="isOpen" >
+<div class="fixed h-screen w-screen z-50 inset-0 overflow-y-auto" v-if="isOpen" >
     <div class="absolute w-full h-full inset-0 bg-black opacity-75" @click="toggleOpen"></div>
     <div class="flex items-center justify-center min-h-screen py-4 px-4 ">
         <div class=" overflow-hidden transform transition-all " role="dialog" aria-modal="true" aria-labelledby="modal-headline">
@@ -34,9 +34,7 @@
         </div>
         
         <div class="absolute right-8 top-4">
-            <button class="bg-white border-transparent p-2 rounded-full shadow dark:text-primary-800" @click="toggleOpen">
-                <Icon name="icon-park-outline:close-one" size="40" />
-            </button>
+            <CloseButton @click="toggleOpen" />
         </div>
     </div>
 </div>
