@@ -163,7 +163,7 @@
                 </g>
                 <!-- invisible click area -->
                 <g transform="translate(50,50)">
-                    <circle r="20" @click="compassNeedleClick" style="cursor:pointer" fill="hsla(0,0%,100%,0)" ></circle>
+                    <circle r="12" @click="compassNeedleClick" style="cursor:pointer" fill="hsla(0,0%,100%,0)" ></circle>
                 </g>
                 <!-- Story-points, generated for each story -->
                 <circle
@@ -179,10 +179,11 @@
                 </g><!-- filtered container ends -->
             </svg>
             <!-- <story-tooltip :storyIdx="activeStory" /> -->
-            <NuxtLink :to="data[activeStory]._path" class="absolute top-2/3 left-1/4 w-1/2 -mt-12
-            text-lg text-center leading-tight font-Special text-primary-800
+            <NuxtLink :to="data[activeStory]._path" class="absolute top-2/3 left-1/4 w-1/2 -mt-6
+            text-lg text-center leading-tight font-Special
             cursor-pointer">
-                <p class="bg-white p-2 rounded border ">{{ data[activeStory].description }}</p>
+                <p class="p-2 rounded border 
+                bg-white text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
                 <span class="bg-primary-700 text-primary-50 px-3 py-1 rounded">LOE</span>
         </NuxtLink>
         </div>

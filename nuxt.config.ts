@@ -12,5 +12,8 @@ export default defineNuxtConfig({
     markdown: {
       anchorLinks: {depth: 2, exclude: [1,2]}
     }
+  },
+  app: {
+    baseURL: '/saarlus/',
   }
 })
