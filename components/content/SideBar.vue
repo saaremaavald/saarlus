@@ -11,7 +11,6 @@
     const toggleList = () => {
         showStories.value = !showStories.value;
     }
-    console.log(saarlus.value);
 
 </script>
 <template>

@@ -44,13 +44,16 @@
     const { data } = await useAsyncData('stories', async () => {
         return queryContent('_lood').only(['description','_path']).find();
     });
+    // const saarlus = storiesData();
+    // console.log("saarlus",data.value);
     const storiesLength = data.value.length;
+
     // animation parameters
     const rotationStep = 360/storiesLength;
     const rotationEnd = ref(0);
     const rotationValue = ref(0);
     let currentAngle = 0;
-    let activeStory = ref(0);
+    let activeStory = ref( 0 );
 
     const myPoints = ref(circlepoints(storiesLength, 47));
     const myArc = ref( makeArc(0, 0, 3, 0, 270) );
@@ -88,12 +91,13 @@
     }
     // Vue lifecycle hooks
     onMounted(() => {
-            animation = anime.timeline({
+        animation = anime.timeline({
             easing: "cubicBezier(0.645, 0.045, 0.355, 1.000)",
             direction: "normal",
             duration: 2000,
             autoplay: false
         });
+        activeStory.value = Math.floor(Math.random()*44);
     });
     watch(activeStory, (n) => {
         compassNeedleTurn();
@@ -105,7 +109,7 @@
     <section class="mx-auto 
     flex flex-col justify-around 
     min-h-[80vh] gap-0
-    lg:flex-row lg:justify-center lg:gap-10 lg:max-w-6xl">
+    lg:flex-row lg:justify-center lg:gap-[5vw] lg:max-w-6xl">
         <div class="flex flex-col justify-center order-2 grow text-center 
         lg:order-1 lg:text-left lg:items-start">
             <h1 class="font-Special font-bold text-primary-700 text-5xl leading-[0.75] tracking-tighter 
@@ -159,7 +163,7 @@
                 </g>
                 <!-- invisible click area -->
                 <g transform="translate(50,50)">
-                    <circle r="40" @click="compassNeedleClick" style="cursor:pointer" fill="hsla(0,0%,100%,0)" ></circle>
+                    <circle r="20" @click="compassNeedleClick" style="cursor:pointer" fill="hsla(0,0%,100%,0)" ></circle>
                 </g>
                 <!-- Story-points, generated for each story -->
                 <circle
@@ -175,8 +179,13 @@
                 </g><!-- filtered container ends -->
             </svg>
             <!-- <story-tooltip :storyIdx="activeStory" /> -->
+            <NuxtLink :to="data[activeStory]._path" class="absolute top-2/3 left-1/4 w-1/2 -mt-12
+            text-lg text-center leading-tight font-Special text-primary-800
+            cursor-pointer">
+                <p class="bg-white p-2 rounded border ">{{ data[activeStory].description }}</p>
+                <span class="bg-primary-700 text-primary-50 px-3 py-1 rounded">LOE</span>
+        </NuxtLink>
         </div>
-
     </section>
     
 </template>
