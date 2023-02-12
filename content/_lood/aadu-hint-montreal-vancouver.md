@@ -1,14 +1,13 @@
 ---
 layout: story-page
-title: 'Montreal-Vancouver'
-description: 'Nagu arstid kinnitavad, etendavat merehaiguse puhul peamist osa psüühiline tegur - kartus.'
+title: Montreal-Vancouver
+description: Nagu arstid kinnitavad, etendavat merehaiguse puhul peamist osa psüühiline tegur - kartus.
 author: Aadu Hint
 images: [
     {
         src: "aadu-hint-montreal-vancouver.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: [Aadu]
 ---
 
@@ -75,22 +74,18 @@ Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud�
 
 
 
-
-<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
-
-
-<details-wrapper summary="Mis mõtted tekkisid?">
+::details-wrapper{summary="Mis mõtted tekkisid?"}
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
 - *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”*<br>Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid? Kas leiad jutustuses veel häid mõtteteri? Milliseid?
 
-</details-wrapper>
+::
 
 
-<details-wrapper summary="Allikad" icon="icon-park-outline:document-folder">
+::details-wrapper{summary="Allikad",icon="icon-park-outline:document-folder"}
 
 - **Aadu Hindi** elust ja loomingust saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=390&page_start=&table=Persons
 - Jutustus “Vaikne meri, laev ja linnud” kogumikust “Meri, mehed, laev ja linnud”, koostaja **Endel Priidel**, Tallinn “Eesti raamat”, 1985.
 - Foto: **Merit Karise**, Kanada linna Vancouveri (mitte Montreali) rannik
 
-</details-wrapper>
+::

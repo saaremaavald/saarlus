@@ -6,6 +6,9 @@ export default defineNuxtConfig({
     'nuxt-icon'
   ],
   // ssr: false,
+  experimental : {
+    payloadExtraction : false
+  },
   extends: ['content-wind'],
   content: {
     documentDriven: true,

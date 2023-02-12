@@ -1,14 +1,13 @@
 ---
 layout: story-page
-description: 'Pean lõpuks mõistma, et ma olen keegi'
+description: Pean lõpuks mõistma, et ma olen keegi
 author: Aira Kaal
-origin: ""
 images: [
     {
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: [luule, aira kaal, kodanik, kena, kirjanik, naine]
+tags: [luule, aira kaal, kirjanik, naine]
 ---
 
 # {{ $doc.title }}
@@ -25,8 +24,7 @@ ei tule pähe kellelegi enam? \
 See aga oleks siiski kõige kenam.
 
 
-:story-author{:author="author" :origin="origin"}
-<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
+:story-author{:author="author"}
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
