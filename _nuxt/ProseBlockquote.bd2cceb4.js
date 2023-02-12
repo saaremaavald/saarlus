@@ -1,0 +1,1 @@
+/* empty css                            */import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{M as t,N as r,V as c}from"./runtime-core.esm-bundler.8a841934.js";const a={};function n(e,s){return t(),r("blockquote",null,[c(e.$slots,"default",{},void 0,!0)])}const d=o(a,[["render",n],["__scopeId","data-v-abe2ca1f"]]);export{d as default};
