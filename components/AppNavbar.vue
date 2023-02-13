@@ -15,6 +15,7 @@ console.log("navigation",navigation)
         </NuxtLink>
       </div>
       <div class="flex gap-6">
+        <NuxtLink to="/lood" class="text-white/0">.</NuxtLink>
         <NuxtLink to="/projektist">Projektist</NuxtLink>
         <!-- <NuxtLink
           v-for="link of navigation"

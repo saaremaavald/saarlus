@@ -183,7 +183,7 @@
             text-lg text-center leading-tight font-Special
             cursor-pointer">
                 <p class="p-2 rounded border 
-                bg-white text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
+                bg-white/70 text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
                 <span class="bg-primary-700 text-primary-50 px-3 py-1 rounded">LOE</span>
         </NuxtLink>
         </div>
