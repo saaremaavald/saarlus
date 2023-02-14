@@ -23,4 +23,7 @@ const { cover } = useAppConfig()
 body {
   @apply bg-white dark:bg-secondary-900;
 }
+/*.prose a {
+  word-break: break-all;
+}*/
 </style>

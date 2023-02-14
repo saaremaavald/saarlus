@@ -22,8 +22,25 @@ export default defineTheme({
             fontWeight: 'normal',
             color: '{typography.color.primary.700}'
         },
-        a: {
+        h2: {
+            letterSpacing: '{typography.letterSpacing.tight}',
+            lineHeight: '{typography.lead.tight}',
+            fontWeight: 'normal',
             color: '{typography.color.primary.700}'
+        },
+        h3: {
+            letterSpacing: '{typography.letterSpacing.tight}',
+            lineHeight: '{typography.lead.tight}',
+            color: '{typography.color.primary.700}'
+        },
+        h4: {
+            letterSpacing: '{typography.letterSpacing.tight}',
+            lineHeight: '{typography.lead.tight}',
+            color: '{typography.color.primary.700}'
+        },
+        a: {
+            color: '{typography.color.primary.700}',
+            wordBreak: 'break-all'
         },
         p: {
             fontSize: '{typography.fontSize.lg}',
@@ -35,6 +52,23 @@ export default defineTheme({
         li: {
             margin: '0.5em 0',
             listStylePosition: 'outside'
+        },
+        blockquote: {
+            //margin: '{typography.verticalMargin.base} 0',
+            //padding: '0 0 0 24px',
+            //quotes: "'201C' '201D' '2018' '2019'",
+            color: {
+                initial: '{typography.color.primary.700}',
+                dark: '{typography.color.primary.300}'
+            },
+            border: {
+                width: '4px',
+                style: 'solid',
+                color: {
+                    initial: '{typography.color.secondary.300}',
+                    dark: '{typography.color.secondary.700}'
+                }
+            }
         }
     },
     color: {
