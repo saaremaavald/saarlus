@@ -108,26 +108,28 @@
 <template>
     <section class="mx-auto 
     flex flex-col justify-around 
-    min-h-[80vh] gap-0
-    lg:flex-row lg:justify-center lg:gap-[5vw] lg:max-w-6xl">
-        <div class="flex flex-col justify-center order-2 grow text-center 
-        lg:order-1 lg:text-left lg:items-start">
-            <h1 class="font-Special font-bold text-primary-700 text-5xl leading-[0.75] tracking-tighter 
-            lg:text-[7vw] lg:leading-[0.75]
+    min-h-[95vh] gap-0 
+    lg:flex-row lg:min-h-[80vh] lg:justify-center lg:items-center lg:gap-[5vw] lg:max-w-6xl">
+        <div class="flex flex-col justify-center gap-6 order-2 grow text-center 
+        lg:order-1 lg:text-left lg:items-start lg:gap-12">
+            <h1 class="font-Special text-primary-700 text-6xl leading-[0.75] tracking-tight 
+            lg:text-8xl lg:leading-[0.65]
+            xl:text-[8rem] xl:leading-[0.65]
             dark:text-primary-400">
                 Saarluse kompass
             </h1>
-            <h2 class="mt-8 font-Special text-secondary-800 text-4xl uppercase
-            dark:text-secondary-500">Mis see veel on?</h2>
-            <p class="font-Normal mt-2 text-secondary-900
+            <!-- <h2 class="mt-8 font-Special text-secondary-800 text-4xl uppercase
+            dark:text-secondary-500">Mis see veel on?</h2> -->
+            <p class="font-Normal text-secondary-900
             dark:text-secondary-400">Siit leiad sa hulga materjale, mis aitavad sul saarlust paremini mõista. Alustuseks võid lihtsalt kompassil klikkida või valida <a class="text-primary-600 cursor-pointer dark:text-rimary-400" @click="toggleStories">sobiv lugu nimekirjast</a></p>
 
         </div>
         
-        <div class="relative flex grow-0 justify-center items-center order-1 lg:order-2">
+        <div class="relative flex flex-col grow-0 justify-center items-center order-1 
+            lg:order-2">
             <svg viewBox="0 0 100 100" 
-            class="h-[70vmin] w-[70vmin]
-            lg:h-[60vmin] lg:w-[60vmin]">
+            class="h-[65vmin] w-[65vmin]
+            lg:h-[55vmin] lg:w-[55vmin]">
                 <filter id="displacementFilter">
                     <feTurbulence
                     type="turbulence"
@@ -179,13 +181,14 @@
                 </g><!-- filtered container ends -->
             </svg>
             <!-- <story-tooltip :storyIdx="activeStory" /> -->
-            <NuxtLink :to="data[activeStory]._path" class="absolute top-2/3 left-1/4 w-1/2 -mt-6
-            text-lg text-center leading-tight font-Special
-            cursor-pointer">
-                <p class="p-2 rounded border 
+            <NuxtLink :to="data[activeStory]._path" class="static top-1/2 left-1/6 w-full 
+            flex flex-col justify-center items-center mt-2
+            text-xl text-center leading-none font-Special cursor-pointer
+                lg:absolute lg:w-4/6 lg:mt-20">
+                <p class="p-2 rounded border
                 bg-white/70 text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
-                <span class="bg-primary-700 text-primary-50 px-3 py-1 rounded">LOE</span>
-        </NuxtLink>
+                <button class="text-xl bg-primary-700 text-primary-50 px-4 py-2 -mt-1 rounded">LOE</button>
+            </NuxtLink>
         </div>
     </section>
     

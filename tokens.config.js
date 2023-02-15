@@ -31,11 +31,13 @@ export default defineTheme({
         h3: {
             letterSpacing: '{typography.letterSpacing.tight}',
             lineHeight: '{typography.lead.tight}',
+            fontWeight: 'normal',
             color: '{typography.color.primary.700}'
         },
         h4: {
             letterSpacing: '{typography.letterSpacing.tight}',
             lineHeight: '{typography.lead.tight}',
+            fontWeight: 'normal',
             color: '{typography.color.primary.700}'
         },
         a: {
@@ -112,7 +114,7 @@ export default defineTheme({
         }
     },
     font: {
-        cursive: 'Fuzzy Bubbles, cursive',
+        cursive: 'Mansalva, cursive',
         // sans: 'Inter, sans-serif',
         serif: 'Merriweather, ui-serif, Georgia, serif',
         // mono: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace'

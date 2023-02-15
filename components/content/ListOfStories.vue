@@ -60,8 +60,10 @@
             </template>
         </div>
 
-        <div class="grid gap-4 mt-10 
-            sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center">
+        <div class="grid gap-4 mt-10 items-center
+            sm:grid-cols-2 
+            md:grid-cols-3 md:gap-6
+            lg:grid-cols-4 lg:gap-8">
             <template v-for="(story, i) in data" :key="`story${i}`">
                 <NuxtLink :to="story._path" 
                     v-show="activeTags.length == 0 || story.tags.some(item => activeTags.includes(item))" @click="closeList">
@@ -71,7 +73,7 @@
                         :class="path == story._path ? 'bg-yellow-100 dark:bg-primary-400 dark:text-primary-800' : ''"
                         :style="`transform:rotate(${-3+Math.random()*6}deg)`"
                     >
-                        <p class="font-Special text-xl leading-tight text-secondary-800 dark:text-secondary-300" 
+                        <p class="font-Special text-2xl leading-tight text-secondary-800 dark:text-secondary-300" 
                         :class="path == story._path ? 'dark:text-primary-900' : ''">
                             {{ story.description }}
                         </p>

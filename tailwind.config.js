@@ -4,7 +4,7 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          Special: ["Fuzzy Bubbles", "cursive"],
+          Special: ["Mansalva", "cursive"],
           Normal: ["Merriweather", "serif"],
         },
         colors: {

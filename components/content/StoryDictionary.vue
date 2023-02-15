@@ -10,7 +10,7 @@
     <div class="my-8">
         <div class="flex items-baseline gap-4 mb-4 text-secondary-800 dark:text-secondary-200">
             <Icon name="icon-park-outline:text-message" class="text-4xl" />
-            <h3 class="text-2xl font-Special leading-none tracking-tight font-bold">Sõnaseletused:</h3>
+            <h3 class="text-3xl font-Special leading-none tracking-tight">Sõnaseletused:</h3>
         </div>    
         <div class="pl-4 mt-4 leading-normal text-md border-l border-grey dark:border-l-secondary-600">
             <ul class="list-disc list-inside">

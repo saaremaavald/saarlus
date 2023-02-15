@@ -15,7 +15,7 @@
         <Icon name="icon-park-outline:peoples" class="text-4xl" />
         <div>
             <p v-if="author" class="font-Normal">
-                <span class="text-2xl font-bold font-Special tracking-tight">Autor</span> : <span class="italic text-xl">{{author}}</span><br/>
+                <span class="text-3xl font-Special tracking-tight">Autor</span> : <span class="italic text-xl">{{author}}</span><br/>
                 <span v-if="origin" class="italic">{{origin}}</span>
             </p>
         </div> 
