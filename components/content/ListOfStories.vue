@@ -48,9 +48,9 @@
 </script>
 
 <template>
-    <section class="min-h-screen bg-white p-10 dark:bg-secondary-900">
+    <section class="min-h-screen bg-primary-100 bg-[url('/images/bg-map.svg')] bg-[length:640px_640px] p-10 dark:bg-secondary-900">
 
-        <h1 class="mb-4 font-Special text-5xl text-secondary-800 font-bold
+        <h1 class="mb-4 font-Special text-5xl text-secondary-800 
             dark:text-primary-200">Lugude nimekiri</h1>
         
         <IconButton icon="icon-park-outline:tag-one" label="SILDID" @click="toggleTagPanel" />

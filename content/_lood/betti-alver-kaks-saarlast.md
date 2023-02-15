@@ -56,7 +56,7 @@ tal pani jala ette.
 <details-wrapper summary="Mis mõtted tekkisid?">
 
 - Ballaadi esitab näitleja Aarne Üksküla: https://arhiiv.err.ee/vaata/15207
-- Balladi sünniloo saad teada siit: (link taustaloole, kus Betti Alver räägib proua Talvikuga)
+- Ballaadi sünniloo <a href="betti-alver-kaks-saarlast-saamislugu">saad teada siit</a>
 - Mida tähendab sinu jaoks sõprus? Milles see väljendub, et keegi on su sõber ehk millist inimest nimetad oma sõbraks?
 - Kuidas leidsid oma kõige esimese sõbra? Kas olete sõbrad siiani?
 - Kui suur osa su suhtlusest sõpradega toimub sotsiaalmeedias ja kui suur osa vahetult, näost-näkku?

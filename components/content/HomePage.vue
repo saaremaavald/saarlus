@@ -186,7 +186,7 @@
             text-xl text-center leading-none font-Special cursor-pointer
                 lg:absolute lg:w-4/6 lg:mt-20">
                 <p class="p-2 rounded border
-                bg-white/70 text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
+                bg-white/90 text-primary-800 dark:bg-secondary-900 dark:text-primary-200 dark:border-secondary-800">{{ data[activeStory].description }}</p>
                 <button class="text-xl bg-primary-700 text-primary-50 px-4 py-2 -mt-1 rounded">LOE</button>
             </NuxtLink>
         </div>
