@@ -5,7 +5,7 @@ author: Gunnar Usin
 origin: "Intervjuu: “Huvijuht Arti Allmägi käib Soegininal hülgeid vaatlemas,” Meie Maa, 10.märts 2022.  Artikkel siin lühendatult."
 images: [
     {
-        src: "arti-allmagi.webp"
+        src: "hylgelaul.webp"
     }
 ]
 tags: [intervjuu, Arti Allmägi]
