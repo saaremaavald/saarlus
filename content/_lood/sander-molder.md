@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Just see lainetus ja lainete rütm, see kõik kuidagi nagu moel või teisel hiilib väga tihti mu muusikasse. Ka tuulevihin kõrkjates.
+description: Just see lainetus ja lainete rütm, see kõik kuidagi hiilib väga tihti mu muusikasse.
 author: Erki Berends
 origin: "Intervjuu: “Helilooja Sander Mölder: ennekõike olen saarlane”, Saarte Hääl, 3. märts 2021."
 images: [

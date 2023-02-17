@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Elad saarel, vesi on ümber ja piirab. See annab ehk tõuke, et tahad välja murda. Teisest küljest on see saar nagu mingi magnet, mis sind sinna tõmbab.
+description: Elad saarel, vesi on ümber ja piirab. Teisest küljest on see saar nagu mingi magnet.
 author: Erki Berends
 origin: "Intervjuu: “Karol Kuntsel: Saaremaa muudab mind heas mõttes metsikuks”, Saarte Hääl, 
 15. märts 2022."

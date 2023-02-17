@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Järved ja jõed
-description: Mönda kohta puhund ta nii palju vett, et see ei vaibund enam tagasi merre, vaid jäi maale peatuma.
+description: Mönda kohta puhund ta nii palju vett, et see ei vaibund enam tagasi merre.
 author: rahvajutt
 origin: Kirja pannud Amanda Rand oma vanaemalt Kaarma kihelkonnast Tamsalu külast.
 images: [

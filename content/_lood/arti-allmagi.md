@@ -1,8 +1,8 @@
 ---
 layout: story-page
-description: Kas olete Panga panga all jalutanud? Kas ka talvel? Kas Harilaiul maasse uppuvat paati olete näinud? Kas Soeginina pangal hülgeid olete vaatamas käinud?
+description: Kas olete Panga panga all jalutanud? Kas ka talvel? Kas Soeginina pangal hülgeid olete vaatamas käinud?
 author: Gunnar Usin
-origin: "Intervjuu: “Huvijuht Arti Allmägi käib Soegininal hülgeid vaatlemas,” Meie Maa, 10.märts 2022.  Artikkel siin lühendatult."
+origin: "Intervjuu: “Huvijuht Arti Allmägi käib Soegininal hülgeid vaatlemas,” Meie Maa, 10.märts 2022.  Intervjuu siin lühendatult."
 images: [
     {
         src: "hylgelaul.webp"

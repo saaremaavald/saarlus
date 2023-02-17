@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Preedik
-description: Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim...
+description: Jääräim, rohuräim, õunapuuõieräim, koerputkeräim...
 author: Jüri Tuulik
 images: [
     {

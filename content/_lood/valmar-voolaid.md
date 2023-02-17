@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Saaremaa ja Muhumaa on risti ja põiki läbi sõidetud, naljaga pooleks saan öelda, et olen Saaremaal rohkem ringi sõitnud kui saarlased ise.
+description: Naljaga pooleks saan öelda, et olen Saaremaal rohkem ringi sõitnud kui saarlased ise.
 author: Vilma Rauniste
 origin: "Intervjuu: Vilma Rauniste, “Valmar Voolaid – fotograaf, disainer, pedagoog”, Meie Maa, 17.veebruar 2022. Intervjuu siin lühendatult."
 images: [

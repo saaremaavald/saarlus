@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Ma neiman mõrvarile ta oma relvaga
-description: Ma neiman mõrvarile ta oma relvaga
+description: Ma neiman mõrvarile ta oma relvaga!
 author: Andres Ehin 
 origin: Kuressaares 08. dets. 2005 Johannes Aaviku, suure keeleuuendaja 125. sünniaastapäeval
 images: [

@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Aitame osakese Saaremaast ja siinsete inimeste panusega valmistatud elektroonikast NASA abil Kuule saata!
+description: Aitame osakese Saaremaast NASA abil Kuule saata!
 author: Sirli Tooming
 origin: "Intervjuu:  “Greg Grace’i teekond inglite linnast Kuressaarde”,  7. oktoober 2021, Meie Maa. [14.11.22 lahkus Greg Grace InCapi tegevjuhi kohalt - MK] Intervjuu siin lühendatult."
 images: [

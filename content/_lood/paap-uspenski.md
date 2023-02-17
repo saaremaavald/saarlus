@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Tead, kriis kriisiks, tegelt elu Saaremaa vallas ongi üks suur takistus. Siin ikka iga päev korjad kaikaid kodaratest, aga oi kuidas öpetab!
+description: Elu Saaremaa vallas ongi üks suur takistus. Siin ikka iga päev korjad kaikaid kodaratest, aga oi kuidas öpetab!
 author: Maia Tammjärv
 origin: "Müürileht: https://www.muurileht.ee/paap-uspenski-mina-olengi-suvi/"
 images: [

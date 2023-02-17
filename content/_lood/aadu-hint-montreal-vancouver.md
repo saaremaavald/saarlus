@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Montreal-Vancouver
-description: Nagu arstid kinnitavad, etendavat merehaiguse puhul peamist osa psüühiline tegur - kartus.
+description: Merehaiguse puhul etendavat peamist osa psüühiline tegur - kartus.
 author: Aadu Hint
 images: [
     {

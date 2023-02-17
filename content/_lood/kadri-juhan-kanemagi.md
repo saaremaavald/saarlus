@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Kui saarele tagasi tulime, oli meil selline tunne ja seltskond inimesi, et tantsu me jätta ei taha. Rahvuslike sugemetaga tants võib olla väga äge!
+description: Kui saarele tagasi tulime, oli meil selline tunne ja seltskond inimesi, et tantsu me jätta ei taha.
 author: Vilma Rauniste
 origin: "Interjuu: “Juhan ja Kadri Kanemäe elud sidus ühte rahvatants”, Meie Maa, 2. september 2021. Intervjuu siin lühendatult."
 images: [

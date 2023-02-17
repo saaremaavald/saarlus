@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Murelik surnu
-description: Kord oli üks tüdruk Irase külas üksinda koju jäänud. Võõrasema oli kodust tol õhtul ära läinud.
+description: Kord oli üks tüdruk Irase külas üksinda koju jäänud.
 author: rahvajutt
 origin: Saaremaa tondijuttude kogumisvõistluse käigus kirja pannud Kerli Aksalu.
 images: [

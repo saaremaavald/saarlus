@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Saaremaa on strateegiliselt kogu aeg oluline olnud. Gotland, Saaremaa, Hiiumaa ja Ahvenamaa – kui ühte nendest kontrollid, siis suudad kontrollida suurt osa ülejäänud Läänemerest.
+description: Gotland, Saaremaa, Hiiumaa ja Ahvenamaa – kui ühte nendest kontrollid, siis suudad kontrollida suurt osa ülejäänud Läänemerest.
 author: Erki Berends
 origin: "Intervjuu: “Vahur Karus: sõjaväelase ametis tuleb käsu peale tappa või surra”, Saarte Hääl, 14. veebruar 2022."
 images: [

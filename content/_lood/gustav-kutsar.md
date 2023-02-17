@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Kuna kõige noorem tütar sündis Saaremaal, siis tahtsime saare nime. Olin kirikuraamatus näinud sellist nime nagu Ingel.
+description: Kuna kõige noorem tütar sündis Saaremaal, siis tahtsime saare nime.
 author: Ivika L. Nuut
 origin: "Intervjuu: “Gustav Kutsar: kõige tähtsam on leida meelerahu”, Meie Maa, 23. detsember 2021."
 images: [

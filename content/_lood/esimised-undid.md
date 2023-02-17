@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Esimised undid
-description: Unt töuse maast üles, murra kurat ää
+description: Unt töuse maast üles, murra kurat ää!
 author: rahvajutt
 origin: Kirja pannud Karl Gustav Jansen Karja kihelkonnas.
 images: [

@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Lahkumise laul
-description: Mo süda tilgub verd, kui lahku Orisaarest
+description: Mo süda tilgub verd, kui lahku Orisaarest.
 author: Aira Kaal
 images: [
     {

@@ -1,8 +1,8 @@
 ---
 layout: story-page
-title: Oma saar
+title: 
 description: Oma saar. Roheline rätik. Sooria-Mooriamaa!
-author: Aira Kaal
+author: Aira Kaal, saarlasest luuletaja, prosaist ja publitsist
 origin:  
 images: [
     {

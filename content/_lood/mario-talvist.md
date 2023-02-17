@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Keegi peab täitma seda rolli, mida veel viiskümmend aastat tagasi tegid kümned tuhanded inimesed – hoidma elu ja loodust maal, karjatama mereääri, et lindudel, loomadel, putukatel ja ka inimestel oleks kohta, kus olla ja elada.
+description: Keegi peab täitma seda rolli, mida veel viiskümmend aastat tagasi tegid kümned tuhanded inimesed – hoidma elu ja loodust maal.
 author: Vilma Rauniste
 origin: "Intervjuu: “Mario Talvist – mees, kes seisab parema maailma eest”, Meie Maa, 11. november 2021. Intervjuu siin lühendatult."
 images: [

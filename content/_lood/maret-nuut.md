@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Sellest lapseeas käidud Saaremaa reisist jäi mulle kindel soov, et ükskord tulen Saaremaale elama. Ühest korrast piisas.
+description: Sellest lapseea reisist jäi kindel soov, et ükskord tulen Saaremaale elama. Ühest korrast piisas.
 author: Vilma Rauniste
 origin: "Intervjuu: “Maret Nuut: meie kõik loomad on võetud teraapia eesmärgil”, Meie Maa, 4. märts 2022. Intervjuu siin lühendatult."
 images: [

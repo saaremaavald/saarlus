@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Udus
-description: Kruus tasa krigisemas kanna all, nii hulgun kuluhallis rannapargis, suud silmi uhub niiske uduvall.
+description: Kruus tasa krigisemas kanna all, nii hulgun kuluhallis rannapargis.
 author: Debora Vaarandi
 images: [
     {

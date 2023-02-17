@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Saaremaal on minu jaoks eriline kergus, mis saabub juba praami peal. Alati lähen seal praami peal korraks ka välja, lasen argipäeval endast minna ja randun teise inimesena.
+description: Alati lähen praami peal korraks välja, lasen argipäeval endast minna ja randun teise inimesena.
 author: Erki Berends
 origin: "Intervjuu: “Maria Hansar: saarlastena teame üksteist detailideni”, Saarte Hääl, 3. aprill 2022."
 images: [

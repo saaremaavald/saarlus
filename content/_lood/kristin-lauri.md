@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Minu kohta naljatamisi öeldaksegi, et olen selles majas üles kasvanud ja enam ära ei ole läinud.
+description: Minu kohta naljatamisi öeldaksegi, et olen selles majas üles kasvanud ja enam ära pole läinud.
 author: Anneli Tarkmeel
 origin: "Intervjuu: “Kristin Lauri: iga noor inimene ei vaja päästmist”, Meie Maa, 26. veebruar 2021. Intervjuu siin lühendatult."
 images: [

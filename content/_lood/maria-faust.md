@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Ja kui mul on soov Saaremaal mingit muutust esile kutsuda ja oma arvamust avaldada, ütlevad saarlased, et sul pole selleks õigust, sa ei kuulu siia. No kuulun ikka küll.
+description: Ja kui mul on soov Saaremaal mingit muutust esile kutsuda ja oma arvamust avaldada, ütlevad saarlased, et sul pole selleks õigust, sa ei kuulu siia. No kuulun ikka küll!
 author: Sirli Tooming
 origin: "Intervjuu: “Maria Faust – küütleva saksofoniga naine mustas,” Meie Maa, 4.juuni 2021. Intervjuu siin lühendatult."
 images: [

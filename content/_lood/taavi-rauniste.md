@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Ma ei pea ennast poliitikuks, olen inimene, kes tahab midagi ära teha. Olen Saaremaale truuks jäänud, et see paik areneks ja siin oleks midagi teha ning et lastel oleks hea kasvada.
+description: Olen Saaremaale truuks jäänud, et see paik areneks ja siin oleks midagi teha ning et lastel oleks hea kasvada.
 author: Vilma rauniste
 origin: "Intervjuu: “Heategevus tuli Taavi Rauniste ellu enne 20. eluaastat”, Meie Maa, 2. juuli 2021. Intervjuu siin lühendatult."
 images: [

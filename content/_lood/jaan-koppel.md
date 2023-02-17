@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Kui saarlased sellest aru saaksid, et pole mõtet üksteisele kaikaid kodaratesse taguda, vaid koostöö loeb, siis Saaremaa majandus kasvaks kümme korda.
+description: Kui saarlased sellest aru saaksid, et pole mõtet üksteisele kaikaid kodaratesse taguda!
 author: Erki Berends
 origin: "Intervjuu: Jaan Koppel: “Saarlastel on üks halb omadus – kadedus. Kui nad sellest jagu saaks!”, Saarte Hääl, 14. juuli 2021."
 images: [
