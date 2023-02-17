@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Saaremaale kolides jäi merelkäike vähemaks. Otsisin uusi võimalusi. Saaremaal on vabatahtlik merepääste väga uhkelt arenenud.
+description: Saaremaale kolides jäi merelkäike vähemaks. Otsisin uusi võimalusi.
 author: Sirli Tooming
 origin: "Intervjuu: “Annely Enke – habras naine kui tõeline merekaru”, Meie Maa, 6. august 2021. Intervjuu siin lühendatult."
 images: [
