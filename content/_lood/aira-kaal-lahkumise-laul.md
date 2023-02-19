@@ -8,7 +8,7 @@ images: [
         src: "aira-kaal-lahkumise-laul.webp"
     }
 ]
-tags: []
+tags: [Aira Kaal]
 ---
 
 # {{ $doc.title }} 
