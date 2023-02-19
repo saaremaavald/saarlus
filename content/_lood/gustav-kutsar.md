@@ -8,7 +8,9 @@ images: [
         src: "gustav-kutsar.webp"
     }
 ]
-tags: [intervjuu, Gustav Kutsar]
+tags: [Gustav Kutsar]
+genre: [luule]
+person: [Gustav]
 ---
 
 <!-- # {{ $doc.title }} -->

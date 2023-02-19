@@ -12,11 +12,13 @@ images: [
 ]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
 tags: [rahvajutt]
+genre: [rahvajutt]
+person: [Joann, Libahunt, Ämm]
 ---
 
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Enne käind inimesed ikka undiks. Jeesuse sündimisest saadik ei ole seda enam nii sagedasti.
 

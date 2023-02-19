@@ -8,7 +8,9 @@ images: [
         src: "piret-puppart.webp"
     }
 ]
-tags: [intervjuu, piret puppart]
+tags: [Piret Puppart]
+genre: [intervjuu]
+person: [Piret]
 ---
 
 <!-- # {{ $doc.title }} -->

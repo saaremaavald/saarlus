@@ -8,7 +8,9 @@ images: [
         src: "ilmar-torn.webp"
     }
 ]
-tags: [kunst, Ilmar Torm, hüppama, purjetama, uppuma, ujuma, viima]
+tags: [Ilmar Torn, hüppama, purjetama, uppuma, ujuma, viima]
+genre: [kunst]
+person: [Ilmar]
 ---
 
 

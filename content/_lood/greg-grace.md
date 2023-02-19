@@ -8,7 +8,9 @@ images: [
         src: "greg-grace.webp"
     }
 ]
-tags: [intervjuu, Greg Grace]
+tags: [Greg Grace]
+genre: [intervjuu]
+person: [Greg]
 ---
 
 <!-- # {{ $doc.title }} -->

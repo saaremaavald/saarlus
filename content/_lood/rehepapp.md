@@ -11,11 +11,12 @@ images: [
     }
 ]
 dictionary: [[kuntsi, kunsti], [napsu pealt, otsekohe], [aganase,aganate sisse]]
-tags: [rahvajutt, murdekeel, rehepapp, Vanapagan, torupill, muusika, Muhu]
-
+tags: [murdekeel, rehepapp, Vanapagan, torupill, muusika, Muhu]
+genre: [rahvajutt]
+person: [Aleksander J., Rehepapp]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 Minu isa vanaisa, sündind Tepu talus, üüdnimega pilli Juhan, olnd tähendatud valla torupillimees ja pääle selle Kingli möisa pöline rehepapp. Tol ajal olnd vanadkurjad alalised möisa rehtede külastajad, nii et öösel pimedas keegi arilik surelik ei julgend enne ommikust kukelaulu möisa rehtedele läheneda.

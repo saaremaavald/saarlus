@@ -8,7 +8,9 @@ images: [
         src: "konrad-magi.webp"
     }
 ]
-tags: [kunst, Konrad Mägi, käivitama, kuhjama, õhetama, plahvatama, põlema, pagema]
+tags: [Konrad Mägi, käivitama, kuhjama, õhetama, plahvatama, põlema, pagema]
+genre: [kunst]
+person: [Konrad]
 ---
 
 <!-- # {{ $doc.title }} -->

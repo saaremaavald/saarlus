@@ -8,7 +8,9 @@ images: [
         src: "mario-talvist.webp"
     }
 ]
-tags: [intervjuu, Mario Talvist]
+tags: [Mario Talvist]
+genre: [intervjuu]
+person: [Mario]
 ---
 
 <!-- # {{ $doc.title }} -->

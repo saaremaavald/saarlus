@@ -9,11 +9,12 @@ images: [
         src: "aira-kaal-oma-saar.webp"
     }
 ]
-dictionary: [[ei, ole]]
 tags: [Aira Kaal]
+genre: [luule]
+person: [Aira, Laani T.]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
  
 Kas tõesti on nii raske piiri pidada? - küsitakse vahel. On küll. Alati hirmus raske, ja mitte ainult inimesel! Vist on lõppemine ja algamine üldse kaks kõige raskepärasemat asja, mis loodus välja mõelnud. Ning teie tahaksite, et sellega aina kergelt ja lõbusalt toime tullakse? Tahta ju võib...
 
@@ -72,7 +73,7 @@ Midagi oli nagu veel vaja, mis asendaks seda õndsa likku tunnet, et Keinastu «
 
 Kõndisime siis huupi Keinastu kaldavees ja sealt me ta leidsimegi. Mõnikümmend meetrit rannast säras päikesepaistel ilus väike roheline saar, peaaegu kolmnurkse kujuga...
 
-Kas näete?
+Kas näete? \
 Oo!
 
 Kui astusime sametrohelise saarekese pinnale, mis oli veega muust maailmast eraldatud, tekkis isesugune rahuldustunne. See oli nagu mänguks välja mõeldud! Uskumatult saarelik, väike, kuid iseseisev ja armas maatükk...
@@ -82,9 +83,9 @@ Tema pikkust ja laiust sai mõõdetud. Kümme sammu pikk, kaheksa sammu lai -  e
 «Kui kena omaette olemise paik!»
 «Vaikne nurgake...» «Ei jõua ära imetleda. Ja mis me talle nimeks paneme?» Mu kaaslased olid saarest niisama võlutud nagu minagi.
 
-«Oma saar.»
-«Roheline rätik.»
-«Sooria-Mooriamaa!»
+«Oma saar.» \
+«Roheline rätik.» \
+«Sooria-Mooriamaa!» \
 
 Ja veel palju teisi hellitusnimesid sai tuulde pillutud.
 

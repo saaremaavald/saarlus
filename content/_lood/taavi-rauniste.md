@@ -8,7 +8,9 @@ images: [
         src: "taavi-rauniste.webp"
     }
 ]
-tags: [intervjuu, Taavi Rauniste]
+tags: [Taavi Rauniste]
+genre: [intervjuu]
+person: [Taavi R.]
 ---
 
 <!-- # {{ $doc.title }} -->

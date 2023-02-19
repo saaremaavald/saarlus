@@ -9,11 +9,12 @@ images: [
     }
 ]
 tags: [Aadu]
+genre: [mälestus]
+person: [Aadu]
 ---
 
 
-# {{ $doc.title }}
-
+<!-- # {{ $doc.title }} -->
  
 Ostsin enne Montrealis laevale asumist terve karbi tablette merehaiguse vastu, iseendale, kuigi olen juba poisikesepõlvest peale merega sülitsi koos olnud.
 
@@ -45,8 +46,8 @@ Järsku kostis vihin. See oli laeva lähedalt möödalendav rändlindude parv. N
 
 Äkki tekkis parves segadus, sagin, ning kogu parv, muutes kurssi, viskus laeva poole, sööstis laeva sadade säravate tulede poole, tekkidele ja eriti siia paaditekile päästepaatide ja neid kandvate taavetite poole. Nad laskusid reelingutele, päästepaatide puldankatetele, nööridele, millega paadid olid taavetite külge kinnitatud, vaieritele, trossidele, istusid parves kas või tekile. Noh, nüüd on meie laeval küll kümme tuhat reisijat, lasin silmad tekil ringi käia, nüüd on meie ujuv loss kõige arvukama reisijateperega laev kogu maailmas. Lindudele ei läinud see aga nähtavasti üldse korda, palju siin enne neid reisijaid peal oli ja palju neid juba oli pealt ära läinud. Peaaegu üheaegselt hakkasid nad rabelema, ringi keerlema, neid läbis nagu värin. Küllap taipasid, et suund ei ole õige, sest meie tuledesäras loss viis neid nende tõelisele reisisihile otse vastassuunas. Ning sedamaid olid nad uuesti lennus.
 
-Nii tugev vaist on lindel,
-kes ikka teavad, kuhu!
+> *Nii tugev vaist on lindel, \
+kes ikka teavad, kuhu!*
 
 sähvisid meelde Marie Underi sõnad. Küllap linnud teadsid, kuhu, aga veel enne, kui nad oleksid õigesuunalist lennuhoogu päriselt sisse saanud, viis tulede sära, mis oleks suutnud valgustada kunagist Kuressaare-taolist linna, neid jälle segadusse. Uuesti korrast tihenev tiibade sahin, ja jälle olid nad laeval - nagu mitte alt merest, vaid ülevalt õhust paiskuv laine. Kavatsete meiega tagasi kodumaale tulla? küsisin neilt. Aga selleks pole ju õige aeg. Teie reis on ju tegemata. On alles sügis, kevadeni jääb veel mitu, mitu kuud.
 

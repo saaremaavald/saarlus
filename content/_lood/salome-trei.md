@@ -8,7 +8,9 @@ images: [
         src: "salome-trei.webp"
     }
 ]
-tags: [kunst, Salome Trei, pagemine, vaikimine]
+tags: [Salome Trei, pagemine, vaikimine]
+genre: [kunst]
+person: [Salome]
 ---
 
 <!-- # {{ $doc.title }} -->

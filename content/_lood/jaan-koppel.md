@@ -8,7 +8,9 @@ images: [
         src: "jaan-koppel.webp"
     }
 ]
-tags: [intervjuu, jaan koppel]
+tags: [Jaan Koppel]
+genre: [intervjuu]
+person: [Jaan Ko.]
 ---
 
 <!-- # {{ $doc.title }} -->

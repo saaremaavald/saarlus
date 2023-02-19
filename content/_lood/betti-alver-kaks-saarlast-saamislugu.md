@@ -10,9 +10,11 @@ images: [
     }
 ]
 tags: [Betti Alver]
+genre: [mälestus]
+person: [Betti]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Istusime kord Pärnus lõunalauas ja rääkisime sõprusest. Professor Talviku lesk jutustas meile anekdoodi kahest surmamõistetud sõbrast. Loo sisu oli lühidalt järgmine.
 

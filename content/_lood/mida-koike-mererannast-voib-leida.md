@@ -10,22 +10,22 @@ images: [
     }
 ]
 dictionary: [[parklaev, purjelaev]]
-tags: [rahvajutt, murdekeel, meri, laev, Kihelkonna, haakrik]
-
+tags: [murdekeel, meri, laev, Kihelkonna, haakrik]
+genre: [rahvajutt]
+person: [Priidu, Mees, Naine]
 ---
 
 *<sup><Icon name="icon-park-outline:info" size="24"></Icon></sup> Kuressaare “Hoppet” on kahemastiline kahvelkuunar ehk kaljas.*
 
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Mehed leidnud kalu püüdes Jöe-Simmu rannast meremudalt poole puukaussi. Üks vötnud selle kausi eemale tule juurde ühes. Mehed magand öösel metsas ja keegi pannud selle iseendale padjaks pää alla.
 
 Ommikul tulnd keegi naine ja tahtnud enda laeva kätte saada. Mehed teind suured silmad ja ütelnud, et nad ei ole ühtegi laeva näind. Seal silmand naine kaussi ja ütelnud, et see olevadki ta laev. Mehed ei uskund seda ja läind naise järele randa.
 
 Seal kadund naine kausiga. Ja eemal veel seisnud suur parklaev, mille pardal olnd eelpool nimetatud naine.
-
 
 
 

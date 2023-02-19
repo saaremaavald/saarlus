@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: [Aira Kaal]
+genre: [luule]
+person: [Aira]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Need kivid mind ajavad hulluks, \
 kui palju vorme on neil! \

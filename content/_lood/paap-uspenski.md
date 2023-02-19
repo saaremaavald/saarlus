@@ -8,7 +8,9 @@ images: [
         src: "paap-uspenski.webp"
     }
 ]
-tags: [intervjuu, Paap Uspenski]
+tags: [Paap Uspenski]
+genre: [intervjuu]
+person: [Paap]
 ---
 
 <!-- # {{ $doc.title }} -->

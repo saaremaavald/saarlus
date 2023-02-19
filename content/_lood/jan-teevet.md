@@ -9,7 +9,9 @@ images: [
         src: "jan-teevet.webp"
     }
 ]
-tags: [intervjuu, jan teevet, hulkuma]
+tags: [Jan Teevet, hulkuma]
+genre: [intervjuu]
+person: [Jan]
 ---
 
 <!-- # {{ $doc.title }} -->

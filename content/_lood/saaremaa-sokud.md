@@ -10,10 +10,11 @@ images: [
     }
 ]
 tags: [sokud, santimine]
-
+genre: [rahvapärimus]
+person: [Georg, Näärisokk]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 <!-- Siia jupp filmist, otsekõne! -->

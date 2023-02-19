@@ -8,7 +8,9 @@ images: [
         src: "taavi-tuulik.webp"
     }
 ]
-tags: [intervjuu, taavi tuulik]
+tags: [Taavi Tuulik]
+genre: [intervjuu]
+person: [Taavi T.]
 ---
 
 <!-- # {{ $doc.title }} -->

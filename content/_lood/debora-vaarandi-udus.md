@@ -8,8 +8,9 @@ images: [
         src: "debora-vaarandi-udus.webp"
     }
 ]
-tags: [udu, park, kiivitaja, meri, kurbus, õnn, tuul]
-
+tags: [Debora Vaarandi, udu, park, kiivitaja, meri, kurbus, õnn, tuul]
+genre: [luule]
+person: [Debora]
 ---
 
 <!-- # {{$doc.title}} -->

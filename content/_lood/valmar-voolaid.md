@@ -8,7 +8,9 @@ images: [
         src: "valmar-voolaid.webp"
     }
 ]
-tags: [intervjuu, Valmar Voolaid]
+tags: [Valmar Voolaid]
+genre: [intervjuu]
+person: [Valmar]
 ---
 
 <!-- # {{ $doc.title }} -->

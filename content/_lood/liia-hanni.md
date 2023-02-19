@@ -8,7 +8,9 @@ images: [
         src: "liia-hanni.webp"
     }
 ]
-tags: [intervjuu, Liia Hänni]
+tags: [Liia Hänni]
+genre: [intervjuu]
+person: [Liia]
 ---
 
 <!-- # {{ $doc.title }} -->

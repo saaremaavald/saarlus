@@ -8,7 +8,9 @@ images: [
         src: "raido-lember.webp"
     }
 ]
-tags: [intervjuu, raido lember]
+tags: [Raido Lember]
+genre: [intervjuu]
+person: [Piret]
 ---
 
 <!-- # {{ $doc.title }} -->

@@ -9,6 +9,8 @@ images: [
     }
 ]
 tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+genre: [luule]
+person: [Betti]
 ---
 
 # {{$doc.title}}

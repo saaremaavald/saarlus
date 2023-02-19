@@ -9,11 +9,12 @@ images: [
         src: "vanapagan-ja-joed.webp"
     }
 ]
-tags: [rahvajutt, murdekeel, Vanapagan, järv, jõgi, meri, laht, loodus, Kaarma]
-
+tags: [murdekeel, Vanapagan, järv, jõgi, meri, laht, loodus, Kaarma]
+genre: [rahvajutt]
+person: [Vanapagan]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kui vanapagan oli alles eland maa peal, siis sattus ta inimestega tülli ja tahtis neid uputada.
 

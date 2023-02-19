@@ -13,12 +13,13 @@ images: [
     }
 ]
 dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama, korralikult üleval pidama, käituma]]
-tags: [rahvajutt, that]
-
+tags: [jänes]
+genre: [rahvajutt]
+person: [Jänes, Lammas]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kord pidasivad veiksed valged jänesed nöu siitmaalt ära minna, sest siin ei karda ükski loom neid. „Kus piaksime minema?“ küsis keegi nendest, „kus piaksime seesugusid eest leidma, kes meid kardavad?“
 

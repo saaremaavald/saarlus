@@ -8,7 +8,9 @@ images: [
         src: "sander-molder.webp"
     }
 ]
-tags: [intervjuu, sander molder]
+tags: [Sander Mölder]
+genre: [intervjuu, muusika]
+person: [Sander]
 ---
 
 <!-- # {{ $doc.title }} -->

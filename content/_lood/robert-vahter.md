@@ -8,7 +8,9 @@ images: [
         src: "robert-vahter.webp"
     }
 ]
-tags: [intervjuu, Robert Vahter]
+tags: [Robert Vahter]
+genre: [intervjuu]
+person: [Robert]
 ---
 
 <!-- # {{ $doc.title }} -->

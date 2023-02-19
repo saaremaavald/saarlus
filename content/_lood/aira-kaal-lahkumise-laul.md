@@ -9,11 +9,11 @@ images: [
     }
 ]
 tags: [Aira Kaal]
+genre: [luule]
+person: [Aira]
 ---
 
-# {{ $doc.title }} 
-
-<!-- Fotole: Mo süda tilgub verd -->
+<!-- # {{ $doc.title }}  -->
 
 Mo süda tilgub verd, \
 kui lahku Orisaarest. \

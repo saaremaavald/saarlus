@@ -10,12 +10,13 @@ images: [
     }
 ]
 dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]
-tags: [rahvajutt, lest, murdekeel, Anseküla ]
-
+tags: [lest, murdekeel, Anseküla ]
+genre: [rahvajutt]
+person: [Jaak L., Lest]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kui Jumal oli kalad loond, siis määrand ta igale asukoha. Oli öelnud lestale, et see lititsegu liiva peel.
 

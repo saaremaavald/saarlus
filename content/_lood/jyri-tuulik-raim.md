@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: []
+genre: [proosa]
+person: [Jüri, Preedik, Räim]
 ---
 
-# {{$doc.title}} 
+<!-- # {{$doc.title}}  -->
 
 Preedik on vana mees ja hommikutunnil läheb ta Abruka sadama poole mööda teed, mis on iidne. Puud, põõsad, majad ja aiad, häältest ja lõhnadest rääkimata, on nooremad kui see kivirähka tallatud rannatee. Vaid meri eespool ja taevas pea kohal on iidsemad. Meri näitab end kahvatusiniselt, taevas on sama värvi ja pilvitu. Septembri keskpaiga kohta on hommik karge ja jahe. Isegi nii jahe, et meri hakkab ootamatult tõstma. Tõstab kauged Kuramaa rannad ja isegi Ruhnu metsaladvad päris silme ette. Targemad inimesed kutsuvad niisugust nähtust miraažiks.
 

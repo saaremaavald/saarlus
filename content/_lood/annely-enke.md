@@ -8,7 +8,9 @@ images: [
         src: "annely-enke.webp"
     }
 ]
-tags: [intervjuu, Annely Enke]
+tags: [Annely Enke]
+genre: [intervjuu]
+person: [Annely]
 ---
 
 <!-- # {{ $doc.title }} -->

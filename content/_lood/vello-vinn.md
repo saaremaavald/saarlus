@@ -8,14 +8,16 @@ images: [
         src: "marie-ducker.webp"
     }
 ]
-tags: [kunst, Vello Vinn, pagema, peegeldama, alustama, lahkuma]
+tags: [Vello Vinn, pagema, peegeldama, alustama, lahkuma]
+genre: [kunst]
+person: [Vello]
 ---
 
 
 <!-- # {{ $doc.title }} -->
 
 
-Vello Vinna piltidelt leiab palju korduvaid kujundeid, mis eri aegadel eri töödes ikka ja jälle esile tulevad. Olgu need õhupallid, elektripirnid, tiivad või kummalised ruumid-labürindid. Kunstnikule on hingelähedased ka kõikvõimalikud ajamõõtmise vahendid – liivakellad, seinakellad, taskukellad, stopperid –, märgid kõige elava muundumisest, pidevast liikumisest ja kaduvusest.
+**Vello Vinna** piltidelt leiab palju korduvaid kujundeid, mis eri aegadel eri töödes ikka ja jälle esile tulevad. Olgu need õhupallid, elektripirnid, tiivad või kummalised ruumid-labürindid. Kunstnikule on hingelähedased ka kõikvõimalikud ajamõõtmise vahendid – liivakellad, seinakellad, taskukellad, stopperid –, märgid kõige elava muundumisest, pidevast liikumisest ja kaduvusest.
 
 Ajalise ja ajatu piiri kõrvetavat hingust sai vaevalt viieaastane Vello õige ligidalt tunda Teise ilmasõja lõpus Sõrve lahingute aegu. Nagu paljusid teisi peresid tahtsid sakslased ka Vinnad sundkorras Saksamaale evakueerida. Vello mäletab, et inimesed koguti ühes Kaimrist kaugemale jäävas külas mingisse talumajja valve alla, kus nad pidid ööd olema, et siis alustada teekonda üle mere. "Aga isa sai valvuriga kuidagi kaubale ja meie pere lahkus maja tagaakna kaudu metsa," räägib Vello.
 

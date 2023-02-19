@@ -9,10 +9,11 @@ images: [
     }
 ]
 tags: [Suur Tõll, Kärla]
-
+genre: [rahvajutt]
+person: [Tõll]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seitse kiriku torni silma paistavad. See mägi olla rahvajutu järele Saaremaa seljaroog, sest et olla kõige ennemalt merevee pinnast välja kerkinud ja endast väikese saarekese moodustanud, kus peal kured harilikult olid asunud ja häälitsenud, seda oma rännakuil alaliseks peatuspaigaks valides. Sellest olla ka Saaremaa linna nimi Kuresaar saanud. Tõllu hauda olen isiklikult näinud. See sisaldab endast 2—3 sülla pikust ja ½ sülla laiust sisselangenud suurt kalmuküngast, kuni paari jala sügavuseni keskpaigast, mis rohelise mururohuga kaetud ja mille ümber noored männad sel ajal kasvasivad, kui mina veel noorukene olin, millas minule seda minu isa hobust piatades näitas, kui kord sealtkaudu sõitsime, sest haud asub otse tee ääres. Kuulukse veel räägitavat, et ka suur tamm tema päitsel kasvada, kuid seda ei juhtunud mina sel korral mitte nägema, või ehk on see mul aja jooksul koguni ära ununenud.

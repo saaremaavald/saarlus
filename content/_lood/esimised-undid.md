@@ -22,7 +22,8 @@ dictionary: [
     [kärmest, valjusti], 
     ["viha käie ta kohe", "viha käivat tema vastu, s.t olevat tema peale vihane"]
 ]
-
+genre: [rahvajutt]
+person: [Vanapagan, Vanajumal, Hunt]
 ---
 
 <details-wrapper summary="Enne lugemist:">
@@ -31,7 +32,7 @@ dictionary: [
 
 </details-wrapper>
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Ennemuiste tahtnud vanakurat ka üht loomasugu luua, mis siis ka tema käsu ja valitsuse all pidid olema.
 

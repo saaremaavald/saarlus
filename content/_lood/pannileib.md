@@ -8,12 +8,11 @@ images: [
     }
 ]
 tags: [pannileib, toit ]
+genre: [retsept]
+person: [Juta]
 ---
 
-
-# {{$doc.title}}
-
-Fotole pealkiri: Teeks täna õige pannileiba? 
+<!-- # {{$doc.title}} -->
 
 Ole lahke! https://rahvakultuur.ee/2020/03/20/pannileiva-kypsetamine-laane-saaremaal/
 

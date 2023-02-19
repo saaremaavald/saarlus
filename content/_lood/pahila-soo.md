@@ -9,11 +9,13 @@ images: [
         src: "pahila-soo.webp"
     }
 ]
-tags: [rahvajutt, murdekeel, haldjad, soo, naine, tammik, Karja, ]
+tags: [murdekeel, haldjad, soo, naine, tammik, Karja]
+genre: [rahvajutt]
+person: [Priidu, Naine, Haldjas]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Vanasti ei tohtind ükski naisterahvas palja pääga välja minna. Kui keegi oli läind, siis olnd sellel suur karistus. Aga üks naisterahvas just vihameele pärast läind palja pääga välja ja ise mötelnud, et mis sellest siis ikka on.
 

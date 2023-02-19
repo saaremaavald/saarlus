@@ -3,13 +3,14 @@ layout: story-page
 title: Saar
 description: Vaba hingamise vapustavad sõõmud! Joosta ennast kirkaks nagu õhk!
 author: Debora Vaarandi
-origin: ""
 images: [
     {
         src: "debora-vaarandi-saar.webp"
     }
 ]
-tags: [saar, jää, lumi, meri, rand, tuul, sügis]
+tags: [Debora Vaarandi, saar, jää, lumi, meri, rand, tuul, sügis]
+genre: [luule]
+person: [Debora]
 ---
 
 

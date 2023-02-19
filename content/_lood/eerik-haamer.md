@@ -2,13 +2,15 @@
 layout: story-page
 description: Kui päike paistis ja vihma sadas samaaegselt, oli Kuressaare kõige rohkem oma nägu.
 author: Reeli Kõiv
-origin: "Katkendid raamatust: Reeli Kõiv, “Eerik Haamer”, KUMU, Tallinn, 2008. “ Kaks esimest lõiku on Eerik Haameri enda mälestused, edasi kunstiajaloolase ja kunstipedagoogi Reeli Kõiva tekst Haamerist ja isiklik mälestus esmakohtumisest Haameriga."
+origin: "Katkendid raamatust: Reeli Kõiv, “Eerik Haamer”, KUMU, Tallinn, 2008.” Kaks esimest lõiku on Eerik Haameri enda mälestused, edasi kunstiajaloolase ja kunstipedagoogi Reeli Kõiva tekst Haamerist ja isiklik mälestus esmakohtumisest Haameriga."
 images: [
     {
         src: "eerik-haamer.webp"
     }
 ]
 tags: [kunst, Erik Haamer, pagemine, naeratamine, kaotamine]
+genre: [kunst]
+person: [Eerik]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -22,7 +24,7 @@ tags: [kunst, Erik Haamer, pagemine, naeratamine, kaotamine]
 
 <hr />
 
-Eerik Haameri koolitee jätkus 1919. aasta 15. jaanuarist alates juba eestikeelses koolis Saaremaa Eesti Segagümnaasiumi reaalharus, mille sünd oli seotud Eesti Vabariigi tulekuga. Õpilaskond oli neil aastail väga aktiivne, asutati mitmesuguseid huviringe, sealhulgas ka kunstiring. Seda juhatas oma ala tõeline entusiast, noor joonistusõpetaja Alma Klauren, kes oli õppinud aastail 1912-1917 Peterburis Stieglitzi Kunsttööstuskoolis majoolikat. Kunstiringis käisid kõik kolm Haamri poissi. Töötati nii klassis kipsmudeleid joonistades ja kompositsiooniülesandeid lahendades kui ka väljas vabas looduses. Prooviti paberile panna rannamaastikke, maju, loomi, inimesi ja omaenda fantaasiaid. Sageli võis A. Klaurenit ja kunstiringi noori näha Kuressaare lossi arhitektuuri joonistamas. Looduslikult kaunite paikade otsingul sõideti mööda Saaremaad ringi, muuhulgas käidi vaatamas Kaarma ja Karja kirikut. Uusi elamusi pakkuvad sõidud Saaremaa küladesse ja randadele jätsid jälje noore inimese mällu. Aastaid hiljem on Haamer öelnud: „Mis lapsepõlves kuuldud, nähtud ja läbielatud, see jääb põhitooniks kogu elus. Ka loominguliselt." Juba siis joonistanud Eerik Haamer iseäranis merd ja inimesi, mis kujunesid tema põhiaineks elukutselise kunstnikuna. Eerikul olnud kombeks kujutada inimesi veidi pikaks venitatutena. Kui kaasõpilased seda täheldasid, kostnud õpetaja: „Laske olla, see on tema stiil!" 
+Eerik Haameri koolitee jätkus 1919. aasta 15. jaanuarist alates juba eestikeelses koolis Saaremaa Eesti Segagümnaasiumi reaalharus, mille sünd oli seotud Eesti Vabariigi tulekuga. Õpilaskond oli neil aastail väga aktiivne, asutati mitmesuguseid huviringe, sealhulgas ka kunstiring. Seda juhatas oma ala tõeline entusiast, noor joonistusõpetaja **Alma Klauren**, kes oli õppinud aastail 1912-1917 Peterburis Stieglitzi Kunsttööstuskoolis majoolikat. Kunstiringis käisid kõik kolm Haamri poissi. Töötati nii klassis kipsmudeleid joonistades ja kompositsiooniülesandeid lahendades kui ka väljas vabas looduses. Prooviti paberile panna rannamaastikke, maju, loomi, inimesi ja omaenda fantaasiaid. Sageli võis A. Klaurenit ja kunstiringi noori näha Kuressaare lossi arhitektuuri joonistamas. Looduslikult kaunite paikade otsingul sõideti mööda Saaremaad ringi, muuhulgas käidi vaatamas Kaarma ja Karja kirikut. Uusi elamusi pakkuvad sõidud Saaremaa küladesse ja randadele jätsid jälje noore inimese mällu. Aastaid hiljem on Haamer öelnud: „Mis lapsepõlves kuuldud, nähtud ja läbielatud, see jääb põhitooniks kogu elus. Ka loominguliselt." Juba siis joonistanud Eerik Haamer iseäranis merd ja inimesi, mis kujunesid tema põhiaineks elukutselise kunstnikuna. Eerikul olnud kombeks kujutada inimesi veidi pikaks venitatutena. Kui kaasõpilased seda täheldasid, kostnud õpetaja: „Laske olla, see on tema stiil!" 
 
 <hr />
 

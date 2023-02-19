@@ -9,11 +9,13 @@ images: [
         src: "andres-ehin-aavik.webp"
     }
 ]
-tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [luule, tamm]
+genre: [luule]
+person: [Johannes]
 ---
 
 
-# {{ $doc.title }}
+<!-- # {{ $doc.title }} -->
 
 On kuritegu \
 liiga pikk ja loid. \

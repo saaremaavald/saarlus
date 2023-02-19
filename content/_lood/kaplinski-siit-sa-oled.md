@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: [Jaan Kaplinski]
+genre: [mälestus]
+person: [Jaan Ka.]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
  
 Ülikool ise algas isemoodi: esimesed ajaloo-keeleteaduskonna kursused saadeti Saaremaale kolhoosi. Olin seal üsna kaua - üheksanda oktoobrini ja selle ajaga sain sõbraks maaga ja inimestega. Selle sügise mälestused on kolmeteist aasta tagantki nii vastsed, et peaaegu tunnen mere lõhna ja pirnide maiku perenaise aias, kelle juures elasime ja kes oma suure viljapuuaia meie käsutusse andis. Puudutan käega Püha kiriku kella ja lähen läbi sarapike, pea kuklas, põu pähkleid täis, kuulen külamuttide kädistamist odrapõllul, tantsin lahkumispeol tennistes valssi, astudes üle mõne Vätta kaluri, kelle omanurga õlu pikali võtnud. Mu ees on neemetipp, mis lõunasse aheneb kivirahnude reaks, mu kõrval üks kauge ja tore tüdruk, meri on rahulik, lainetel ulbivad võrkude küljest vallandunud klaasmunad.
 

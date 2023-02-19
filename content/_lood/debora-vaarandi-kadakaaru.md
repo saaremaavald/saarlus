@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: [Debora Vaarandi]
+genre: [mälestus]
+person: [Debora]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kas on veel kuskil see kadakaaru, muru täis madalaid lillasid ohakatutte, mis näisid nii enneolematult ilusad? Soojas vihmasajus olid nad sädelevad ja pehmed, nende okkalised lehedki olid pehmed. Panin neile oma palja jalatalla, et ka tema neid näeks.
 

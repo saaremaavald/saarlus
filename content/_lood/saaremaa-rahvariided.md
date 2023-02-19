@@ -8,10 +8,11 @@ images: [
     }
 ]
 tags: [rahvariided]
-
+genre: [rahvapärimus]
+person: []
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 <!-- Fotole pealkiri: Mida pidupäeval selga panna? -->
 

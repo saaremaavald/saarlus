@@ -10,13 +10,13 @@ images: [
     }
 ]
 dictionary: [[Inglis,inglise], [tiimer,aurik], [Köpu otsa kuhal,Kõpu poolsaare otsa kohal], [meistel,meestel], [Paldi merest,Balti merest], [taarist Peeterpurki aru viia,tarvis Peterburisse teade viia], [ää saaja,ära saada], [lasn luubi sisse ja söund,lasknud paadi merre ja sõudnud], [mättud,mättaid], [pärasti tulnd üles,hiljem selgunud] ]
-tags: [rahvajutt, murdekeel, meri, kala, kammeljas, laev, Mustjala]
-
-
+tags: [murdekeel, meri, kala, kammeljas, laev, Mustjala]
+genre: [rahvajutt]
+person: [Aleksander L., Lest]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees. Saan veel öigel ajal pidama, et pole kinni joos. Meistel old ee meel suur, et söukse maa olid Paldi merest leind, mida enne keski pole teednd. Kohe taarist Peeterpurki aru viia, et nad selle leind on. Kes teeb, mis nad selle ülesleidmise eest vöisid ää saaja.

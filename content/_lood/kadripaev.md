@@ -13,10 +13,12 @@ images: [
     }
 ]
 tags: [kadripäev, santimine ]
+genre: [rahvapärimus]
+person: [Mari, Kadri]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 **Mari Lepik** Sõrvest kirjutab kadripäevast:

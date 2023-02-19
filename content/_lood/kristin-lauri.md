@@ -8,7 +8,9 @@ images: [
         src: "kristin-lauri.webp"
     }
 ]
-tags: [intervjuu, Kristin Lauri]
+tags: [Kristin Lauri]
+genre: [intervjuu]
+person: [Kristin]
 ---
 
 <!-- # {{ $doc.title }} -->

@@ -8,7 +8,9 @@ images: [
         src: "vahur-karus.webp"
     }
 ]
-tags: [intervjuu, vahur karus]
+tags: [Vahur Karus]
+genre: [intervjuu]
+person: [Vahur]
 ---
 
 <!-- # {{ $doc.title }} -->

@@ -8,10 +8,12 @@ images: [
         src: "julie-ederberg.webp"
     }
 ]
-tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [sõprus, luule, tamm]
+genre: [luule]
+person: [Julie]
 ---
 
-#  {{$doc.title}}
+<!-- #  {{$doc.title}} -->
 
 Kui rohu lillekesed kasvasivad \
 mu laulud vaiksel viisil ülesse, \

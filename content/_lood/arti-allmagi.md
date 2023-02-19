@@ -8,7 +8,9 @@ images: [
         src: "hylgelaul.webp"
     }
 ]
-tags: [intervjuu, Arti Allmägi]
+tags: [Arti Allmägi]
+genre: [intervjuu]
+person: [Arti]
 ---
 
 <!-- # {{ $doc.title }} -->

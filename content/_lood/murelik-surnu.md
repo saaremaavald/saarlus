@@ -9,11 +9,12 @@ images: [
         src: "murelik-surnu.webp"
     }
 ]
-tags: [rahvajutt, surm, Kaarma]
-
+tags: [tüdruk, surm, Kaarma]
+genre: [rahvajutt]
+person: [Tüdruk, Surm]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 See lugu leidis aset 50ndate alguses, peale sõda.
 

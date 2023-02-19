@@ -20,14 +20,12 @@ images: [
     }
 ]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
-tags: [rahvajutt, that]
-
+tags: [mees, naine, jumal]
+genre: [rahvajutt]
+person: [Villem, Vanajumal, Mees, Naine]
 ---
 
-<!-- Fotodeks kõigepealt need 3 tööd, ilma pealkirjata. -->
-<!-- Siis kuhugile küsimus: Mis loo need 3 minikoomiksit saare murdes sinu arvates räägivad? -->
-
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Vanasti polla inimesed poolist söuksed olnd kut paes. Köhu ees olnd söuksed luugid. Äga mees ajand säält sisse, mis täma tahtis. Tööd pole kennegil teha olnd. Vana taevataet näind, et sedati äi lähe.
 Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe ning kui akkand köhtu kogu ömblema, tulnd niidist puudus. Ala jäänd auk. Teistel jäänd niiti üle, need ömblend eesele loti senna ala. Need esimised olid naised ning teised mehed. Naised olla ikka söuksed raiskajad.

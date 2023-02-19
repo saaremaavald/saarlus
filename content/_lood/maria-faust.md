@@ -8,7 +8,9 @@ images: [
         src: "maria-faust.webp"
     }
 ]
-tags: [intervjuu, Maria Faust]
+tags: [Maria Faust]
+genre: [intervjuu, muusika]
+person: [Maria F.]
 ---
 
 <!-- # {{ $doc.title }} -->

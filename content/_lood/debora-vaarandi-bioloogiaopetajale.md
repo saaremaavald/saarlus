@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: [vainurästas, õpetaja, bioloogia, meri, tamm]
+genre: [luule]
+person: [Debora]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 <!-- Fotole: Ma tundsin loodust kui torkivat kõrrepõldu -->
 

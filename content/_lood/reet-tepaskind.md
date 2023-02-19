@@ -8,7 +8,9 @@ images: [
         src: "reet-tepaskind.webp"
     }
 ]
-tags: [intervjuu, Reet Tepaskind]
+tags: [Reet Tepaskind]
+genre: [intervjuu]
+person: [Reet]
 ---
 
 <!-- # {{ $doc.title }} -->

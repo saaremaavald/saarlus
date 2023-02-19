@@ -9,9 +9,11 @@ images: [
     }
 ]
 tags: [Jakob]
+genre: [mälestus]
+person: [Jakob, Oskar]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
  
 **Jakob Mändmetsa** nimega puutusin esmakordselt kokku kuuendas klassis. Seal leidus kaks Mändmetsa novelli - “Katkiraiutud kaljas” ja “Kiir kaugusest”. Mõlemad jäid kustumatult meelde oma dramaatilise psühholoogilise situatsiooni ja sisemise valuga. Kaljas oli südamaapoisile küll tundmatu sõna, kuid tähtsamad olid inimestevahelised suhted. Ja need kiskusid kaasa: võisin ette kujutada neid rannataate, kelle pilke ei kannatanud välja Laine Andres ja lõpuks merre läks. 
 

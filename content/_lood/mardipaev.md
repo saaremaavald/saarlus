@@ -15,15 +15,16 @@ images: [
     }
 ]
 tags: [mardipäev, santimine]
-
+genre: [rahvapärimus]
+person: [Mari, Mart]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 
 <!-- Fotodele (kleepida need kaks kokku, et saaks 1 maastikuformaadi) pealkiri: Noh, mis passid - mask ette, jope pahupidi selga ja marti jooksma! -->
 
-Mari Lepik Sõrvest kirjutab mardipäevast: “Mardilaupäevaks katkeb noorte meeste kannatus. Esiti ühe-kahekaupa kokkusaamistest ning elubeluugi vahelt poolkogemata leitud pudrukausside tühjendamisest kasvab mardilaupäevaks isu juba enamaks. 
+**Mari Lepik** Sõrvest kirjutab mardipäevast: “Mardilaupäevaks katkeb noorte meeste kannatus. Esiti ühe-kahekaupa kokkusaamistest ning elubeluugi vahelt poolkogemata leitud pudrukausside tühjendamisest kasvab mardilaupäevaks isu juba enamaks. 
 
 Nii otsivadki küla noored mehed ning hakkajamad neiud omale miskit sandemat selga, panevad valss-palged ette või tahmavad silmnäo sootuks ning hakkavad peresid pidi käima. Kui vaid kohe ära ei tuntaks, saab lõbusam!
 

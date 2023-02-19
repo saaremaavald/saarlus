@@ -8,7 +8,9 @@ images: [
         src: "ursel-velve.webp"
     }
 ]
-tags: [intervjuu, ursel velve]
+tags: [Ursel Velve]
+genre: [intervjuu]
+person: [Ursel]
 ---
 
 <!-- # {{ $doc.title }} -->

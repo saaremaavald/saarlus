@@ -8,7 +8,9 @@ images: [
         src: "kadri-juhan-kanemagi.webp"
     }
 ]
-tags: [intervjuu, Kadri Kanemägi, Juhan Kanemägi]
+tags: [Kadri Kanemägi, Juhan Kanemägi]
+genre: [intervjuu]
+person: [Kadri, Juhan]
 ---
 
 <!-- # {{ $doc.title }} -->

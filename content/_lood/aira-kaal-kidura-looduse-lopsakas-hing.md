@@ -3,14 +3,14 @@ layout: story-page
 description: Siin mina istun ja imetlen sind; kidura looduse lopsakas hing
 title: Kidura looduse lopsakas hing
 author: Aira Kaal
-origin: ""
 images: [{ src: "aira-kaal-pank.webp" }]
-dictionary: [[ei, ole]]
 tags: ["Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine"]
+genre: [luule]
+person: [Aira]
 ---
 
 
-# {{ $doc.title}}
+<!-- # {{ $doc.title}} -->
 
 
 Käärimas väinade sinine pärm. \

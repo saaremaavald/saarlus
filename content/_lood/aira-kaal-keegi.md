@@ -7,10 +7,12 @@ images: [
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: ["-- luule --", Aira Kaal, kirjanik, naine]
+tags: [Aira Kaal, kirjanik, naine]
+genre: [luule]
+person: [Aira]
 ---
 
-# {{ $doc.title }}
+<!-- # {{ $doc.title }} -->
 
 Pean lõpuks mõistma, et ma olen keegi,\
 jah, kodanik \

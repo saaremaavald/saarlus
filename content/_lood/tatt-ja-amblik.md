@@ -9,12 +9,12 @@ images: [
         src: "tatt-ja-amblik.webp"
     }
 ]
-dictionary: [[midagi, pole]]
-tags: [rahvajutt, murdekeel, loodus, Püha, Nasva]
-
+tags: [murdekeel, loodus, Püha, Nasva]
+genre: [rahvajutt]
+person: [Arnold, Tatt, Ämblik]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Tatt ja ämblik saand Nasva jöe silla pääl kokku.
 

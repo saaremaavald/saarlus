@@ -8,7 +8,9 @@ images: [
         src: "maret-nuut.webp"
     }
 ]
-tags: [intervjuu, Maret Nuut]
+tags: [Maret Nuut]
+genre: [intervjuu]
+person: [Maret]
 ---
 
 <!-- # {{ $doc.title }} -->

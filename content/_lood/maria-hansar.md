@@ -8,7 +8,9 @@ images: [
         src: "01_maria-hansar.webp"
     }
 ]
-tags: [intervjuu, maria hansar]
+tags: [Maria Hansar]
+genre: [intervjuu]
+person: [Maria H.]
 ---
 
 <!-- # {{ $doc.title }} -->

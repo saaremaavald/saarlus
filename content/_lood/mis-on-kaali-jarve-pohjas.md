@@ -9,10 +9,12 @@ images: [
         src: kaali-jarv.webp
     }
 ]
-tags: [rahvajutt, murdekeel, Kaali järv]
+tags: [murdekeel, Kaali järv]
+genre: [rahvajutt]
+person: [Olga]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kord tahtnud külarahvas mööta Kaali järve sügavust. Nad sidund terve küla köied üksteise \[külge\], otsa pannud katla liivaga ja akand pöhja laskma. Lasknud kuni köis otsa saand. Akatud välja tirima. Kui nad katla välja olid tirind, nägid inimesed, et liiv oli katlast kadund ja sinna oli pandud verine jäära pea ühes pussnoaga. Nüüd arvab vanarahvas, et seal järve pöhjas on praegugi elanikud sees.
 

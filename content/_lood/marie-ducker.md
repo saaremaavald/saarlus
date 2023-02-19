@@ -8,7 +8,9 @@ images: [
         src: "marie-ducker.webp"
     }
 ]
-tags: [kunst, Marie Ducker, jalutamine, ületamine]
+tags: [Marie Ducker, jalutamine, ületamine]
+genre: [kunst, mälestus]
+person: [Marie]
 ---
 
 <!-- # {{ $doc.title }} -->

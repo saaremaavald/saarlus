@@ -9,7 +9,9 @@ images: [
         src: "karol-kuntsel.webp"
     }
 ]
-tags: [intervjuu, karol kuntsel]
+tags: [intervjuu, Karol Kuntsel]
+genre: [intervjuu]
+person: [Karol]
 ---
 
 <!-- # {{ $doc.title }} -->

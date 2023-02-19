@@ -9,11 +9,11 @@ images: [
     }
 ]
 tags: [ööviiul, suvi, öö, tuul, luule]
+genre: [luule]
+person: [Debora]
 ---
 
-# {{$doc.title}}
-
-<!-- Fotole: Ja siis salus lõhnaviiul valjult helisema lööb… -->
+<!-- # {{$doc.title}} -->
 
 Ühel üürikesel viivul \
 hämaram on valge öö. \

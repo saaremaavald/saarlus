@@ -10,12 +10,13 @@ images: [
     }
 ]
 dictionary: [[tuhlid,"kartuleid, „kartuhvlid“"], ["ääks","pehmeks, „tümaks“"], ["pahl:pahla","varras"], ["parase","paraja"], ["rataste kali","vankri puu (kaigas)"], ["selpuu","sõlgpuu"], ["oda, ma lää","oota, ma lähen"], ["peeniseks","peenikeseks"]]
-tags: [rahvajutt, murdekeel, räim, kala, Kärla, külmking, mets, hunt, kartul, kalapahl ]
-
+tags: [murdekeel, räim, kala, Kärla, külmking, mets, hunt, kartul, kalapahl ]
+genre: [rahvajutt]
+person: [J. Jõgi, Külmking, Vanamees ]
 ---
 
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
 
 Kord olnd üks vanamees metsas puid raiumas. Ta akand löunaks tuhlid küpsetama. Tuhlid olnd ääks saamas ja ta pannud kalad* ka pahlaga küpsema.
 

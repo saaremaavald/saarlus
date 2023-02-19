@@ -11,11 +11,12 @@ images: [
     }
 ]
 dictionary: [[pailajupp, paelajupp], [jähi,jäi], [annergad,angerjad]]
-tags: [rahvajutt, murdekeel, loodus, uss, angerjas, meri, Püha]
-
+tags: [murdekeel, loodus, uss, angerjas, meri, Püha]
+genre: [rahvajutt]
+person: [Vanajumal]
 ---
 
-# {{$doc.title}}
+<!-- # {{$doc.title}} -->
  
 Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots jäänd merese, teine maale. Pailajupp kukkund sedaviiti pooleks. Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.
 
