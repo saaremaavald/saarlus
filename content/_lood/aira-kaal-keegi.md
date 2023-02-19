@@ -7,7 +7,7 @@ images: [
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: [luule, aira kaal, kirjanik, naine]
+tags: ["-- luule --", Aira Kaal, kirjanik, naine]
 ---
 
 # {{ $doc.title }}

@@ -111,7 +111,7 @@
     min-h-[95vh] gap-0 
     lg:flex-row lg:min-h-[80vh] lg:justify-center lg:items-center lg:gap-[5vw] lg:max-w-6xl">
         <div class="flex flex-col justify-center gap-6 order-2 grow text-center 
-        lg:order-1 lg:text-left lg:items-start lg:gap-12">
+        lg:order-1 lg:text-left lg:items-start lg:gap-6">
             <h1 class="font-Special text-primary-700 text-6xl leading-[0.75] tracking-tight 
             lg:text-8xl lg:leading-[0.65]
             xl:text-[8rem] xl:leading-[0.65]
@@ -120,8 +120,11 @@
             </h1>
             <!-- <h2 class="mt-8 font-Special text-secondary-800 text-4xl uppercase
             dark:text-secondary-500">Mis see veel on?</h2> -->
-            <p class="font-Normal text-secondary-900
-            dark:text-secondary-400">Siit leiad sa hulga materjale, mis aitavad sul saarlust paremini mõista. Alustuseks võid lihtsalt kompassil klikkida või valida <a class="text-primary-600 cursor-pointer dark:text-rimary-400" @click="toggleStories">sobiv lugu nimekirjast</a></p>
+            <p class="font-sans text-secondary-900 mb-0 text-lg
+            dark:text-secondary-400
+            lg:mt-5">Tule uita lugudes, mis on jutustanud, kirja pannud ja piltidena kujutanud inimesed, keda Saaremaaga seob elu või töö või õppimine - või kõik koos. Kindlasti leiad sel teel üht-teist tuttavat, tõenäoliselt palju uut, ning võib juhtuda, et leiad ka  iseenda - ja see vast oleks köige kenam?</p>
+            <p class="font-sans text-secondary-900 text-lg
+            dark:text-secondary-400">Esimese sammuna kliki <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="compassNeedleClick">kompassil</a> ja vaata, kuhu satud. Või vali <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="toggleStories">nimekirjast</a> mõte, mis sind kaasa kutsub.</p>
 
         </div>
         

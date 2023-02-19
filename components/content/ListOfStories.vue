@@ -3,6 +3,7 @@
     const tags = ref();
     const activeTags = ref([]);
 
+    const showAuthors = authorsOpen();
     const tagPanelOpen = tagsOpen();
     const toggleTagPanel = () => {
         tagPanelOpen.value = !tagPanelOpen.value;
@@ -27,7 +28,7 @@
     
 
     const { data } = await useAsyncData('stories', async () => {
-        return queryContent('_lood').only(['description','_path','tags']).find();
+        return queryContent('_lood').only(['description','_path','tags','author']).find();
     });
 
     for (const story of data.value) {
@@ -53,7 +54,11 @@
         <h1 class="mb-4 font-Special text-5xl text-secondary-800 
             dark:text-primary-200">Lugude nimekiri</h1>
         
-        <IconButton icon="icon-park-outline:tag-one" label="SILDID" @click="toggleTagPanel" />
+        <section class="flex gap-4">
+            <IconButton icon="icon-park-outline:tag-one" label="SILDID" @click="toggleTagPanel" />
+            <IconButton icon="icon-park-outline:peoples" label="AUTORID" @click="showAuthors = !showAuthors" />
+        </section>
+        
         <div class="flex flex-wrap gap-x-2 gap-y-2 border-solid border-t border-b my-4 overflow-hidden transition-all" :class="tagPanelOpen ? 'h-auto py-6' : 'h-0 py-0'">
             <template v-for="(tag, i) in tags" :key="`tag${i}`">
                 <story-tag :label="tag" @click="toggleTag(tag)" />
@@ -73,10 +78,20 @@
                         :class="path == story._path ? 'bg-yellow-100 dark:bg-primary-400 dark:text-primary-800' : ''"
                         :style="`transform:rotate(${-3+Math.random()*6}deg)`"
                     >
+                        <p v-if="showAuthors" class="font-sans font-sm border-b mb-2">{{ story.author }}</p>
                         <p class="font-Special text-2xl leading-tight text-secondary-800 dark:text-secondary-300" 
                         :class="path == story._path ? 'dark:text-primary-900' : ''">
-                            {{ story.description }}
+                        {{ story.description }}
                         </p>
+                        
+                        <!-- <template v-if="tagPanelOpen" >
+                            <div class="border-t mt-3 flex justify-start flex-wrap">
+                                <span v-for="tag in story.tags" :key="`t-${i}`"
+                                class="font-sans font-sm px-1 break-none">
+                                    {{ tag }}
+                                </span> 
+                            </div>
+                        </template> -->
                     </Card>
                 </NuxtLink>
             </template>
