@@ -9,7 +9,7 @@ images: [
     }
 ]
 tags: [Gustav Kutsar]
-genre: [luule]
+genre: [intervjuu]
 person: [Gustav]
 ---
 

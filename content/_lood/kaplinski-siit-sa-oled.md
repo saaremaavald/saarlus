@@ -36,9 +36,15 @@ See kõik on otsekui aeglane sisemine lainetamine, õieti mitu lainetamist, mis 
 
 <story-author :author="author"></story-author>
 
-<!-- <details-wrapper summary="Mis mõtted tekkisid?"> 
+<details-wrapper summary="Mis mõtted tekkisid?"> 
 
-</details-wrapper> -->
+- Samast kogemusest on Jaan Kaplinski kirjutanud <a href="#">luuletuse</a>
+- Jaan Kaplinski kirjutab, et inimene elab kahesuguses keskkonnas - sõnades, mis pärinevad teistelt inimestelt, ja asjades-liikumistes, mis on loodus ja inimesed ise. Saaremaani elas ta rohkem sõna-keskkonnas, seal avastas looduse. Kummas keskkonnas sina rohkem elad? Võib-olla hoopis pildi-keskkonnas? On su jaoks eri keskkonnad tasakaalus? Kuidas tasakaalustad neid?
+- “Räägime kohmakamalt, puisemalt kui rääkisid külainimesed sada aastat tagasi. Need eided ja taadid Võrumaal või Saaremaal, kelle juttu mul on veel olnud võimalus kuulata ja imetleda,” kirjutab Jaan Kaplinski, ja vaidleb vastu saarlasest keelemehele Johannes Aavikule: https://kultuur.err.ee/296091/sirp-jaan-kaplinski-kuidas-eesti-keeles-oige-oelda-on
+- Siin kuuled, kuidas 81-aastane **Mari Lepper** Kaunispe külast räägib 1967. aastal oma noorusaja talvisest haugipüügist: https://www.eki.ee/murded/fonoteek/mp3/EMH_973_42.mp3
+
+
+</details-wrapper>
 
 
 

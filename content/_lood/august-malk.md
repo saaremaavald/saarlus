@@ -1,0 +1,84 @@
+---
+layout: story-page
+title: August Mälk
+description: See oli kuri paik, kuhu maailma loomisel oli asetatud see saar.
+author: August Mälk
+origin: "1. lõik: August Mälk “Tere, meri!”, sari “Eesti novellivara”, Eesti Raamat, Tallinn, 1991. // 2. lõik: Aarne Vinkel, lühimonograafia “August Mälk”, kirjastus “Eesti Raamat”, Tallinn, 1993."
+images: [
+    {
+        src: august-malk.webp
+    },
+]
+tags: [meri, Vilsandi]
+genre: [proosa]
+person: [August]
+---
+
+<!-- # {{$doc.title}} -->
+
+
+Paljud kirjanikud ja värvikunstnikud on ülistanud merd. Selle võimsa, elava, piiritu ja vaba suursugusus on sundinud nad tunnistama: armastan merd!
+
+Mina ei armasta teda, ehkki olen kasvanud jaluli ta lahevetes. Ma ei salli, et ta peab mind lapseks ja hällitab ühes lootsikuga kui laastukest. Ei salli ta lainte roomavaid paitusi, mis on kui moodsusest imbutatud naise hellitused; külmad ja reetlikud.
+
+Ma tahaksin pigemini anda talle piitsa ja küsida: kus on rannasaunikute pojad? Kus võõraste maade laevad, mis asusid veetaguselt rannalt sõitu ja pole ealeski saabunud sihtkohta? Kus paljud kalurid, kes olid sunnitud kündma ta vaolist pinda leivahädas ja kelledest pole jäänud ristikirja? Seda tahaksin ma küsida ja piitsutada ta tujukaisse läänevoogudesse teadmise, et meres on küllalt vett ja sinna pole vaja emade ja leskede pisaraid. Ja misjaoks peab ta tegema nii, et ei lase mullastsündinuid saada taas rahus mullaks ega jäta leinajaile hauaaset, mille äärde need põlvitaksid kadunut mälestama? 
+
+<hr />
+
+Nii ei armasta ma merd.
+
+Ja ometi - tulen ikka jälle ta juurde!
+
+Peaksin end temast lahutama nagu lahutatakse rikkinud abielust. Selja pöörama murduvalainelistele karidele nagu peaksid seda tegema kõik randlased, kelledele ta on kuri ja halastamatu sõber! Näib, ma olen tasse kiindunud, nagu mõni võib olla kiindunud roimarisse, ehkki keeldun tunnistamast armumist. Ma ei saa kaua olla nägemata tõrvaseid kalapaate ja randlaste pahkunud käsi, kes sõuavad paate vastu urisevaid tormilaineid! Ma ei saa keerata eemale kõrva marupäevade kohinast ja murdude kisast kuivadel! Ma ei saa lahkuda kaldavete suvi-öisest sosinast, mis on kui lapsukese lalisemine enne und! Ma ei saa minna tast eemale, tundmata lahkumisvalu, kuigi ridastan oma mälus ta kuritegusid ja kujutlen ta sügavuste õudusid.
+
+Ma ei armasta teda, kuld ta ei anna mind vabaks.
+
+See on sellest, et meri ei anna vabaks ühtegi randlast, nagu maa ei anna vabaks puid. Randlased võivad teda vihata, karta, künda ta vett kurja vande saatel. Ent niipea, kui asuvad tast eemale, heitub igatsus kui sundija piitsa ga nende südameisse ja nad otsivad teed tagasi näljasele kruusamäele, kurja ja väheleivalise mere äärde.
+
+. . .
+
+Siin, mere süles olles \[Vilsandil - MK\] ja sellele lisaks õhtuti kapten Toomiga meresündmustest kõneldes, olin pärast minevikuaegades viibimist jõudnud tagasi ka oma kodupaikadele uuesti lähedale... Ei, õieti mingi uus, taasärganud lähedalolek ja nägemine. Ranna ja selle elanike, koos nende elutunnetusega, - mis minus endas tõusis kõiges oma tõelisuses elama, kujukalt ja selgelt.
+
+<hr />
+
+August Mälgu jutustus “Esimene maja” järjejutuna. Pahamaaks hüüab rannaküla rahvas asustamata saart, sest olud on seal karmid ja kellelgi pole tulnud pähe sinna elama asuda. Kord tormiga aga satub saarele üks võõramaalane, arvatavasti laevahukust pääsenu. Kaluritütar Hädisse armudes hakkab mees maja ehitama.
+
+1. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-esimene-maja-jarjejutt-august-malk-esimene-maja-01
+2. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-esimene-maja-jarjejutt-august-malk-esimene-maja-02
+3. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-esimene-maja-jarjejutt-august-malk-esimene-maja-03
+4. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-esimene-maja-jarjejutt-august-malk-esimene-maja-04
+5. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-esimene-maja-jarjejutt-august-malk-esimene-maja-05
+
+
+
+
+
+
+
+
+<story-author :author="author" :origin="origin"></story-author>
+
+<!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
+
+
+
+<details-wrapper summary="Mis mõtted tekkisid?">
+
+- Kuidas sina kirjeldaksid oma suhet merega? Millega võrdleksid? 
+- August Mälgu sünnipaik: https://www.youtube.com/watch?v=kI3xwlvs9Dw
+- August Mälgu elust: https://lymanda.edu.ee/malestuspingid/august-malk/
+- August Mälgu mälestused nooruspõlvest Saaremaal ja edasisest elust: 
+  1. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-hommikust-keskpaevani-jarjejutt-august-malk-hommikust-keskpaevani-01
+  2. osa: https://arhiiv.err.ee/audio/vaata/jarjejutt-august-malk-hommikust-keskpaevani-jarjejutt-august-malk-hommikust-keskpaevani-02
+
+</details-wrapper>
+
+
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
+
+1. lõik: **August Mälk** https://dea.digar.ee/cgi-bin/dea?a=d&d=kommunismiehitaja19701001.2.14&e=-------et-25--1--txt-txIN%7ctxTI%7ctxAU%7ctxTA------------- “Tere, meri!”, sari “Eesti novellivara”, Eesti Raamat, Tallinn, 1991.
+2. lõik: **Aarne Vinkel**, lühimonograafia “August Mälk”, kirjastus “Eesti Raamat”, Tallinn, 1993.
+- Foto: **Merit Karise**; fotol Vilsandi.
+
+</details-wrapper>
+

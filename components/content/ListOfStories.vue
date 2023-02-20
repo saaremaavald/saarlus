@@ -92,12 +92,13 @@
         <section class="flex gap-4 mt-10">
             <!-- <IconButton icon="icon-park-outline:tag-one" label="SILDID" @click="toggleTagPanel" /> -->
             <IconButton icon="icon-park-outline:peoples" label="ŽANR" @click="togglePanels('genre')" />
-            <IconButton icon="icon-park-outline:peoples" label="SAARLASED" @click="togglePanels('person')" />
+            <IconButton icon="icon-park-outline:peoples" label="TEGELASED" @click="togglePanels('person')" />
         </section>
         
 
         <!-- List of tags -->
-        <div class="border-solid border-t border-b overflow-hidden transition-all bg-white py-6 px-2">
+        <div class="border-solid border-t border-b overflow-hidden transition-all bg-white py-6 px-2
+            dark:bg-secondary-900 dark:border-t-secondary-700 dark:border-b-secondary-700">
             <!-- <div class="flex flex-wrap gap-x-2 gap-y-2 " :class="personPanelOpen ? 'h-auto my-6' : 'h-0 my-0'"> -->
             <div v-if="personPanelOpen" class="flex flex-wrap gap-x-2 gap-y-2">
                 <template v-for="(person, i) in persons" :key="`person${i}`">
@@ -120,7 +121,7 @@
             <template v-for="(story, i) in data">
                 <!-- <div v-if="activeGenres.length == 0 || story.genre.some(genre => activeGenres.includes(genre))"> -->
                     <NuxtLink :to="story._path"
-                        v-if="activePersons.length == 0 || story.person.some(person => activePersons.includes(person)) || story.genre.some(genre => activeGenres.includes(genre)) || activeGenres.length == 0" @click="closeList" :key="`story${i}`">
+                        v-if="(activePersons.length == 0 || story.person.some(person => activePersons.includes(person))) && (story.genre.some(genre => activeGenres.includes(genre)) || activeGenres.length == 0)" @click="closeList" :key="`story${i}`">
                         <Card class="bg-white ring-1 ring-secondary-300 shadow transition
                         dark:bg-secondary-800 dark:ring-secondary-700
                         hover:shadow-lg dark:hover:ring-secondary-500"
