@@ -6,7 +6,7 @@ author: Heiki Pärdi
 origin: "Katkendid raamatust: Heiki Pärdi artikkel “Abielu ja rahvakultuur - sajandialguse Saaremaa ERMi välipäevikuis.” Saaremaa Muuseumi toimetised, 1995."
 images: [
     {
-        src: heiki-pardi-seen.webp
+        src: heiki-pardi-seened.webp
     },
 ]
 tags: [seen]
@@ -17,7 +17,7 @@ person: [Heiki]
 <!-- # {{$doc.title}} -->
 
 
-> “Proua Piht (kooliõp.) annab süüa - seeni. See proua on mulk - sööb seeni. Saarlased seeni ei söö. Neid vedeleb metsades mis hirmus. Jälle üks asi, mida annab uurida. \
+> “Proua Piht (kooliõp.) annab süüa - seeni. See proua on mulk - sööb seeni. Saarlased seeni ei söö. Neid vedeleb metsades mis hirmus. Jälle üks asi, mida annab uurida.
 
 > Lugu aga seisab vist ses, et nad veel nii kaugele pole “jõudnud”. Siin käiakse alles esiisadest pärandat kõvade reeglite järgi ja ebausk ei luba suurt neist kõrvale kalduda. Igal päeval näituseks on oma “menu” \[menüü - H.P.\] ammust ajast kindlaks määrat. Seeni ses “menus” ei ole. Nii siis - pole tarvis.
 
@@ -37,7 +37,7 @@ person: [Heiki]
 
 **Sõrulane Mari Lepik:** “Enamasti seostatakse saarlaste seente mittesöömist Rootsi kultuuri mõjudega. Mina olen ikka mõelnud, et üks saarlaste seente mittesöömise põhjusi lisaks kultuurilistele võiks olla ökoloogilist laadi. Nimelt olid kõikvõimalikud paigad siin ju karjamaadeks. Lehmad-lambad igas võimalikus paigas. Kariloomad sõid aga kõik söögiseened ise ära. Järele jäid vaid mürgiseened ja vastikud seened, mida lehmad-lambad ei tahtnud. Ja ennäe - saarlastel jäigi mulje, et kõik seened on kas mürgised või panevad vähemasti kõhu valutama... Ega ma ei tea, lihtsalt selline mõte on mul olnud.”
 
-**Ookeri kommentaar:** “Mõni uurija on täheldanud ka seda, et lisaks seentele ei söö saarlane kakajunne ja käbisid.”
+**Anonüümne kommentaator:** “On täheldatud ka seda, et lisaks seentele ei söö saarlane kakajunne ja käbisid.”
 
 
 <!-- Autor: Heiki Pärdi, eesti ajaloolane ja etnoloog -->
