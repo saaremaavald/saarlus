@@ -1,0 +1,47 @@
+---
+layout: story-page
+title: Aino Kallas - Üle müüri
+description: "Ärka, auväärt Kuressaare kodanik, vaata, lillelõhn voolab kelleltki luba küsimata sinu aiast tänavale!"
+author: Aino Kallas
+origin: "Jutustus: Aino Kallas, jutustus “Üle müüri”, kogu “Valitud proosat Friedebert Tuglase tõlkes”, Eesti Raamat, 1984."
+images: [
+    {
+        src: aino-kallas-yle-myyri.webp
+    },
+]
+tags: [müür]
+genre: [proosa]
+person: [Aino]
+---
+
+<!-- # {{$doc.title}} -->
+
+Üle hallkiviste müüride, mis on küllalt kõrged, et varjata möödamineja silmade eest aedu, kuid küllalt madalad, et puud võivad üle kummarduda, variseb tühjale, öisele tänavale õitevihm. Tänav on täis surevate lillede lõhna. Nagu väikesed põgenenud sõnumitoojad lendlevad tuulekantud õiekarikad ümber, lugematud lõhnavad tervitused müüritaguseist aedadest. Oi nende nägemata käte vaevalt tunduvad paitused, sõnad, mis ümber kahisevad, kerged ja haprad kui lõhn, salajane armuavaldus, ikka uuesti, ikka uuesti ööle kuulmata sosistatud! Lõhnavad sõnad, mis ootavad möödaminejat kesköisel meretagusel tänaval!
+
+Hommikuni on veel aega, ja linna karjane pole veel sidunud oma viisupaelu, et ajada suurt linna lehmakarja orasheina kasvatavale maltsmaale. Raekoja tornist ei lehvi veel lipp, mis teataks varase laeva saabumist kaugesse sadamasse, ega ragise veel sõrvelaste vankrid lestadega turu poole, kuna kirjuriidelised, torukübaralised naised kalatoobrite taga tukuksid, sukavardad käes. Öövahi tunnihüüd tänava nurgal on vaikinud juba aastakümnete eest.
+
+Milline pisike isikukene on see magav linn, kes on sunnitud elama parasiidina teise eluvõimsama olevuse kulul, ilma oma veretukseta, eemal suurtest laevareididest, vaikne, merest võõrdunud linn, kus minevik kõneleb valjumini kui olevik! Väikesed valged majad magavad, punased telliskivi-katused silmile veetud ja rohelised aknaluugid suletud. Meretagune uni on rahuline ja sitke, olgugi uksed ja väravad tabata ning lukuta. Ärka, auväärt Kuressaare kodanik, vaata, lillelõhn voolab kelleltki luba küsimata sinu aiast tänavale! Õunad ja kirsid jäävad sulle, kuid lõhn läheb vangitsematuna kõige maailma teed, seganedes öö kaunisse ja rõõsasse selgusse. Oi neid valveta jäänud saladusi, mis öö jõudes üle müüri voolavad, tervitusi tähita kevadsuve öö ja õitsvate aedade vahel, väikeste lillehaldjate tantsu konarlikul ning halvastikivitatud tänaval, valget lilleohvri-suitsu suve altaril... Tänav on tühi, ja öö kuulav kõrv kogub eksinud, lendlevaid sõnu. 
+
+
+<!-- Täägid kummarduma varisema lendlema ootama ragisema tukkuma magama eksima tantsima -->
+
+
+
+
+
+<story-author :author="author" :origin="origin"></story-author>
+
+<details-wrapper summary="Mis mõtted tekkisid?">
+
+- Kuidas sina kirjeldaksid tänase Kuressaare suveööd ja varahommikut? Mida on näha, milliseid lõhnu tunda, kes ärkavas linnas toimetavad? Kas näed ülal lauseid või mõtteid, mida kehtivad ka tänase Kuressaare kohta?
+- Aino Kallas nägi sellist Kuressaaret üle 100 aastat tagasi. Mis sa arvad, milline on Kuressaare varahommik aastal 2123? Milline sa tahaksid, et Kuressaare oleks 100 aasta pärast? Mida sa tahaksid muutumatuna säilitada, mida muuta või hoopistükkis ära kaotada?
+
+</details-wrapper>
+
+
+<details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
+
+- Jutustus: **Aino Kallas**, jutustus “Üle müüri”, kogu “Valitud proosat Friedebert Tuglase tõlkes”, Eesti Raamat, 1984. 
+- Foto: **Merit Karise**; fotol Kuressaarke keskplats.
+
+</details-wrapper>

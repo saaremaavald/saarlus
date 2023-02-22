@@ -5,7 +5,8 @@ author: "Marie Dücker"
 origin: "mälestused"
 images: [
     {
-        src: "marie-ducker.webp"
+        src: "marie-ducker.webp",
+        height: 90vh
     }
 ]
 tags: [Marie Ducker, jalutamine, ületamine]

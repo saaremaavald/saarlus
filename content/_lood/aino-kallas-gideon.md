@@ -6,7 +6,7 @@ author: Aino Kallas
 origin: "Jutustus: Aino Kallas, jutustus “Pihtimus surivoodil”, kogu “Armastuse vangid”, tõlkinud Johannes Aavik, kirjastus Orto, Toronto, 1952. Lühendatult."
 images: [
     {
-        src: aino-kallas-02.webp
+        src: aino-kallas-gideon.webp
     },
 ]
 tags: []
