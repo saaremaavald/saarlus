@@ -1,0 +1,1 @@
+import{M as t,N as r,$ as a}from"./runtime-core.esm-bundler.0edcc7e6.js";const o={__name:"DummySpacer",props:{height:String},setup(e){return(n,c)=>(t(),r("div",{style:a({height:`${e.height}`})},null,4))}};export{o as default};
