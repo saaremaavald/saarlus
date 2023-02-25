@@ -3,6 +3,8 @@
     const { data } = await useAsyncData(`content-${path}`, () => {
         return queryContent().where({ _path: path }).only(['images']).findOne();
     });
+    const isOpen = modalOpen();
+    const zoomedImage = activeImage();
 </script>
 
 <template>
@@ -14,7 +16,7 @@
                 />
             </template>
         </section>
-        <main class="py-20 max-w-4xl px-4 mx-auto sm:px-8 prose  prose-gray dark:prose-invert">
+        <main class="py-20 max-w-4xl px-4 mx-auto sm:px-8 prose prose-gray dark:prose-invert">
             <slot>
                 <h1 class="text-2xl">
                     Page not found
@@ -25,6 +27,13 @@
     <div class="p-10">
       <!-- <ListOfStories /> -->
     </div>
+
+    <Teleport to="body">
+        <div v-if="isOpen">
+            <image-modal :image="zoomedImage" />
+        </div>
+    </Teleport>
+
 </template>
   
 <style>

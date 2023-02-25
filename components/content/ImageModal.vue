@@ -1,7 +1,4 @@
 <script setup>
-    // import { inject } from "vue";
-    // import { useStore } from "vuex";
-    // import IconButton from "./IconButton.vue";
 
     const props = defineProps({
         image:String
@@ -12,10 +9,6 @@
         isOpen.value = !isOpen.value;
     }
 
-    //const store = useStore();
-    //const modalOpen = ref(computed(() => store.getters.modalOpen));
-    //const toggleModal = () => {store.commit("toggleModal", modalOpen.value)};
-    // const { amOpen, toggleModal } = inject('open');
 </script>
 
 <template>

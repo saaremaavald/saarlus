@@ -1,6 +1,5 @@
 <script setup>
     // import {ref, computed, provide} from "vue";
-    // import { useStore } from "vuex";
 
     const props = defineProps({
         src : {     type:String },
@@ -13,7 +12,10 @@
     });
 
     const isOpen = modalOpen();
+    const zoomedImage = activeImage();
+
     const toggleOpen = () => {
+        zoomedImage.value = props.src;
         isOpen.value = !isOpen.value;
     }
     
@@ -40,11 +42,7 @@
         </div>
     </div>
     
-    <Teleport to="body">
-        <div v-if="isOpen">
-            <image-modal :image="props.src" :key="props.src" />
-        </div>
-    </Teleport>
+    
     
 </template>
 
