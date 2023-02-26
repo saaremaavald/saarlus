@@ -6,7 +6,7 @@ author: Andrus Laansalu
 origin: "kirjutatud tekst 9.detsembril 2022 Kuressaares Thule kojas toimunud mõttetalgute tarbeks, kus arutleti Kuressaarde uue kontserdimaja ehitamise vajalikkuse üle."
 images: [
     {
-        src: andrus-laansalu-thule.webp
+        src: andrus-laansalu-torgu.webp
     },
 ]
 tags: []

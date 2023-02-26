@@ -6,7 +6,7 @@ author: Heiki Pärdi
 origin: "Katkendid raamatust: Heiki Pärdi artikkel “Abielu ja rahvakultuur - sajandialguse Saaremaa ERMi välipäevikuis.” Saaremaa Muuseumi toimetised, 1995."
 images: [
     {
-        src: heiki-pardi.webp
+        src: heiki-pardi-saarlased.webp
     },
 ]
 tags: []

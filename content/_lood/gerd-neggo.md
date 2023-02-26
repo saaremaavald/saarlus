@@ -6,7 +6,8 @@ author: Gerd Neggo, Heili Reinart
 origin: "Gerd Neggo, “Märkeid uuest kunsttantsust”, Päewaleht, nr. 13, 14. jaanuar 1927 / Heili Reinart, “Ajaloonaine: Paljude kuulsate eestlaste edu taga olnud tantsulavastaja Gerd Neggo kustus ise Rootsis ja unustati”, Postimees, 30. juuni 2020"
 images: [
     {
-        src: gerd-neggo.webp
+        src: gerd-neggo.webp,
+        bgPos: "100% -30%"
     },
 ]
 tags: []

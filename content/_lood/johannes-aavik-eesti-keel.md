@@ -6,7 +6,7 @@ author: Helgi Vihma
 origin: "Katkendid raamatust: Helgi Vihma “Johannes Aavik - aatemees ja keeleuuendaja”, 2021."
 images: [
     {
-        src: helgi-vihma.webp
+        src: aavik-noor-eesti.webp
     },
 ]
 tags: [keel]
