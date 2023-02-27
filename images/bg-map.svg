@@ -3,13 +3,14 @@
 <defs>
     <style>
         .line {
-            stroke: hsl(0,0%,85%);
+            stroke: hsl(0,0%,90%);
             stroke-width: 3;
             stroke-linecap: round;
             stroke-dasharray: 0 8;
         }
         .punn {
-            fill:#D0CCC9;
+            stroke: hsl(0,0%,90%);
+            fill:white;
         }
 </style>
 </defs>
