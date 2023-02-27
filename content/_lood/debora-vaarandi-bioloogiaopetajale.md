@@ -9,7 +9,7 @@ images: [
     }
 ]
 tags: [vainurästas, õpetaja, bioloogia, meri, tamm]
-genre: [luule]
+genre: [luule, kiri]
 person: [Debora]
 ---
 

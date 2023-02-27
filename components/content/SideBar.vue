@@ -25,7 +25,7 @@
         
         <nav class="flex flex-col gap-4 mt-[10vh]">
             <IconButton icon="icon-park-outline:list" label="LOOD" @click="toggleList" />
-            <IconButton icon="icon-park-outline:list" label="TEOD" @click="toggleEx" />
+            <IconButton icon="icon-park-outline:writing-fluently" label="TEOD" @click="toggleEx" />
             <!-- <IconButton icon="icon-park-outline:list" label="ASI" @click="toggleList" /> -->
         </nav>
         <ColorModeSwitch class="mb-[10vh] dark:text-primary-100 hover:text-primary-700 dark:hover:text-primary-300" />

@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [arhitektuur]
-genre: [ühiskond]
+genre: [ühiskond, kiri]
 person: [Helmut, Proua S., Ronald]
 ---
 

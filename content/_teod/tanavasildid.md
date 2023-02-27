@@ -1,24 +1,24 @@
 ---
 layout: story-page
-title: Tegu nr 2
+title: Tegu
 description: "tänavasildid"
 images: [
     {
-        src: _tegu-02-1.webp,
+        src: teod/tanavasildid-1.webp,
         zoom: true
     },
     {
-        src: _tegu-02-2.webp,
+        src: teod/tanavasildid-2.webp,
         bgPos: "90% 50%",
         zoom: true
     },
     {
-        src: _tegu-02-3.webp,
+        src: teod/tanavasildid-3.webp,
         bgPos: "0% 50%",
         zoom: true
     },
     {
-        src: _tegu-02-4.webp,
+        src: teod/tanavasildid-4.webp,
         zoom: true
     },
 ]
@@ -27,7 +27,7 @@ genre: [ühiskond, mälestused]
 person: [Bruno]
 ---
 
-# {{$doc.title}} : {{$doc.description}}
+# {{$doc.title}}: {{$doc.description}}
 
 Tee lihtsal ja vaimukal moel nähtavaks ühe paiga kultuuriajalugu - või oma mõte. Kui jalutad, vaata avalikus ruumis olevaid silte sellise pilguga, et kas neil olev sõna saaks olla osa lausest, fraasist, liitsõnast, mis ütleb midagi selle paiga kultuuriloo kohta. Näiteks rida luuletusest või proosatekstist, mille autor on selle paigaga seotud; ajaloofakt; vanasõna; lause rahvajutust, (rahva)laulust jne, mille leidsid näiteks siit saarluse kursuselt. Või siis sinu enda mõte. Tee sildist foto ja lisa fotole sõnad (ja/või mitte-sõnalised elemendid) programmis, mida kasutad (telefonis nt Picsart). Või, kui võimalik, siis lisa oma sõnumi elemendid ajutiselt (või kui aia omanik ja KOV lubavad, siis ka pikemalt) ka füüsilisel kujul sildi juurde ja tee siis pilt.
 

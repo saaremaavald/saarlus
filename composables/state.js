@@ -1,10 +1,11 @@
 export const modalOpen = () => useState('modalOpen', () => false);
-export const panelOpen = () => useState('panelOpen', () => true);
-export const tagsOpen = () => useState('tagsOpen', () => false);
 export const listOpen = () => useState('listOpen', () => false);
 export const exOpen = () => useState('exOpen', () => false);
-export const authorsOpen = () => useState('authorsOpen', () => false);
-export const genreOpen = () => useState('genreOpen', () => false);
+export const genreOpen = () => useState('genreOpen', () => true);
 export const personOpen = () => useState('personOpen', () => false);
 export const storiesData = () => useState('storiesData', () => null);
-export const activeImage = () => useState('activeImage', () => "_teod-01.webp");
+export const activeImage = () => useState('activeImage', () => "sirgelda-kodu.webp");
+export const activeGenres = () => useState('activeGenres', () => []);
+// export const panelOpen = () => useState('panelOpen', () => true);
+// export const tagsOpen = () => useState('tagsOpen', () => false);
+// export const authorsOpen = () => useState('authorsOpen', () => false);

@@ -7,7 +7,6 @@
 
     
 
-
     const showEx = exOpen();
 
     const closeEx = () => {
@@ -17,7 +16,7 @@
 </script>
 
 <template>
-    <section class="min-h-screen bg-primary-50  p-10 dark:bg-secondary-900">
+    <section class="h-screen overflow-auto bg-primary-50 p-10 dark:bg-secondary-900">
 
         <h1 class="mb-4 font-Special text-5xl text-secondary-800 
             dark:text-primary-200">
@@ -81,7 +80,7 @@
                         >
                         <p class="font-Special text-2xl leading-tight text-secondary-800 dark:text-secondary-300"
                         :class="path == ex._path ? 'dark:text-primary-900' : ''">
-                        {{ ex.title }}:<br />{{ ex.description }}
+                        {{ ex.title }} nr {{ i+1 }}:<br />{{ ex.description }}
                         </p>
                     </Card>
                 </NuxtLink>

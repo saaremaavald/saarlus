@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [kommunist]
-genre: [ühiskond]
+genre: [ühiskond, kiri]
 person: [Viktor]
 ---
 
