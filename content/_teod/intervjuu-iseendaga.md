@@ -16,7 +16,7 @@ Loe intervjuusid, pöörates tähelepanu just küsimustele, ning tee intervjuu t
 
 
 
-<!-- <details-wrapper summary="Lisaks">
+<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 
 </details-wrapper>

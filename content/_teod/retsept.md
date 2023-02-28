@@ -35,7 +35,7 @@ Sirgelda retsept, mille järgi saab teha mõnd Saaremaa kohalikku või teie pere
 
 
 
-<!-- <details-wrapper summary="Lisaks">
+<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 
 </details-wrapper>

@@ -34,7 +34,7 @@ Kirja võid kirjutada digitaalselt või käsitsi paberile. Viimase puhul võid i
 
 
 
-<!-- <details-wrapper summary="Lisaks">
+<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 
 </details-wrapper>

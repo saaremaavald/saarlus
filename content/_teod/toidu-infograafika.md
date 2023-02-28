@@ -29,7 +29,7 @@ Vaata üle, milliseid ja kui palju Saaremaal kasvatatud toiduained, Saaremaal to
 - munad (ämma töökaaslaelt, 1 karp) 1 = 1 karp -->
 
 
-<details-wrapper summary="Lisaks">
+<details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 - Kuidas toidusüsteem, nagu iga tootmis- ja tarbimissüsteem, omab mõju meie elukeskkonnale, tervisele, sotsiaalsele keskkonnale ja majandusele, saab lugeda siit: https://toitumine.ee/kuidas-poes-toitu-valida/jatkusuutlikkus
 

@@ -27,7 +27,7 @@ jääkillu-stik
 
 
 
-<details-wrapper summary="Lisaks">
+<details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 - Siit leiad inspiratsiooniks veel näiteid, kuidas kirjeldavad ulgueestlased Eestit: \
 https://www.globaalsedeestlased.org/p/45-motet-kuidas-kirjeldada-eestit

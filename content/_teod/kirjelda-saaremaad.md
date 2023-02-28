@@ -26,7 +26,7 @@ Lähis-Ida asjatundja **Peeter Raudsik**: *“Oleneb kellega ma räägin, kust t
 Matemaatikaõpetaja **Marit Zahkna**: *“Eestis pole kõige kõrgemaid mägesid, pikimaid jõgesid ega maailmakuulsaid ehitisi. Samas on meil väga palju metsa, meil on väga vaikne ja meil on palju ruumi. See on suur asi, et Eestis ma saan minna oma maja taha metsa ning korjata mustikaid omale koogi peale. Paljudes kohtades maailmas pole see võimalik ja tundub inimestele uskumatu."*
 
 
-<details-wrapper summary="Lisaks">
+<details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
 - Siit leiad inspiratsiooniks veel näiteid, kuidas kirjeldavad ulgueestlased Eestit: \
 https://www.globaalsedeestlased.org/p/45-motet-kuidas-kirjeldada-eestit

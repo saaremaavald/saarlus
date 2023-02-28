@@ -2,7 +2,7 @@
 layout: story-page
 description: Vanaema ja mina olime jõulise saarlase juhitud kelgul, samal ajal kui mehed pikkade pootshaakidega ees kõndisid ja jää tugevust kontrollisid.
 author: "Marie Dücker"
-origin: "mälestused"
+origin: "lapsepõlvemälestused: “Herdflammen: Baltisches Haus- und Jugendblatt” / Tekst Eugen Dückeri kohta: Kunilaart.ee / Katkendid raamatust: “Naiste maailm” ja “Näitus “Eneseloomine”...”: “Eneseloomine. Emantsipeeruv naine Eesti ja Soome kunstis”"
 images: [
     {
         src: "marie-ducker.webp",
@@ -68,7 +68,7 @@ Näitus “Eneseloomine”, KUMU, Tallinn, 2019: “Näitusi, kus eksponeeritaks
 
 
 
-:story-author{:author="author" :origin="origin"}
+<story-author :author="author" :origin="origin"></story-author>
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
@@ -83,7 +83,7 @@ Näitus “Eneseloomine”, KUMU, Tallinn, 2019: “Näitusi, kus eksponeeritaks
 
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
-- Marie Dückeri lapsepõlvemälestused: https://www.digar.ee/arhiiv/et/perioodika/62217?fbclid=IwAR0Jzycqtokg8TAIVT8kV4x6CuPFa-R5gbtlfJjQy8M6S2G-04oCLinTjJg
+- **Marie Dückeri** lapsepõlvemälestused: https://www.digar.ee/arhiiv/et/perioodika/62217?fbclid=IwAR0Jzycqtokg8TAIVT8kV4x6CuPFa-R5gbtlfJjQy8M6S2G-04oCLinTjJg
 - Tekst **Eugen Dückeri** kohta: https://kunilaart.ee/et/artist/eugen-gustav-ducker/?width=1351&height=0
 - Katkendid raamatust: “Naiste maailm” ja “Näitus “Eneseloomine”...”: “Eneseloomine. Emantsipeeruv naine Eesti ja Soome kunstis”, näitusega kaasnev raamat, KUMU, Tallinn, 2019.
 - **Friedrich Sigismund Stern** (1812 - 1889) oli graafik ja maalikunstnik, kes andis Kuressaare kreiskoolis joonistusõpetust. Aastal 1859 andis ta välja Saaremaa kohta käiva esimese eesti rahvarõivaste albumi, mida saab näha siit: http://dspace.ut.ee/handle/10062/29434

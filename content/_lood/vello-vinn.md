@@ -5,7 +5,7 @@ author: "Mehis Tulk"
 origin: "“Saarlane: omanäolisuse annab omapärane mõtlemine”, Saarte Hääl, 28. november 2020"
 images: [
     {
-        src: "marie-ducker.webp"
+        src: "vello-vinn.webp"
     }
 ]
 tags: [Vello Vinn, pagema, peegeldama, alustama, lahkuma]

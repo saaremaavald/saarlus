@@ -93,7 +93,7 @@ Annely veedab suure osa oma ajast mere ääres vabatahtliku merepääste seltsi 
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Annely Enke südame paneb kiiremalt põksuma meri, millega on seotud nii tema igapäevatöö kui vabatahtlik tegevus. Mis paneb Saaremaal sinu südame kiiremalt põksuma?
+- **Annely Enke** südame paneb kiiremalt põksuma meri, millega on seotud nii tema igapäevatöö kui vabatahtlik tegevus. Mis paneb Saaremaal sinu südame kiiremalt põksuma?
 - Kuidas on koroonapandeemia ja kliimasoojenemine muutnud sinu arvates elu Saaremaal?
 - Milline mõttetera on sulle meelde jäänud oma vanavanemate või vanemate suust? Nagu Annely Enke vanaisa ütles, et maailmapäästja elu ei olegi kerge.
 
