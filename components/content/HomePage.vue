@@ -112,9 +112,9 @@
     lg:flex-row lg:min-h-[80vh] lg:justify-center lg:items-center lg:gap-[5vw] lg:max-w-6xl">
         <div class="flex flex-col justify-center gap-6 order-2 grow text-center 
         lg:order-1 lg:text-left lg:items-start lg:gap-6">
-            <h1 class="font-Special text-primary-700 text-6xl leading-[0.75] tracking-tight 
-            lg:text-8xl lg:leading-[0.65]
-            xl:text-[8rem] xl:leading-[0.65]
+            <h1 class="font-Special mt-8 text-primary-700 text-6xl leading-[0.75] tracking-tight 
+            lg:text-7xl lg:leading-[0.65] lg:mt-0
+            xl:text-[6rem] xl:leading-[0.65]
             dark:text-primary-400">
                 Saarluse kompass
             </h1>
@@ -124,7 +124,7 @@
             dark:text-secondary-400
             lg:mt-5">Tule uita lugudes, mis on jutustanud, kirja pannud ja piltidena kujutanud inimesed, keda Saaremaaga seob elu või töö või õppimine - või kõik koos. Kindlasti leiad sel teel üht-teist tuttavat, tõenäoliselt palju uut, ning võib juhtuda, et leiad ka  iseenda - ja see vast oleks köige kenam?</p>
             <p class="font-sans text-secondary-900 text-lg
-            dark:text-secondary-400">Esimese sammuna kliki <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="compassNeedleClick">kompassil</a> ja vaata, kuhu satud. Või vali <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="toggleStories">nimekirjast</a> mõte, mis sind kaasa kutsub.</p>
+            dark:text-secondary-400">Esimese sammuna kliki <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="compassNeedleClick">kompassi keskel</a> ja vaata, kuhu satud. Või vali <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="toggleStories">nimekirjast</a> mõte, mis sind kaasa kutsub.</p>
 
         </div>
         

@@ -32,13 +32,13 @@
 
     </section>
     <Teleport to="body">
-        <div v-if="showStories" class="absolute min-h-screen top-0 left-0 w-full z-50 bg-white" >
+        <div v-if="showStories" class="fixed min-h-screen top-0 left-0 w-full z-50 bg-white" >
             <list-of-stories />
             <div class="fixed right-8 top-4">
                 <CloseButton @click="toggleList" />
             </div>
         </div>
-        <div v-if="showEx" class="absolute min-h-screen top-0 left-0 w-full z-50 bg-white" >
+        <div v-if="showEx" class="fixed min-h-screen top-0 left-0 w-full z-50 bg-white" >
             <list-of-exercises />
             <div class="fixed right-8 top-4">
                 <CloseButton @click="toggleEx" />

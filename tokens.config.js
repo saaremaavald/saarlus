@@ -114,7 +114,7 @@ export default defineTheme({
         }
     },
     font: {
-        cursive: 'Mansalva, cursive',
+        cursive: 'Shantell Sans, cursive',
         // sans: 'Inter, sans-serif',
         serif: 'Merriweather, ui-serif, Georgia, serif',
         // mono: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace'

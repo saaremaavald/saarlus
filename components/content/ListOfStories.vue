@@ -127,7 +127,7 @@
                             :class="path == story._path ? 'bg-yellow-100 dark:bg-primary-400 dark:text-primary-800' : ''"
                             :style="`transform:rotate(${-3+Math.random()*6}deg)`"
                         >
-                            <p class="font-Special text-2xl leading-tight text-secondary-800 dark:text-secondary-300"
+                            <p class="font-Special text-xl leading-tight text-secondary-800 dark:text-secondary-300"
                             :class="path == story._path ? 'dark:text-primary-900' : ''">
                             {{ story.description }}
                             </p>

@@ -4,7 +4,7 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          Special: ["Mansalva", "cursive"],
+          Special: ["Shantell Sans", "cursive"],
           Normal: ["Merriweather", "serif"],
         },
         colors: {
