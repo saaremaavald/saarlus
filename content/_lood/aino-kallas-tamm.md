@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-tamm.webp
     },
 ]
-tags: [Abruka, tamm]
-genre: [proosa]
-person: [Aino, tamm]
+tags: [Abruka, Kuressaare, noorus, vanadus]
+genre: [lühilugu]
+person: [Aino, tamm, meri, Jaak, Ado, Madis, Suur Tõll, Ants, Riidu]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -9,8 +9,8 @@ images: [
         src: "aira-kaal-oma-saar.webp"
     }
 ]
-tags: [Aira Kaal]
-genre: [luule]
+tags: [Kõinastu, Saareküla, Unguma, Maasilinn]
+genre: [lühiproosa]
 person: [Aira, Laani T.]
 ---
 

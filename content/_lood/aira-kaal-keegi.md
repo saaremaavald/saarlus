@@ -1,15 +1,15 @@
 ---
 layout: story-page
-description: Pean lõpuks mõistma, et ma olen keegi
+description: Pean lõpuks mõistma, et ma olen keegi.
 author: Aira Kaal
 images: [
     {
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: [Aira Kaal, kirjanik, naine]
+tags: []
 genre: [luule]
-person: [Aira]
+person: [Aira, naine]
 ---
 
 <!-- # {{ $doc.title }} -->

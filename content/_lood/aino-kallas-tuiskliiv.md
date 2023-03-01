@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-tuiskliiv.webp
     },
 ]
-tags: [liiv]
-genre: [proosa]
-person: [Aino]
+tags: [Saaremaa]
+genre: [lühilugu]
+person: [Aino, tuiskliiv]
 ---
 
 <!-- # {{$doc.title}} -->

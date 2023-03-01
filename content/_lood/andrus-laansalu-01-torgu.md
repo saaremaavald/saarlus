@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-torgu.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Sõrve, Torgu]
+genre: [lühiproosa]
+person: [Andrus, viinamäetigu, Carl, Nikolai, Christine, maja]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -1,12 +1,12 @@
 ---
 layout: story-page
-description: Siin mina istun ja imetlen sind; kidura looduse lopsakas hing
+description: Siin mina istun ja imetlen sind; kidura looduse lopsakas hing.
 title: Kidura looduse lopsakas hing
 author: Aira Kaal
 images: [{ src: "aira-kaal-pank.webp" }]
-tags: ["Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine"]
+tags: [Saaremaa]
 genre: [luule]
-person: [Aira]
+person: [Aira, kivi]
 ---
 
 

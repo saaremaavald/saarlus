@@ -9,9 +9,9 @@ images: [
         src: aira-kaal-kuressaare.webp
     },
 ]
-tags: [päevik, Sõrve]
-genre: [ühiskond, mälestused]
-person: [Aira]
+tags: [Kuressaare, Trakai, kool, noorus]
+genre: [mälestus]
+person: [Aira, lehm, loss]
 ---
 
 <!-- # {{$doc.title}} -->

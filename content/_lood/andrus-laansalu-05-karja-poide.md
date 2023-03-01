@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-karja-poide.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Karja, Pöide, Kaali]
+genre: [lühiproosa, muusika]
+person: [Andrus, maja, Manfred, ]
 ---
 
 <!-- # {{$doc.title}} -->

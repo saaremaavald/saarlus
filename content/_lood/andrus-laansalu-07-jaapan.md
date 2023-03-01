@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-jaapan.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Torgu, Jaapan, Saaremaa]
+genre: [lühiproosa, muusika]
+person: [Andrus, maja, tuulik]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -9,9 +9,9 @@ images: [
         src: albert-uustulnd.webp
     },
 ]
-tags: [romaan, eksamid]
-genre: [proosa]
-person: [Albert]
+tags: [Kuressaare, kool, noorus]
+genre: [romaanikatkend]
+person: [Albert, loss, Anno, Vaska, Lea, Pootsu, Ethel, Katrin, Karlo, Petu]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -9,9 +9,9 @@ images: [
         src: aleksandra-laas.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Aleksandra]
+tags: [Newcastle, Kaarma, Tallinn, Aafrika, Leningrad, Saksamaa, Ameerika, New York, lapsepõlv, noorus, vanadus, surm]
+genre: [artikkel]
+person: [Aleksandra, Mihkel, meri, Aleksander]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -51,7 +51,7 @@ Sügisel oli Aleksandra, nagu kavandatud, jälle koolipingis. 6. aprillil 1940 l
 Sügisel 1940 munsterdas Aleksandra Laas end kaubalaevale Kadri kolmandaks tüürimeheks ja teenis sellel kuni järgmise aasta alguseni. Sõjasuvel 1941 sõitis tüürimees Aleksandra ühel Eesti laeval, mis läks Leningradi, kuhu ta ka jäi. Elas üle blokaadi alguse ja näljaaja. Kevadel vara oskas ta leida tärkavaid võrseid, mis kõlbasid söögiks, sest ta tundis hästi taimi. Siis laskis naine end värvata parašütistiks-sabotööriks ning pärast koolituse läbimist heideti ta Eesti kohal langevarjuga alla. Tema aga andis end kohe sakslaste kätte ja need omakorda rakendasid teda vastuluures. Eesti taas­okupeerimise eel põgenes Aleksandra Saksamaale. Et saada luba USA-sse emigreerumiseks, luiskas naine end kümme aastat nooremaks. Tänu sellele pidi ta hiljem Ameerika Ühendriikides töötama kõrge vanuseni.
 
 Alates 1949. aastast elas ta New Yorgis, keskklassi linnaosas ja töötas ühe firma kontoris asjaajajana. Ta hoidus igasugusest poliitikast, ei käinud ka kohalikus Eesti Majas. \
-Aleksandra suri 93 aastaselt 15. märtsil 2005 vähki.
+Aleksandra suri 93 aastaselt 15. märtsil 2005.
 
 
 

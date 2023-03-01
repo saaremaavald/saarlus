@@ -8,9 +8,9 @@ images: [
         src: "aira-kaal-lahkumise-laul.webp"
     }
 ]
-tags: [Aira Kaal]
+tags: [Orissaare, Väinasild, Virtsu, Kuivastu]
 genre: [luule]
-person: [Aira]
+person: [Aira, murre]
 ---
 
 <!-- # {{ $doc.title }}  -->

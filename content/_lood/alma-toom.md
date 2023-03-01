@@ -9,9 +9,9 @@ images: [
         src: alma-toom.webp
     },
 ]
-tags: [linnud]
-genre: [ühiskond]
-person: [Alma]
+tags: [Vilsandi, Vaika]
+genre: [artikkel]
+person: [Alma, lind]
 ---
 
 <!-- # {{$doc.title}} -->

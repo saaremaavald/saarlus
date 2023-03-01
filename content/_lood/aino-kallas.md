@@ -9,9 +9,9 @@ images: [
         src: aino-kallas.webp
     },
 ]
-tags: []
-genre: [proosa]
-person: [Aino, Andres, Jenny]
+tags: [Kuressaare, kool, noorus, Abruka]
+genre: [lühilugu]
+person: [Aino, Andres, Jenny, von Poll, Beata, Armin, Eichenbaum]
 ---
 
 <!-- # {{$doc.title}} -->

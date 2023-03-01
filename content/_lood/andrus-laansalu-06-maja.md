@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-maja.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Saaremaa, Tallinn, Sõrve]
+genre: [lühiproosa]
+person: [Andrus, maja, Peter. Ludwig]
 ---
 
 <!-- # {{$doc.title}} -->

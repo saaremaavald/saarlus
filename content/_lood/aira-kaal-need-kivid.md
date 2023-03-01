@@ -8,9 +8,9 @@ images: [
         src: "aira-kaal-need-kivid.webp"
     }
 ]
-tags: [Aira Kaal]
-genre: [luule]
-person: [Aira]
+tags: [Saaremaa, Armeenia]
+genre: [luule, muusika]
+person: [Aira, kivi]
 ---
 
 <!-- # {{$doc.title}} -->

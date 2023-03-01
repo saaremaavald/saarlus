@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-kontsert.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Anseküla, Üüdibe, Massi]
+genre: [lühiproosa, muusika]
+person: [Andrus, maja, Martin]
 ---
 
 <!-- # {{$doc.title}} -->

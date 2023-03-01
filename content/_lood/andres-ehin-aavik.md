@@ -9,7 +9,7 @@ images: [
         src: "andres-ehin-aavik.webp"
     }
 ]
-tags: [luule, tamm]
+tags: [surm]
 genre: [luule]
 person: [Johannes]
 ---
