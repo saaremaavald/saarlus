@@ -8,7 +8,7 @@ images: [
         src: "aira-kaal-lootus.webp"
     }
 ]
-tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [Inglismaa, Saaremaa]
 genre: [luule]
 person: [Aira]
 ---

@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-surnud.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [surm, Saaremaa, Salme]
+genre: [lühiproosa]
+person: [Andrus, maja]
 ---
 
 <!-- # {{$doc.title}} -->

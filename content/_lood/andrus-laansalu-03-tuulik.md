@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-tuulik.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Andrus]
+tags: [Saaremaa, Angla, Muhu]
+genre: [lühiproosa, muusika]
+person: [Andrus, tuulik, maja, Jüri]
 ---
 
 <!-- # {{$doc.title}} -->

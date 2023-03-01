@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-yle-myyri.webp
     },
 ]
-tags: [müür]
-genre: [proosa]
-person: [Aino]
+tags: [Kuressaare, surm]
+genre: [lühilugu]
+person: [Aino, kivimüür]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -9,9 +9,9 @@ images: [
         src: andrus-laansalu-kaali.webp
     },
 ]
-tags: [arhitektuur]
-genre: [ühiskond]
-person: [Andrus]
+tags: [Kaali, Saaremaa, Torgu]
+genre: [lühiproosa]
+person: [Andrus, maja, viinamäetigu]
 ---
 
 <!-- # {{$doc.title}} -->

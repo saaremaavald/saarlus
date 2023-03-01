@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-ylistus.webp
     },
 ]
-tags: [Saa, orjad]
-genre: [proosa]
-person: [Aino]
+tags: [Saaremaa]
+genre: [lühilugu]
+person: [Aino, kadakas, tuulik, lind, Suur Tõll]
 ---
 
 <!-- # {{$doc.title}} -->
