@@ -9,9 +9,9 @@ images: [
         src: aadu-hint-pidalitobi.webp
     },
 ]
-tags: [pidalitõbi, hirm, haigus]
-genre: [proosa]
-person: [Aadu, Tüdruk, Aili, Poiss, Mare, Sohvi, Sander]
+tags: [noorus]
+genre: [romaanikatkend]
+person: [Aadu, Tüdruk, Aili, Poiss, Mare, Sohvi, Sander, pidalitõbi]
 ---
 
 <!-- jõudma ilmuma keerduma vedelema vaatama -->

@@ -8,9 +8,9 @@ images: [
         src: "aadu-hint-montreal-vancouver.webp"
     }
 ]
-tags: [Aadu]
+tags: [lapsepõlv, noorus]
 genre: [mälestus]
-person: [Aadu]
+person: [Aadu, lind, laev, paat, meri, tuul]
 ---
 
 
