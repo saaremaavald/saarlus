@@ -62,6 +62,7 @@ Järgmisel päeval algas jälle kool ja elu läks harilikku rada.
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Tekst: koostajad **K. Polding**, **H. Aus**, **O. Timmas**, “Saaremaa raamat”, Saarlaste Ühing Torontos, 1962.
+- Kadi raadio saates “Ajaloominutid” räägib Saaremaa mässust Saaremaa muuseumi kuraator-koguhoidja **Piret Hiie-Kivi**: https://kadi.ee/jarelkuulamine/ajaloominutid-19-02-20/
 Foto: **Merit Karise**; fotol Laimjala mõisa õue puud
 
 </details-wrapper>

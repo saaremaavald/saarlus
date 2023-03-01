@@ -33,7 +33,7 @@ Edasi jõuda.
 
 <hr />
 
-**Salome Trei**, üks esimesi eesti professionaalseid graafikuid, sündis 1905. aastal Kuressaare jõuka kaupmehe **Mihkel Trei** kuuenda lapsena. Trei elul ja loomingul on tugevad sidemed Saaremaa kohaajalooga. Muusikat väärtustavast kodust pärit Trei õppis 1924. aastani Saaremaa Ühisgümnaasiumis ja pärast seda graafikat Tallinnas Riigi Kunsttööstuskoolis, lõpetades kuueaastase kursuse 1934 cum laude. 1939. aastal lõpetas Trei graafikaeriala Tartus kunstikoolis Pallas. Terve koolipõlve ning samuti seejärel tegevkunstnikuna Tallinnas tegutsedes veetis ta suved ikka Kuressaare lapsepõlvekodus Garnisoni ja Vallimaa tänava nurgal.
+**Salome Trei**, üks esimesi eesti professionaalseid graafikuid, sündis 1905. aastal Kuressaare jõuka kaupmehe **Mihkel Trei** kuuenda lapsena. Muusikat väärtustavast kodust pärit Trei õppis 1924. aastani Saaremaa Ühisgümnaasiumis ja pärast seda graafikat Tallinnas Riigi Kunsttööstuskoolis, lõpetades kuueaastase kursuse 1934 cum laude. 1939. aastal lõpetas Trei graafikaeriala Tartus kunstikoolis Pallas. Terve koolipõlve ning samuti seejärel tegevkunstnikuna Tallinnas tegutsedes veetis ta suved ikka Kuressaare lapsepõlvekodus Garnisoni ja Vallimaa tänava nurgal.
 
 Teise maailmasõja lävel oli tolleaegsetes oludes parima võimaliku kunstnikuharidusega Salome Trei väljakujunenud mõttemaailma, suurte oskuste ja võimetega kunstnik. Tema parimad teosed valmisid sõjaaja surutise ja samaaegse loomingulise eskapismi raamistuses. 1944. aasta Tallinna märtsipommitamine jättis sel ajal Kunstihoones viibinud Salome Trei hinge sügava jälje. Ta haigestus, naasis kodulinna Kuressaarde ning põgenes 1944. aasta sügisel sealt koos isa ja vennaga Saksamaale. 11. oktoobril 1944 jõudis Salome Trei Gdanskisse. Püsivama peatuspaiga leidis ta mitme pagulaslaagri kaudu Augsburgi DP-laagris, kus jätkas kunstiga tegelemist, kuid ei pöördunud enam kunagi tagasi estampgraafika juurde.
 
@@ -55,9 +55,10 @@ Tema surma kuupäev on kokkuleppeline, sest kunstnik leiti oma korterist. Alan T
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- **Salome Trei** töid näeb 1969. aastal Tallinnas Kadrioru lossis toimunud näituse kataloogis: https://www.digar.ee/viewer/et/nlib-digar:410149/351515/page/1 ja Eesti Kunstimuuseumi digikogus: https://digikogu.ekm.ee/search?searchtype=simple&searchtext=salome+trei Milliseid neist sind kõnetavad? Miks?
+- **Salome Trei** töid näeb 1969. aastal Tallinnas Kadrioru lossis toimunud näituse kataloogis: https://www.digar.ee/viewer/et/nlib-digar:410149/351515/page/1 ja Eesti Kunstimuuseumi digikogus: https://digikogu.ekm.ee/search?searchtype=simple&searchtext=salome+trei Milliseid neist sind kõnetavad? Miks? Saaremaa muuseumi kogus on 28 Salome Trei tööd, kui tekib huvi ka neid uurida.
 - Kas sinu suguvõsas on olnud pagulasi ja väliseestlasi? Millised on nende lood? 
 - Saaremaal Kõiguste sadamas on püsti kolm laevamasti – aga ilma laevata. Tegemist on purjelaeva Helene mälestuseks püstitatud mastidega. Helene võttis 78 aastat tagasi ühena viimastest laevadest ette põgenemise Rootsi, pardal 483 eestlast: https://www.err.ee/1608727597/saaremaal-pustitati-pogenike-laeva-malestuseks-kolm-masti
+
 
 </details-wrapper>
 
@@ -65,7 +66,8 @@ Tema surma kuupäev on kokkuleppeline, sest kunstnik leiti oma korterist. Alan T
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Katkendid raamatust: **Ulrika Jõemägi**, **Anne Untera** “Kunstile ohverdatud elu. Salome Trei (1905 - 1995) elulooline arhiiviaines ja hilislooming”, Eesti Kunstimuuseum, Tallinn, 2015;
-Katkendid artiklist: **Anne Untera** “Mis juhtus Salome Treiga?”, Eesti Kunstimuuseumi toimetised 4(9) 2014, Tallinn.
+- Katkendid artiklist: **Anne Untera** “Mis juhtus Salome Treiga?”, Eesti Kunstimuuseumi toimetised 4(9) 2014, Tallinn.
+- - Kadi raadio saates “Ajaloominutid” räägib Salome Trei elust Kuressaares ja mujal Saaremaa muuseumi kuraator-koguhoidja **Piret Hiie-Kivi**: https://kadi.ee/jarelkuulamine/ajaloominutid-11-03-20/
 - Foto: **Merit Karise** fotol New York
 
 </details-wrapper>

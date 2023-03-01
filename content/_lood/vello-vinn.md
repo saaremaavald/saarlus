@@ -92,9 +92,9 @@ Vello Vinna teoseid leidub Eesti Kunstimuuseumis, Tartu Kunstimuuseumis, Moskva 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
-- Vello Vinna tööd Eesti Kunstimuuseumi digikogus: https://digikogu.ekm.ee/search?searchtype=simple&searchtext=Vello+Vinn
-- Vello Vinn ja Kiwa räägivad näitusest “UMBLUU Aeg ja ruum. Vello Vinn feat. Kiwa” https://www.youtube.com/watch?v=a65KBgpMEao
+- **Vello Vinna** tööd Eesti Kunstimuuseumi digikogus: https://digikogu.ekm.ee/search?searchtype=simple&searchtext=Vello+Vinn
+- **Vello Vinn** ja **Kiwa** räägivad näitusest “UMBLUU Aeg ja ruum. Vello Vinn feat. Kiwa” https://www.youtube.com/watch?v=a65KBgpMEao
 - Vello Vinna tööde virtaaltuur KUMU näitusel “Vastupeegeldused”: https://www.youtube.com/watch?v=ydjOI-jCMfU
-- Foto: Merit Karise
+- Foto: **Merit Karise**; kärbes auto armatuurlaual, nagu näha.
 
 </details-wrapper>

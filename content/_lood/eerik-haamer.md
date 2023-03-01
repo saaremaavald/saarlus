@@ -57,6 +57,10 @@ Hämmastama paneb Haameri võime saavutada säravaid kunstilisi kvaliteete kõig
 
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
-- Foto: **Merit Karise**
+- Katkendid raamatust: **Reeli Kõiv**, “Eerik Haamer”, KUMU, Tallinn, 2008. “ Kaks esimest lõiku on Eerik Haameri enda mälestused, edasi kunstiajaloolase ja kunstipedagoogi Reeli Kõiva tekst Haamerist ja isiklik mälestus esmakohtumisest Haameriga.
+- Kadi raadio saates “Ajaloominutid” räägib Eerik Haamerist Saaremaa muuseumi peavarahoidja **Priit Kivi**: https://kadi.ee/jarelkuulamine/ajaloominutid-12-02-20/
+- Foto: **Merit Karise**; fotol Vilsandi.
+
+
 
 </details-wrapper>

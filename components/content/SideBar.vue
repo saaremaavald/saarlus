@@ -21,7 +21,8 @@
     <section class="h-screen sticky top-0 left-0 
         flex flex-col justify-between items-center gap-6
         bg-primary-200
-        dark:bg-black">
+        dark:bg-black
+        print:invisible">
         
         <nav class="flex flex-col gap-4 mt-[10vh]">
             <IconButton icon="icon-park-outline:list" label="LOOD" @click="toggleList" />

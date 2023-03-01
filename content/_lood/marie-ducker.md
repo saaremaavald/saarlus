@@ -87,6 +87,6 @@ Näitus “Eneseloomine”, KUMU, Tallinn, 2019: “Näitusi, kus eksponeeritaks
 - Tekst **Eugen Dückeri** kohta: https://kunilaart.ee/et/artist/eugen-gustav-ducker/?width=1351&height=0
 - Katkendid raamatust: “Naiste maailm” ja “Näitus “Eneseloomine”...”: “Eneseloomine. Emantsipeeruv naine Eesti ja Soome kunstis”, näitusega kaasnev raamat, KUMU, Tallinn, 2019.
 - **Friedrich Sigismund Stern** (1812 - 1889) oli graafik ja maalikunstnik, kes andis Kuressaare kreiskoolis joonistusõpetust. Aastal 1859 andis ta välja Saaremaa kohta käiva esimese eesti rahvarõivaste albumi, mida saab näha siit: http://dspace.ut.ee/handle/10062/29434
-- Foto: **Merit Karise**; lillekimp oma kodus laual
+- Foto: **Merit Karise**; lillekimp oma kodus laual.
 
 </details-wrapper>

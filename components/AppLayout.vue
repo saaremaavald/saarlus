@@ -20,13 +20,13 @@
     <!-- <Meta name="twitter:card" content="summary_large_image" /> -->
     
     <side-bar class="print:hidden"></side-bar>
-    <section class="w-full">
+    <section>
       <AppLoadingBar />
       <slot />
-      <AppNavbar class="fixed w-full top-0 z-0 bg-white shadow
-        dark:bg-secondary-900
-        print:hidden" />
     </section>
+    <AppNavbar class="fixed top-0 left-0 right-0 z-0 bg-white shadow
+    dark:bg-secondary-900
+    print:absolute" />
   </div>
 </template>
 

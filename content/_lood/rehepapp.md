@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Rehepapp
-description: Kui nad väga mürgeldavad, panen pilli üüdma, siis kaduvad napsu pealt köik!
+description: Kui nad väga mürgeldavad, siis panen pilli üüdma, nii kohe kükitavad irvitades nurgas kuni esimese kukelauluni, siis kaduvad napsu pealt köik!
 author: rahvajutt
 origin: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
 images: [
