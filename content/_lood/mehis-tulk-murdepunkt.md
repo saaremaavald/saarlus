@@ -1,11 +1,11 @@
 ---
 layout: story-page
 title: Murdepunkt
-description: Me huultel ja keelel on teistmoodi paine, neil ujuvad pooliku loogaga õ-d
+description: "Täis muistsete tapluste tuikavaid arme üks murdepunkt sügaval peidus me sees"
 author: Mehis Tulk
 images: [
     {
-        src: "debora-vaarandi-saaremaa-kohal.webp"
+        src: "mehis-tulk-murdepunkt.webp"
     }
 ]
 origin: "“Murdepunkt”, Saare maakonna tantsupidu “Teel”, 2022"
@@ -36,7 +36,7 @@ ei, murda nad seda punkti ei saa!
 
 <story-author :author="author" :origin="origin"></story-author>
 
-Mehis Tulk (sündinud 1967 Kuressaares) on töötanud alates 1990. aastast ajakirjanikuna teles, raadios ja kirjutavas meedias. Alguses kajastas majandus- ja poliitikateemasid, 2016. aastast keskendus rohkem kultuuri ja ajaloo valdkonnale. Kirjutanud näidendeid, luulet (2012 kogu "Nüüd. Enne. Pärast") ja avaldanud ajaloolise romaani "Maa ja taeva mõrsja I-II" (2017, 2018).
+**Mehis Tulk** (sündinud 1967 Kuressaares) on töötanud alates 1990. aastast ajakirjanikuna teles, raadios ja kirjutavas meedias. Alguses kajastas majandus- ja poliitikateemasid, 2016. aastast keskendus rohkem kultuuri ja ajaloo valdkonnale. Kirjutanud näidendeid, luulet (2012 kogu "Nüüd. Enne. Pärast") ja avaldanud ajaloolise romaani "Maa ja taeva mõrsja I-II" (2017, 2018).
 
 
 <details-wrapper summary="Mis mõtted tekkisid?">

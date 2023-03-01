@@ -10,7 +10,7 @@ images: [
 ]
 origin: "folklore.ee"
 tags: []
-genre: [ luule ]
+genre: [ rahvapärimus ]
 person: [ Jüri ]
 ---
 

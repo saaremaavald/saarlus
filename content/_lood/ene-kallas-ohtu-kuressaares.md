@@ -5,7 +5,8 @@ description: Punane ketas põrkab eemale spaade katustest
 author: Ene Kallas (Krafinna)
 images: [
     {
-        src: "ene-kallas-ohtu-kuressaares.webp"
+        src: "ene-kallas-ohtu-kuressaares.webp",
+        bgPos: "50% 50px"
     }
 ]
 origin: "“Õhtu Kuressaares”, kogu «Teki alla ja köögikardinate taga»"
