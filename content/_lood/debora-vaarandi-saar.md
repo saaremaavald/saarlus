@@ -8,9 +8,9 @@ images: [
         src: "debora-vaarandi-saar.webp"
     }
 ]
-tags: [Debora Vaarandi, saar, jää, lumi, meri, rand, tuul, sügis]
+tags: []
 genre: [luule]
-person: [Debora]
+person: [Debora, meri]
 ---
 
 

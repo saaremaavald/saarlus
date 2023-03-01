@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Mõtisklus”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
-tags: [ vaatama, meenuma, särama, seisma, peksma ]
+tags: [ Saaremaa, Kuressaare]
 genre: [ luule ]
-person: [ Andrus E., Beebilõust ]
+person: [ Andrus E., Beebilõust, meri, Piret, Suur Tõll, murre ]
 ---
 
 <!-- # {{$doc.title}} -->

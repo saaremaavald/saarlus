@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Crypti laul”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
-tags: [ avama, astuma, vaatama, röökima, kuulutama, nägema, liikuma, väljuma ]
-genre: [ luule ]
-person: [ Andrus E., Beebilõust ]
+tags: [Crypt, kool, Kuressaare]
+genre: [ luule, muusika ]
+person: [ Andrus E., Beebilõust, kits, ment, murre ]
 ---
 
 <!-- # {{$doc.title}} -->

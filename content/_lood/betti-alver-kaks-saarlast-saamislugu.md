@@ -9,9 +9,9 @@ images: [
         bgPos: "50% 90%"
     }
 ]
-tags: [Betti Alver]
+tags: [Pärnu, Saaremaa]
 genre: [mälestus]
-person: [Betti]
+person: [Betti, Talvik, Suur Tõll, murre]
 ---
 
 <!-- # {{$doc.title}} -->

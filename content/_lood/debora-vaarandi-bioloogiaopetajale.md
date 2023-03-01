@@ -9,9 +9,9 @@ images: [
         src: "debora-vaarandi-bioloogiaopetajale.webp"
     }
 ]
-tags: [ kohisema, kompama, libistama, suruma, varitsema, asetama ]
+tags: [ kool ]
 genre: [ luule, kiri ]
-person: [ Debora ]
+person: [ Debora, lind ]
 ---
 
 <!-- # {{$doc.title}} -->

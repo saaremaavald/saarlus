@@ -8,9 +8,9 @@ images: [
         src: "debora-vaarandi-kadakaaru.webp"
     }
 ]
-tags: [Debora Vaarandi]
+tags: [lapsepõlv, noorus]
 genre: [mälestus]
-person: [Debora]
+person: [Debora, kadakas]
 ---
 
 <!-- # {{$doc.title}} -->

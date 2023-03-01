@@ -8,9 +8,9 @@ images: [
         src: "betti-alver-kaks-saarlast.webp"
     }
 ]
-tags: [sõprus, saarlane, laul, Suur Tõll, luule, tamm]
+tags: [noorus]
 genre: [luule]
-person: [Betti]
+person: [Betti, Suur Tõll, tamm, murre]
 ---
 
 # {{$doc.title}}

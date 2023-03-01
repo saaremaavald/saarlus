@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Pilk endasse”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
-tags: [ avama, astuma, vaatama, röökima, kuulutama, nägema, liikuma, väljuma ]
+tags: [ Sõrve, Narva, noorus ]
 genre: [ luule ]
-person: [ Andrus E., Beebilõust ]
+person: [ Andrus E., Beebilõust, murre ]
 ---
 
 <!-- # {{$doc.title}} -->

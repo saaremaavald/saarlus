@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Saaremaa kohal” (1958), kogu “Merelaule sajast suust ja sulest”, Koolibri, 2011."
-tags: [ vaatama, nägema, uppuma, lehvitama, kiirgama, rändama, tarduma, raputama, jooksma, uurima ]
+tags: [ Saaremaa, lapsepõlv ]
 genre: [ luule ]
-person: [ Debora ]
+person: [ Debora, kadakas ]
 ---
 
 <!-- # {{$doc.title}} -->

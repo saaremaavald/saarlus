@@ -9,9 +9,9 @@ images: [
         src: ants-piip.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Ants, Bruno]
+tags: [Kuressaare, Peterburg, London]
+genre: [mälestus, kool]
+person: [Ants, Bruno, meri, Jaen, Eduard, Aleksander, Mihhail, Vassili, Juhan]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -8,9 +8,9 @@ images: [
         src: "hylgelaul.webp"
     }
 ]
-tags: [Arti Allmägi]
-genre: [intervjuu]
-person: [Arti]
+tags: [Kehra, Käsmu, Kuressaare, Panga, Harilaid, Soegnina, Viidumäe]
+genre: [intervjuu, kool]
+person: [Arti, Andra, murre]
 ---
 
 <!-- # {{ $doc.title }} -->

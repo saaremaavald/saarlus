@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-udus.webp"
     }
 ]
-tags: [hulkuma, kuhjuma, krigisema, uhtuma, kriimustama, riivama, tukslema, pillutama, rabama, roiskuma, otsima, närima, minema ]
+tags: [Kuressaare ]
 genre: [luule]
 person: [Debora]
 ---

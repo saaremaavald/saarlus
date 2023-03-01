@@ -8,9 +8,9 @@ images: [
         src: "debora-vaarandi-ooviiul.webp"
     }
 ]
-tags: [ööviiul, suvi, öö, tuul, luule]
-genre: [luule]
-person: [Debora]
+tags: [noorus]
+genre: [luule, muusika]
+person: [Debora, ööviiul]
 ---
 
 <!-- # {{$doc.title}} -->

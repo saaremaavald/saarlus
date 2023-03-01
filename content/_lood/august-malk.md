@@ -9,9 +9,9 @@ images: [
         src: august-malk.webp
     },
 ]
-tags: [meri, Vilsandi]
-genre: [proosa]
-person: [August]
+tags: [Vilsandi, lapsepõlv, surm]
+genre: [lühilugu]
+person: [August, meri]
 ---
 
 <!-- # {{$doc.title}} -->

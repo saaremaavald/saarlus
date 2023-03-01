@@ -9,9 +9,9 @@ images: [
         src: bruno-pao.webp
     },
 ]
-tags: []
-genre: [ühiskond, mälestused]
-person: [Bruno]
+tags: [Virtsu, Saaremaa, Moskva, Lozovaja, Taganrog, Kramatorsk, Aasov, Donbass, Valjala, Ameerika, Leningrad, Slavjansk, Virtsu, Muhu, Kuivastu, Sigtuna]
+genre: [mälestus, päevik]
+person: [Bruno, loss]
 ---
 
 <!-- # {{$doc.title}} -->
