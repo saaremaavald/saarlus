@@ -9,9 +9,9 @@ images: [
         src: heiki-pardi-seened.webp
     },
 ]
-tags: [seen]
-genre: [ühiskond]
-person: [Heiki]
+tags: []
+genre: [päevik]
+person: [Heiki, Piht, Jans, Helle, Mari, Priit, Maarika, seen]
 ---
 
 <!-- # {{$doc.title}} -->

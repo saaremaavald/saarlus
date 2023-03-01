@@ -9,9 +9,9 @@ images: [
         src: heiki-pardi-saarlased.webp
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Heiki]
+tags: [Kihelkonna, Muhu]
+genre: [päevik]
+person: [Heiki, Jans]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -8,9 +8,9 @@ images: [
         src: "eerik-haamer.webp"
     }
 ]
-tags: [kunst, Erik Haamer, pagemine, naeratamine, kaotamine]
-genre: [kunst]
-person: [Eerik]
+tags: [lapsepõlv, kool, Kuressaare, Peterburi, Tartu, Kaarma, Karja, Rootsi]
+genre: [kunst, mälestus]
+person: [Eerik, Alma, lehm, Reeli, loss]
 ---
 
 <!-- # {{ $doc.title }} -->

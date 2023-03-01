@@ -10,9 +10,9 @@ images: [
         bgPos: "100% -30%"
     },
 ]
-tags: []
-genre: [ühiskond]
-person: [Gerd]
+tags: [Kuressaare, Pöide, Irkutsk, Stockholm, Berliin, Tallinn, Hamburg, Essen]
+genre: [artikkel, tants]
+person: [Gerd; Heili, Jenny, Andrus, Rudolf, Johannes, Ida, Salme, Paul, Els, Hanno, Rahel, August, Riina, Rudolf, Eduard, Mari, Vernerp]
 ---
 
 <!-- # {{$doc.title}} -->

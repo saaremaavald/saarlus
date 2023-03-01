@@ -9,7 +9,7 @@ images: [
         src: ants-piip.webp
     },
 ]
-tags: [Kuressaare, Peterburg, London]
+tags: [Kuressaare, Peterburi, London]
 genre: [mälestus, kool]
 person: [Ants, Bruno, meri, Jaen, Eduard, Aleksander, Mihhail, Vassili, Juhan]
 ---

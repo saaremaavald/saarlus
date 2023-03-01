@@ -9,9 +9,9 @@ images: [
         src: endla-tegova.webp
     },
 ]
-tags: [vanadus]
-genre: [proosa]
-person: [Endla, Maara, Vassel]
+tags: [vanadus, noorus, surm, Rantsuse, Tallinn, Mässa, Suurissoo, Kalama]
+genre: [romaanikatkend]
+person: [Endla, Maara, Vassel, Aap, Leo, murre, metssiga, Agnessa]
 ---
 
 <!-- # {{$doc.title}} -->

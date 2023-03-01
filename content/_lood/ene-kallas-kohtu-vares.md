@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "kogu «Kohtu tänava vares» (lk 21), kirjastus Jumalikud Ilmutused, 2016."
-tags: [ poseerima, paiskama ]
+tags: [ Kuressaare]
 genre: [ luule ]
-person: [ Ene, Krahvinna ]
+person: [ Ene, Krafinna, hakk, Ants ]
 ---
 
 <!-- # {{$doc.title}} -->

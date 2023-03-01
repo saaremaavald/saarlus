@@ -10,9 +10,9 @@ images: [
     }
 ]
 origin: "“Õhtu Kuressaares”, kogu «Teki alla ja köögikardinate taga»"
-tags: [ põrkama, uputama, pelgama, peitma ]
+tags: [ Kuressaare ]
 genre: [ luule ]
-person: [ Ene, Krahvinna ]
+person: [ Ene, Krafinna ]
 ---
 
 <!-- # {{$doc.title}} -->

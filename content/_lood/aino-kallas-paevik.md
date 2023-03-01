@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-paevik.webp
     },
 ]
-tags: [Kuressaare, Sõrve, Kihelkonna, Ameerika, Peterburg, Audaku, Pärnu, Muhu, surm]
+tags: [Kuressaare, Sõrve, Kihelkonna, Ameerika, Peterburi, Audaku, Pärnu, Muhu, surm]
 genre: [päevik]
 person: [Aino, meri, Kassatski, von Poll, Issajev, Lizzi, Matsi, Erika, Podrjatšikov, Adele, Oscar von Moeller, Eichfuss]
 ---

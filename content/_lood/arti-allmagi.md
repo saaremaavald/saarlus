@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Kehra, Käsmu, Kuressaare, Panga, Harilaid, Soegnina, Viidumäe]
 genre: [intervjuu, kool]
-person: [Arti, Andra, murre]
+person: [Arti, Andra, murre, Gunnar]
 ---
 
 <!-- # {{ $doc.title }} -->

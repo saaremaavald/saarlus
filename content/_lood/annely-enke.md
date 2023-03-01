@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Abruka, Muhu, Vilsandi, Ruhnu, Tallinn, Narva, Kuressaare]
 genre: [intervjuu]
-person: [Annely, Maidu, Pille, koroona, meri]
+person: [Annely, Maidu, Pille, koroona, meri, Sirli]
 ---
 
 <!-- # {{ $doc.title }} -->

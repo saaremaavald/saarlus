@@ -8,9 +8,9 @@ images: [
         src: "greg-grace.webp"
     }
 ]
-tags: [Greg Grace]
+tags: [Kuressaare, Tallinn, India, USA, Los Angeles]
 genre: [intervjuu]
-person: [Greg]
+person: [Greg, Otto, Sirli]
 ---
 
 <!-- # {{ $doc.title }} -->

@@ -10,7 +10,7 @@ images: [
         zoom: true
     }
 ]
-tags: [rahvajutt]
+tags: [Karja]
 dictionary: [
     [sau, savi], 
     [kippuma, liigutama], 
@@ -23,7 +23,7 @@ dictionary: [
     ["viha käie ta kohe", "viha käivat tema vastu, s.t olevat tema peale vihane"]
 ]
 genre: [rahvajutt]
-person: [Vanapagan, Vanajumal, Hunt]
+person: [Vanapagan, Vanajumal, Hunt, Karl]
 ---
 
 <details-wrapper summary="Enne lugemist:">

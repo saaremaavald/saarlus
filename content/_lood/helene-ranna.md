@@ -9,9 +9,9 @@ images: [
         src: helene-ranna.webp
     },
 ]
-tags: []
-genre: [proosa]
-person: [Helene]
+tags: [Ameerika, noorus]
+genre: [romaanikatkend]
+person: [Helene, August, Toivo]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -66,7 +66,7 @@ August heitis käega.
 “Ah, mis nüüd... kohus on iseasi... seda ju näeb!... Ja sina armastad teda ka, mis seal... Õhtul ütlesid: Toivo, sina! Just nagu kunagi ammu ütlesid mulle: August, sina!”
 
 <!-- Autor: Helene Ranna, saarlasest prosaist, luuletaja ja kooliõpetaja -->
-<!-- Täägid: puuduma tõmbuma mängima huvitama äratama heitma -->
+<!-- Täägid: -->
 
 
 

@@ -8,9 +8,9 @@ images: [
         src: "gustav-kutsar.webp"
     }
 ]
-tags: [Gustav Kutsar]
+tags: [Tallinn, Orissaare, Tartu, Pöide, Püharisti, Viljandi, Kosovo]
 genre: [intervjuu]
-person: [Gustav]
+person: [Gustav, Ingel, Ivika]
 ---
 
 <!-- # {{ $doc.title }} -->

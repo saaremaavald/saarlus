@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Aju”, kogu “Tähelennak”, Eesti Rahvuskirjanike Ühingu Kirjastus, 1935"
-tags: [ ujuma, urgitsema, uurima, puurima, lahkama, lõhkuma, lendama, käima, nägema ]
+tags: [ Kosmos ]
 genre: [ luule ]
-person: [ Helene ]
+person: [ Helene, Jumal ]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -8,9 +8,9 @@ images: [
         src: "ilmar-torn.webp"
     }
 ]
-tags: [Ilmar Torn, hüppama, purjetama, uppuma, ujuma, viima]
-genre: [kunst]
-person: [Ilmar]
+tags: [Möldri, Riksu, Karala, Atla, Kuressaare, kool, Pihtla, Tartu]
+genre: [kunst, mälestus]
+person: [Ilmar, Bernard, Debora, Aarne, Juhan, Olev, Joosep, Aleksander, Eugen, Guido, Nikolai]
 ---
 
 
