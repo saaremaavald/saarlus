@@ -8,7 +8,7 @@ images: [
         src: "aadu-hint-montreal-vancouver.webp"
     }
 ]
-tags: [lapsepõlv, noorus]
+tags: [lapsepõlv, noorus, vanadus, Kuusnõmme, Kuressaare, Vilsandi, Montreal, Ruhnu, Kihnu, London, le Havre, Pärnu, Bremerhaven]
 genre: [mälestus]
 person: [Aadu, lind, laev, paat, meri, tuul]
 ---

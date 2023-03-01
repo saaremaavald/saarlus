@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Pidalitõbi
-description: Kaksikud tüdrukud võtsid endilt ise elu, istusid vastamisi toolidele, tõmbasid paksu riide üle peade kokku ja hingasid selle all sisse miinikollase kuuma auru.
+description: "Kaksikud tüdrukud võtsid endilt ise elu, istusid vastamisi toolidele, tõmbasid paksu riide üle peade kokku ja hingasid selle all sisse miinikollase kuuma auru."
 author: Aadu Hint
 origin: "Katkendid romaanist: Aadu Hint “Tuuline rand” (k 38-43), Eesti Raamat, Tallinn, 1996."
 images: [
@@ -9,7 +9,7 @@ images: [
         src: aadu-hint-pidalitobi.webp
     },
 ]
-tags: [noorus]
+tags: [noorus, surm, Pammana, Vatku, Audaku, Veedri, Peipsi, Nina]
 genre: [romaanikatkend]
 person: [Aadu, Tüdruk, Aili, Poiss, Mare, Sohvi, Sander, pidalitõbi]
 ---

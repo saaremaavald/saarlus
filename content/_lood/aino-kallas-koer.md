@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-koer.webp
     },
 ]
-tags: []
-genre: [proosa]
-person: [Aino, koer]
+tags: [Kihelkonna, surm]
+genre: [lühilugu]
+person: [Aino, koer. James, laev]
 ---
 
 <!-- # {{$doc.title}} -->

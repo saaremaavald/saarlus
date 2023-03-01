@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Aino Kallas
-description: "Mina, Gideon Amadeus Lämmerhirt, Kihelkonna koguduse õpetaja Saaremaal, olen pärast kanget hingevõitlust ja palavat hüüdmist palves Kõigekõrgema poole, viimaks ometi jõudnud lahenduseni. "
+description: "Mina, Gideon Amadeus Lämmerhirt, Kihelkonna koguduse õpetaja Saaremaal, olen pärast kanget hingevõitlust ja palavat hüüdmist palves Kõigekõrgema poole, viimaks ometi jõudnud lahenduseni."
 author: Aino Kallas
 origin: "Jutustus: Aino Kallas, jutustus “Pihtimus surivoodil”, kogu “Armastuse vangid”, tõlkinud Johannes Aavik, kirjastus Orto, Toronto, 1952. Lühendatult."
 images: [
@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-gideon.webp
     },
 ]
-tags: []
-genre: [proosa]
-person: [Aino, Gideon, Anne, naine]
+tags: [lapsepõlv, vanadus, sünd, surm, Kihelkonna]
+genre: [lühilugu]
+person: [Aino, Gideon, Anne, naine, laps, lind]
 ---
 
 <!-- # {{$doc.title}} -->

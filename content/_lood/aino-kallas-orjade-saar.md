@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-orjade-saar.webp
     },
 ]
-tags: [Abruka, orjad]
-genre: [proosa]
-person: [Aino]
+tags: [vanadus]
+genre: [lühilugu]
+person: [Aino, lammas, kadakas, kivi]
 ---
 
 <!-- # {{$doc.title}} -->

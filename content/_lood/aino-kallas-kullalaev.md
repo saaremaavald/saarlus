@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-kullalaev.webp
     },
 ]
-tags: [kullalaev]
-genre: [proosa]
-person: [Aino]
+tags: [Sõrve, sünd, surm]
+genre: [lühilugu]
+person: [Aino, laev, kala]
 ---
 
 <!-- # {{$doc.title}} -->

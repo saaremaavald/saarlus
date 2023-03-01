@@ -9,9 +9,9 @@ images: [
         src: aino-kallas-paevik.webp
     },
 ]
-tags: [päevik, Sõrve]
-genre: [ühiskond, mälestused]
-person: [Aino]
+tags: [Sõrve, Kihelkonna, Ameerika, Peterburg, Audaku, Pärnu, Muhu, surm]
+genre: [päevik]
+person: [Aino, meri, Kassatski, von Poll, Issajev, Lizzi, Matsi, Erika, Podrjatšikov, Adele, Oscar von Moeller, Eichfuss]
 ---
 
 <!-- # {{$doc.title}} -->
