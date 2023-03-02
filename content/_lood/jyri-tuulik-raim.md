@@ -8,9 +8,9 @@ images: [
         src: "tuulik-raim.webp"
     }
 ]
-tags: []
-genre: [proosa]
-person: [Jüri, Preedik, Räim]
+tags: [Abruka, Veiserahu, Tallinn, Melbourne]
+genre: [lühilugu]
+person: [Jüri, Preedik, räim, Gagarin, Rooma paavst, Sass]
 ---
 
 <!-- # {{$doc.title}}  -->
@@ -55,8 +55,8 @@ Raamatuid on palju kirjutatud, aga räimepüügi õpikut pole Preedik oma silmag
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kuidas on sinu suhe räimega? Sööd? Oskad valmistada? Püüad?
-- Jüri Tuulik on öelnud nii: „Kõige suurem vajadus muhedate inimeste järele on just väikestes kollektiivides. Väikesel saarel või võrgupaadis on väga tähtis, et oleks hulgas muhedaid inimesi.“ Oled sa nõus? Miks on see nii?
+- Kuidas on sinu suhe räimega? Sööd? Oskad valmistada? Püüad? 
+- Jüri Tuulik on öelnud nii: „Kõige suurem vajadus muhedate inimeste järele on just väikestes kollektiivides. Väikesel saarel või võrgupaadis on väga tähtis, et oleks hulgas muhedaid inimesi.“ Oled sa nõus? Miks on see nii? Või milliseid omadusi tänapäeva ettevõtmistes, kus palju inimesi koos, hinnatakse?
 - Mis juhtus Saaremaal, Eestis ja maailmas siis, kui sina sündisid? Mis oleks sulle oluline teema, millega oma elu sündmusi võrdleksid nagu ülal loos räimepüügiga? Ja vastupidi, mida tegid sina, kui Saaremaal, Eestis, maailmas toimusid olulised sündmused?
 
 </details-wrapper>

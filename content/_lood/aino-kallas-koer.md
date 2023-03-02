@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Kihelkonna, surm]
 genre: [lühilugu]
-person: [Aino, koer. James, laev]
+person: [Aino, koer, James, laev]
 ---
 
 <!-- # {{$doc.title}} -->

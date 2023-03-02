@@ -8,7 +8,7 @@ images: [
         src: "kaplinski-siin.webp"
     }
 ]
-tags: [Jaan Kaplinski]
+tags: [Tartu, Saaremaa, Püha, Vätta, Kailuka]
 genre: [mälestus]
 person: [Jaan Ka.]
 ---

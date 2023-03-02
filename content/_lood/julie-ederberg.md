@@ -8,7 +8,7 @@ images: [
         src: "julie-ederberg.webp"
     }
 ]
-tags: [sõprus, luule, tamm]
+tags: [Kaarma, Eesti]
 genre: [luule]
 person: [Julie]
 ---

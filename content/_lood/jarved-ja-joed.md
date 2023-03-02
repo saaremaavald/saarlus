@@ -9,9 +9,9 @@ images: [
         src: "vanapagan-ja-joed.webp"
     }
 ]
-tags: [murdekeel, Vanapagan, järv, jõgi, meri, laht, loodus, Kaarma]
+tags: [Kaarma]
 genre: [rahvajutt]
-person: [Vanapagan]
+person: [Vanapagan, meri, murre]
 ---
 
 <!-- # {{$doc.title}} -->

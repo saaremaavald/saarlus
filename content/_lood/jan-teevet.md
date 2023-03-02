@@ -9,7 +9,7 @@ images: [
         src: "jan-teevet.webp"
     }
 ]
-tags: [Jan Teevet, hulkuma]
+tags: [Orissaare, Paide, Tallinn, Virtsu, Väike väin]
 genre: [intervjuu]
 person: [Jan]
 ---

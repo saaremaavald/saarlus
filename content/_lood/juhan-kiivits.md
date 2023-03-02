@@ -10,9 +10,9 @@ images: [
     },
 ]
 dictionary: [ [linnapeele, Kuressaare linnusesse] ]
-tags: []
-genre: [ ühiskond, mälestused ]
-person: [ Juhan K. ]
+tags: [Ruhve, Kuressaare, Suuremaa, Riia, Peterburi, Leisi]
+genre: [ mälestus ]
+person: [ Juhan K. Liisu, loss, Mihkel]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -36,7 +36,7 @@ Oli nii tugevid mehi, kes tõ‛stsid obuse öles. Ma ise nägi, kui Mu'stla Jaa
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mida sina ütleksid Saaremaa praeguste meeste ja naiste kohta? On nende kohta üldse midagi öelda, mis neid Eesti teiste piirkondade inimestest eristab?
+- Mida sina ütleksid Saaremaa praeguste meeste ja naiste kohta? On nende kohta üldse midagi öelda, mis neid Eesti teiste piirkondade inimestest eristab? Küsi ka sõprade, vanemate, vanavanemate käest, kas ja mis nende arvates saarlasi täna iseloomustab ja teistest eristab?
 - Kui leidsid midagi iseloomulikku ja eristavat, siis mille põhjal seda väidad? On sul mõni näide või lugu saarlaste iseloomustamiseks? Milline?
 
 </details-wrapper>

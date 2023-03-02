@@ -8,9 +8,9 @@ images: [
         src: "jaan-koppel.webp"
     }
 ]
-tags: [Jaan Koppel]
+tags: [Hispaania, Tallinn, Kuressaare, Tori, Kohtla-Järve, Moskva]
 genre: [intervjuu]
-person: [Jaan Ko.]
+person: [Jaan Ko., Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

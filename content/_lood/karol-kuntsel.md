@@ -9,7 +9,7 @@ images: [
         src: "karol-kuntsel.webp"
     }
 ]
-tags: [intervjuu, Karol Kuntsel]
+tags: [Tallinn, Orissaare, Maasilinn, Saksamaa, Tartu]
 genre: [intervjuu]
 person: [Karol]
 ---

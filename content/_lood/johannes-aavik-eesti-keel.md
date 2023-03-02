@@ -9,9 +9,9 @@ images: [
         src: aavik-noor-eesti.webp
     },
 ]
-tags: [keel]
-genre: [ühiskond]
-person: [Helgi, Johannes]
+tags: [Kuressaare, Jalta]
+genre: [artikkel]
+person: [Helgi, Johannes, Aleksei]
 ---
 
 <!-- # {{$doc.title}} -->

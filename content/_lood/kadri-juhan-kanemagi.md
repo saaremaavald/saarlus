@@ -8,9 +8,9 @@ images: [
         src: "kadri-juhan-kanemagi.webp"
     }
 ]
-tags: [Kadri Kanemägi, Juhan Kanemägi]
+tags: [Kuressaare, Leisi, Pärsama, Tallinn, Triigi, Karja, Orissaare, Muratsi, Soome, Läti, Leedu, Belgia, Holland, Luksemburg, Tšehhi, Slovakkia, Island, Rootsi]
 genre: [intervjuu]
-person: [Kadri, Juhan]
+person: [Kadri, Juhan, tants]
 ---
 
 <!-- # {{ $doc.title }} -->
