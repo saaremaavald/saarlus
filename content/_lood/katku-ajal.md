@@ -10,7 +10,7 @@ images: [
     }
 ]
 dictionary: [[murdand,murdnud], ["ägat, ägas", "iga, igas"]]
-tags: [murdekeel, katk]
+tags: [Saaremaa]
 genre: [rahvajutt]
 person: [Marii]
 ---

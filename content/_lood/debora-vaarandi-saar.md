@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-saar.webp"
     }
 ]
-tags: []
+tags: [Eikuskil, "Igal pool"]
 genre: [luule]
 person: [Debora, meri]
 ---

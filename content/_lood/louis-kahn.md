@@ -9,7 +9,7 @@ images: [
         src: louis-kahn.webp
     },
 ]
-tags: []
+tags: [Linn, ruum]
 genre: [ühiskond]
 person: [Louis]
 ---

@@ -8,7 +8,7 @@ images: [
         src: "konrad-magi.webp"
     }
 ]
-tags: [Konrad Mägi, käivitama, kuhjama, õhetama, plahvatama, põlema, pagema]
+tags: [Saaremaa]
 genre: [kunst]
 person: [Konrad]
 ---

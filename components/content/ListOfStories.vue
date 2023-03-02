@@ -2,11 +2,7 @@
     const allPersons = [];
     const persons = ref();
     const activePersons = ref([]);
-    
     const personPanelOpen = personOpen();
-    // const togglePersonPanel = () => {
-    //     personPanelOpen.value = !personPanelOpen.value;
-    // }
     const togglePerson = (person) => {
         if(activePersons.value.find(item => item === person)){
             const newArr = activePersons.value.filter(item => item != person);
@@ -25,9 +21,6 @@
     const genres = ref();
     const selectedGenres = activeGenres();
     const genrePanelOpen = genreOpen();
-    // const toggleGenrePanel = () => {
-    //     genrePanelOpen.value = !genrePanelOpen.value;
-    // }
     const toggleGenre = (genre) => {
         if(selectedGenres.value.find(item => item === genre)){
             const newArr = selectedGenres.value.filter(item => item != genre);
@@ -43,22 +36,51 @@
         });
     };
     
+    const allPlaces = [];
+    const places = ref();
+    const selectedPlaces = ref([]);
+    const placePanelOpen = placeOpen();
+    const togglePlace = (place) => {
+        if(selectedPlaces.value.find(item => item === place)){
+            const newArr = selectedPlaces.value.filter(item => item != place);
+            selectedPlaces.value = newArr;
+        } else {
+            selectedPlaces.value.push(place);
+        }
+        // console.log("active places", activePlaces.value);
+    };
+    const sortedPlaces = () => {
+        return [...places.value].sort( (a, b) => {
+            return a.localeCompare(b);
+        });
+    };
+    
     const togglePanels = (panel) => {
         if(panel === "person"){
             personPanelOpen.value = true;
             genrePanelOpen.value = false;
+            placePanelOpen.value = false;
             selectedGenres.value = [];
-        } else {
+            selectedPlaces.value = [];
+        } else if(panel === "genre") {
             genrePanelOpen.value = true;
             personPanelOpen.value = false;
+            placePanelOpen.value = false;
             activePersons.value = [];
+            selectedPlaces.value = [];
+        } else {
+            placePanelOpen.value = true;
+            personPanelOpen.value = false;
+            genrePanelOpen.value = false;
+            activePersons.value = [];
+            selectedGenres.value = [];
         }
     }
     
     
     const { path } = useRoute();
     const { data } = await useAsyncData('stories', async () => {
-        return queryContent('_lood').only(['description','_path','person','genre']).find();
+        return queryContent('_lood').only(['description','_path','person','genre','tags']).find();
     });
 
     for (const story of data.value) {
@@ -68,11 +90,16 @@
         story.genre.forEach(genre => {
             allGenres.push(genre);
         });
+        story.tags.forEach(place => {
+            allPlaces.push(place);
+        });
     }
     persons.value = [...new Set(allPersons)];
     persons.value = sortedPersons();
     genres.value = [...new Set(allGenres)];
     genres.value = sortedGenres();
+    places.value = [...new Set(allPlaces)];
+    places.value = sortedPlaces();
 
 
     const showStories = listOpen();
@@ -92,6 +119,7 @@
         <section class="flex gap-4 mt-10">
             <IconButton icon="icon-park-outline:peoples" label="ŽANR" @click="togglePanels('genre')" />
             <IconButton icon="icon-park-outline:peoples" label="TEGELASED" @click="togglePanels('person')" />
+            <IconButton icon="icon-park-outline:peoples" label="KOHAD" @click="togglePanels('place')" />
         </section>
         
 
@@ -102,6 +130,11 @@
             <div v-if="personPanelOpen" class="flex flex-wrap gap-x-2 gap-y-2">
                 <template v-for="(person, i) in persons" :key="`person${i}`">
                     <story-tag :label="person" @click="togglePerson(person)" />
+                </template>
+            </div>
+            <div v-if="placePanelOpen" class="flex flex-wrap gap-x-2 gap-y-2">
+                <template v-for="(place, i) in places" :key="`place${i}`">
+                    <story-tag :label="place" @click="togglePlace(place)" />
                 </template>
             </div>
             
@@ -120,7 +153,7 @@
             <template v-for="(story, i) in data">
                 <!-- <div v-if="activeGenres.length == 0 || story.genre.some(genre => activeGenres.includes(genre))"> -->
                     <NuxtLink :to="story._path"
-                        v-if="(activePersons.length == 0 || story.person.some(person => activePersons.includes(person))) && (story.genre.some(genre => selectedGenres.includes(genre)) || selectedGenres.length == 0)" @click="closeList" :key="`story${i}`">
+                        v-if="(activePersons.length == 0 || story.person.some(person => activePersons.includes(person))) && (story.genre.some(genre => selectedGenres.includes(genre)) || selectedGenres.length == 0 && (story.tags.some(place => selectedPlaces.includes(place)) || selectedPlaces.length == 0))" @click="closeList" :key="`story${i}`">
                         <Card class="bg-white ring-1 ring-secondary-300 shadow transition
                         dark:bg-secondary-800 dark:ring-secondary-700
                         hover:shadow-lg dark:hover:ring-secondary-500"

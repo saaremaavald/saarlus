@@ -9,7 +9,7 @@ images: [
         src: maimu-berg.webp
     },
 ]
-tags: []
+tags: [Eikuskil, "Igal pool"]
 genre: [proosa]
 person: [Maimu, Hitler]
 ---
