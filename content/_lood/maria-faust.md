@@ -8,7 +8,7 @@ images: [
         src: "maria-faust.webp"
     }
 ]
-tags: [Maria Faust]
+tags: [Eesti, Taani, Eikuskil]
 genre: [intervjuu, muusika]
 person: [Maria F.]
 ---

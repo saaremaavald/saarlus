@@ -8,7 +8,7 @@ images: [
         src: "vahur-karus.webp"
     }
 ]
-tags: [Vahur Karus]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Vahur]
 ---

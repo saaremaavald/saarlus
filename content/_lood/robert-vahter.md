@@ -8,7 +8,7 @@ images: [
         src: "robert-vahter.webp"
     }
 ]
-tags: [Robert Vahter]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Robert]
 ---

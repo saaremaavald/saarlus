@@ -9,7 +9,7 @@ images: [
         src: mehis-heinsaar.webp
     },
 ]
-tags: [jah]
+tags: [Eikuskil]
 genre: [proosa]
 person: [Mehis]
 ---

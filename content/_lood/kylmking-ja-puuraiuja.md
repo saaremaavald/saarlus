@@ -10,7 +10,7 @@ images: [
     }
 ]
 dictionary: [[tuhlid,"kartuleid, „kartuhvlid“"], ["ääks","pehmeks, „tümaks“"], ["pahl:pahla","varras"], ["parase","paraja"], ["rataste kali","vankri puu (kaigas)"], ["selpuu","sõlgpuu"], ["oda, ma lää","oota, ma lähen"], ["peeniseks","peenikeseks"]]
-tags: [murdekeel, räim, kala, Kärla, külmking, mets, hunt, kartul, kalapahl ]
+tags: [Kärla, Eikuskil ]
 genre: [rahvajutt]
 person: [J. Jõgi, Külmking, Vanamees ]
 ---

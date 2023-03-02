@@ -9,7 +9,7 @@ images: [
         src: viktor-kingissepp.webp
     },
 ]
-tags: [kommunist]
+tags: [Eikuskil]
 genre: [ühiskond, kiri]
 person: [Viktor]
 ---
@@ -33,7 +33,7 @@ Sa kirjutasid eelmises kirjas, et Sul tahtmine on õppima hakata. Igapidi kena t
 
 Aga see õpetus võib Sulle kasulik olla ka teistes vahekordades. Näiteks, kui Sa inimeste keskel viibid, kes kõrtsi vägisõnadest ei oska lugu pidada... Võtame näit. cand. rer. nat. Lutsu. Ta on niisugune poiss, et ta naerab iga loba juures, mida keegi heaks arvab ette kanda. Aga selle naeru või naeratuse taga kuskil sügaval istub pilge, sest ta oskab ainult «kõvast» mõttest lugu pidada, aga mitte kõvast sõnast. Ja niisuguseid näiteid võiks pika rea tuua. Võib-olla, et need rasked päevad Sind panevad ühe ja teise asja üle järele mõtlema, väärtusi ümber hindama. Ja see poleks üleliigne. Kuressaare elutingimused olid niisugused, et nad heaks pinnaks olid teatud omaduste arendamiseks, mida самодурствo'ks (eesti k. isemeelsus, kangekaelsus, põikpäisus) nimetatakse. Praegused elutingimused on Sul läbi ja läbi eitavad. Kuid nad on teravateks nurkadeks, mis Sinu самодурствo sisse pragusid ajavad, sest see põrkab siin vanamoori cамодурство vastu. Tröösti ennast sellega, et pärast sõja lõppu Sul jälle võimalus saab olema oma härrasmehelikke instinktisid arendada ja ise kord «vanamooriks» saada.
 
-Sa ehk leiad, et ma halastamatu olen. Võib-olla. «Elu» on mind «õpetanud» asju objektiivselt vaatlema. Ma ei ole fatalist. Aga ma näen igal pool eeskätt just neid objektiivseid momente, mis asju liikuma panevad. Kuidas keegi seda subjektiivselt läbi еlab, sее оn явление производное (eesti k. tuletatud nähtus), mille mõistmiseks algnähtuse konstateerimine tarvilik on.
+Sa ehk leiad, et ma halastamatu olen. Võib-olla. «Elu» on mind «õpetanud» asju objektiivselt vaatlema. Ma ei ole fatalist. Aga ma näen igal pool eeskätt just neid objektiivseid momente, mis asju liikuma panevad. Kuidas keegi seda subjektiivselt läbi еlab, sее оn *явление производное* (eesti k. tuletatud nähtus), mille mõistmiseks algnähtuse konstateerimine tarvilik on.
 
 Kõike head! \
 Viktor

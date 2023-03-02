@@ -10,7 +10,7 @@ images: [
     },
 ]
 dictionary: [ [koletu, määratu palju], [turral, turvas] ]
-tags: [ mäss ]
+tags: [ Eikuskil ]
 genre: [ ühiskond, mälestused ]
 person: [ Melania ]
 ---

@@ -20,7 +20,7 @@ images: [
     }
 ]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
-tags: [mees, naine, jumal]
+tags: [Eikuskil]
 genre: [rahvajutt]
 person: [Villem, Vanajumal, Mees, Naine]
 ---

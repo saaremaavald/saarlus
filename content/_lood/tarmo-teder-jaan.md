@@ -9,7 +9,7 @@ images: [
         src: tarmo-teder-jaan.webp
     },
 ]
-tags: [Nietzsche]
+tags: [Eikuskil]
 genre: [proosa]
 person: [Tarmo, Jaan, Hiie, Borka, Nietzsche]
 ---

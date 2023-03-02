@@ -9,7 +9,7 @@ images: [
         src: mager-tonisson.webp
     },
 ]
-tags: [arhitektuur]
+tags: [Eikuskil]
 genre: [ühiskond, kiri]
 person: [Helmut, Proua S., Ronald]
 ---

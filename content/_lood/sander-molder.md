@@ -8,7 +8,7 @@ images: [
         src: "sander-molder.webp"
     }
 ]
-tags: [Sander Mölder]
+tags: [Eikuskil]
 genre: [intervjuu, muusika]
 person: [Sander]
 ---

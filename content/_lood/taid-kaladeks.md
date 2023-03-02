@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "folklore.ee"
-tags: [Eikuskil, "Igal pool"]
+tags: [Eikuskil]
 genre: [ rahvapärimus ]
 person: [ Jüri ]
 ---

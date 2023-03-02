@@ -9,7 +9,7 @@ images: [
         src: "tatt-ja-amblik.webp"
     }
 ]
-tags: [murdekeel, loodus, Püha, Nasva]
+tags: [Eikuskil, Püha, Nasva]
 genre: [rahvajutt]
 person: [Arnold, Tatt, Ämblik]
 ---

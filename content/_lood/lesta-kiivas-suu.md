@@ -10,7 +10,7 @@ images: [
     }
 ]
 dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]
-tags: [lest, murdekeel, Anseküla ]
+tags: [Eikuskil, Anseküla ]
 genre: [rahvajutt]
 person: [Jaak L., Lest]
 ---

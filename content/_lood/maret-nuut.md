@@ -8,7 +8,7 @@ images: [
         src: "maret-nuut.webp"
     }
 ]
-tags: [Maret Nuut]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Maret]
 ---

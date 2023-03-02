@@ -8,7 +8,7 @@ images: [
         src: "valmar-voolaid.webp"
     }
 ]
-tags: [Valmar Voolaid]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Valmar]
 ---

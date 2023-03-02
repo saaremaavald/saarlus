@@ -8,7 +8,7 @@ images: [
         src: "kristin-lauri.webp"
     }
 ]
-tags: [Kristin Lauri]
+tags: [Eikuskil, "Igal pool"]
 genre: [intervjuu]
 person: [Kristin]
 ---

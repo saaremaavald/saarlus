@@ -8,7 +8,7 @@ images: [
         src: "mario-talvist.webp"
     }
 ]
-tags: [Mario Talvist]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Mario]
 ---

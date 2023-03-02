@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "“Murdepunkt”, Saare maakonna tantsupidu “Teel”, 2022"
-tags: [ ujuma, uppuma ]
+tags: [ Eikuskil ]
 genre: [ luule ]
 person: [ Mehis T. ]
 ---

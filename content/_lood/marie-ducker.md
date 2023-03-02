@@ -9,7 +9,7 @@ images: [
         height: 90vh
     }
 ]
-tags: [Marie Ducker, jalutamine, ületamine]
+tags: [Eikuskil]
 genre: [kunst, mälestus]
 person: [Marie]
 ---

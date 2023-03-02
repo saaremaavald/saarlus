@@ -7,7 +7,7 @@ images: [
         src: "saaremaa-rahvariided.webp"
     }
 ]
-tags: [rahvariided]
+tags: [Eikuskil]
 genre: [rahvapärimus]
 person: []
 ---

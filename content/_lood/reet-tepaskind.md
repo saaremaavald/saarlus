@@ -8,7 +8,7 @@ images: [
         src: "reet-tepaskind.webp"
     }
 ]
-tags: [Reet Tepaskind]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Reet]
 ---

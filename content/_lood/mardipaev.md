@@ -14,7 +14,7 @@ images: [
         zoom: true
     }
 ]
-tags: [mardipäev, santimine]
+tags: [Eikuskil]
 genre: [rahvapärimus]
 person: [Mari, Mart]
 ---

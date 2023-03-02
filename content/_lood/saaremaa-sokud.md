@@ -9,7 +9,7 @@ images: [
         src: "saaremaa-sokud.webp"
     }
 ]
-tags: [sokud, santimine]
+tags: [Eikuskil]
 genre: [rahvapärimus]
 person: [Georg, Näärisokk]
 ---

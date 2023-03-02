@@ -11,7 +11,7 @@ images: [
     }
 ]
 dictionary: [[pailajupp, paelajupp], [jähi,jäi], [annergad,angerjad]]
-tags: [murdekeel, loodus, uss, angerjas, meri, Püha]
+tags: [Eikuskil, Püha]
 genre: [rahvajutt]
 person: [Vanajumal]
 ---

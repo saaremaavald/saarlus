@@ -8,7 +8,7 @@ images: [
         src: "kruus-mandmets.webp"
     }
 ]
-tags: [Jakob]
+tags: [Eikuskil]
 genre: [mälestus]
 person: [Jakob, Oskar]
 ---

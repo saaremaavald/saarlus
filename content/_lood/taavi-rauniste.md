@@ -8,7 +8,7 @@ images: [
         src: "taavi-rauniste.webp"
     }
 ]
-tags: [Taavi Rauniste]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Taavi R.]
 ---

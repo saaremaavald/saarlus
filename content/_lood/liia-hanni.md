@@ -8,7 +8,7 @@ images: [
         src: "liia-hanni.webp"
     }
 ]
-tags: [Liia Hänni]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Liia]
 ---

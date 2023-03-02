@@ -8,7 +8,7 @@ images: [
         src: "salome-trei.webp"
     }
 ]
-tags: [Salome Trei, pagemine, vaikimine]
+tags: [Eikuskil]
 genre: [kunst]
 person: [Salome]
 ---
