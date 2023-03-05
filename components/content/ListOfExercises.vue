@@ -28,7 +28,7 @@
         class="flex flex-col lg:flex-row gap-4 
         text-lg 
             font-Normal prose prose-gray dark:prose-invert">
-            <div class="bg-white p-4 max-w-2xl">
+            <div class="p-4 max-w-2xl">
                 <p>
                     “Saarluse kompassi” ülesanded ehk saarluse uurimise teod - märka, mõtesta, märgi üles, mängi mõttemänge - kutsuvad vaimselt ja füüsiliselt uitama ehk ennast ja ümbritsevat jälgima, infot koguma, sortima, (läbi) kirjutama, sirgeldama. Tegude tulemusi saab esitleda, võrrelda ja üldistada paari- või rühmaaruteludes, väitlusringis, kasutada intervjuudes, et mängida mõttemänge, milline võiks tegutseja enda või Saaremaa elu olla tulevikus: mida hoida, mida muuta, mida uut tuua.
                 </p>
@@ -36,7 +36,7 @@
                     Joonistamisoskus pole oluline, tähtis on arusaadavus. Tegude tulemused tulevad just nii huvitavad ja kõnekad, kui palju neisse panustada. Nagu koolis, tööl, elus tervikuna. Tähelepanelikku silma ja head sirgeldamist!
                 </p>
             </div>
-            <div class=" p-4">
+            <div class="p-4">
                 <h3 class="mb-4 font-bold text-secondary-800 dark:text-primary-200">Vaata lisaks:</h3>
                 <ul class="list-disc ml-5">
                     <li>

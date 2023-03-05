@@ -1,0 +1,27 @@
+---
+layout: story-page
+title: Tegu
+description: "pane tähed kõnelema"
+images: [
+    {
+        src: teod/typoplakat.webp,
+        zoom: true
+    },
+]
+---
+
+# {{$doc.title}}: {{$doc.description}}
+
+Mõtle läbi ja sirgelda pilt, mis on su kodukohas, Kuressaares või Saaremaal sulle olulist või millega seda paika teistele tutvustada nii, et pildil on sõnade tähed omavahel ühendatud. Selleks vali kõigepealt kohanimi ja mõtle, mida sellest kohast soovid kujutada: endale olulisi asju, nähtusi, inimesi. Või valid ühe teema, nt loodus, ilm, majad, toidud jne. Visanda mõttekaart, kuhu sirgeldad sõnad, mille sees on täht, mis on ka sinu valitud kohanimes. Kui oled tähed ja sõnad klappima saanud, mõtle läbi ka tähtede stiil ja lisa-elemendid, milleks leiad näiteid netist. 
+
+Miks? Nii saad läbi mõelda ja ülevaatlikult kujutada, mida üks paik Saaremaal sinu jaoks tähendab, ja näha teiste mõtteid. Huvitav ja kõnekas tuleb tulemus siis, kui üht ja sama paika mõtestavad lahti eri inimesed. Nii avanevad paigad ja teised inimesed (nende mõttemaailm) uute nurkade alt, mis saavad teha kas või igapäevased jalutuskäigud sisukamaks ja ilusamaks. 
+
+Ülal on näide, kus Kuressaare sõnast jooksevad vertikaalselt läbi linna tuntuimate ajalooliste hoonete nimed. Linna nime tähtedele on lisatud detaile, mis viitavad ajaloolise hoone välimusele või tegevusele. Linna nime ümbritsevad mustrid ja märgid kõnelevad sellest, et Kuressaare on rahulik ja roheline väikelinn.
+
+Stiili jaoks on inspiratsiooni saadud siit: https://www.pinterest.com/pin/492440540522233061/. Kui kirjutad Pinterestis otsingusse “hand drawn fonts”, siis leiad ideid, milline kiri oma pildi tegemiseks valida.
+
+<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
+
+
+</details-wrapper> -->
+

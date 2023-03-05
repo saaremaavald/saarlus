@@ -1,10 +1,10 @@
 ---
 layout: story-page
 title: Tegu
-description: "Saaremaa kui toit sinu kodus"
+description: "tee ilus infograafika Saaremaa päritolu toiduainetest oma kodus"
 images: [
     {
-        src: toidu-infograafika.webp,
+        src: teod/toidu-infograafika.webp,
         zoom: true
     },
 ]
@@ -12,21 +12,23 @@ images: [
 
 # {{$doc.title}}: {{$doc.description}}
 
-Vaata üle, milliseid ja kui palju Saaremaal kasvatatud toiduained, Saaremaal toodetud toiduained, Saaremaa ettevõtetes valmistatud toite sul kodus on ja tee neist infograafiline pilt nii, et valid iga toiduaine ühiku jaoks märgi ja kannad pildile nii palju märke, kui sul seda toiduainet kodus on. Mõeldud on siis iseenda igapäevast toitu.
+Vaata üle, milliseid ja kui palju Saaremaal kasvatatud toiduained, Saaremaal toodetud toiduained, Saaremaa ettevõtetes valmistatud toite sul kodus on ja tee neist infograafiline pilt nii, et valid iga toiduaine ühiku jaoks märgi ja kannad pildile nii palju märke, kui sul seda toiduainet kodus on. Mõeldud on oma majapidamise tarbeks kuluvat igapäevast toitu.
 
-<!-- - kohaliku taluniku mahekartul (25 kg) 1 = 1 kg
-- siig (1,5 purki äkisena) 1 = 1 kala
-- kohalikust metsasaaduste FB grupist ostetud ja ise marineeritud männiriisikad (6 purki) ja kuuseriisikad (4 purki) 1 = 0.5 l purk
-- enda korjatud ja kuivatatud lehterkukeseened (2 Castello pitsa karbi täit) 1 = 1 Castello pitsa karbi täis
-- MoSaaremaa või (1 pakk) 1 = 1 pakk
-- Nooda Mare kohupiim (0.5 l karp)
-- MoMari pihlamarmelaadid šokolaadis (0.25 pakki, 0.75 on ära söödud)
-- MoSaaremaa “Edam” juust (1 pakk) 1 = 1 pakk
-- mustikad (sügavkülmas, õpilase Arneku käest ostsin) 1 = 3 liitrine külmutuskott
-- metsmaasikad (tütar korjas vanaema-vanaisa vandiraijujate maalt) 1 = 0,5 l külmutuskott
-- õunalõhn kuuris (sest hiired ja rotid sõid kasti tühjaks) 1 = 1 minut lõhnatundmist
-- moosid, salatid, kastmed (FB grupist oma aia õunte vastu vahetatud, 7 purki) 1 = 0,5 l purk
-- munad (ämma töökaaslaelt, 1 karp) 1 = 1 karp -->
+Kui teid on terve rühm või klass, kes infograafilised pildid teeb, siis võiksite need pildid klassi seinale või mõnda virtuaalkeskkonda panna ja esitleda, kui palju on kohalikku toitu teie majapidamistes ja arutleda kohaliku toidu allikate ja tarbimise eri aspektide ning kohaliku toidu tootmise tuleviku üle. 
+
+<hr />
+
+Märgisüsteemi loomiseks on mõistlik kasutada lihtsaid kujundeid nagu ruutu, ringi, ristkülikut ja kolmnurka. Värvid valida nii, et seostuvad äratuntavalt toiduga, mida nad kujutavad. Kujundi sisse, kohale, kõrvale võib värvi asemel või värvi lisaks panna väikese lihtsa detaili, mis toiduainet iseloomustab. Ülal toodud näites on loodud selline süsteem:
+
+- kohaliku taluniku mahekartul: 1 pruun ring = 1 kg, kokku 25 ringi (25 kg)
+- kohalike kodukanade munad: 1 halli piirjoonega ring = 1 karp, kokku 5 ringi (5 karpi)
+- Reo nunnakloostri leedrimarja tarretis 1 kollane ruut, mille kohal hall kriips = 1 0.2l purk
+- Reo nunnakloostri mündi ja sidruni siirup 1 heleroheline kõrge ristkülik = 0.5 l pudel
+- Undresti vürtsikilu 1 halli piirjoonega ristkülik = 0.5 l karp
+Ja nii edasi. 
+
+Ja muidugi võib ülesandele läheneda ka loovalt ja huumoriga, nt kodus võib olla ka 1 kuuritäis õunalõhna, sest hiired ja rotid sõid õunad ära :)
+NB! Mõistlik on alati teha enne visand ja kavand, sest, nagu ülal näha, on ruumist puudu tulnud ja tekstiplokid vajaksid rohkem tühja ruumi ümber, et tekst oleks paremini loetav.
 
 
 <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">

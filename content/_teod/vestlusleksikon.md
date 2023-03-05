@@ -19,6 +19,7 @@ Kui sa saaksid mingi oskuse nipsust, siis millise: paati ehitama, püssi laskma,
 
 Nt mina tahaks osata jalgrattaga sõita, ma ei oska, et suviti Saaremaad avastada, telkida.
 Millest sa teeksid uurimistöö? Kas teadusliku või ilukirjandusliku?
+
 Mina näiteks jää eri vormidest merel:
 
 jäämunakivitee (vt oma fotot)
@@ -27,10 +28,8 @@ jääkillu-stik
 
 
 
-<details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
+<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
-- Siit leiad inspiratsiooniks veel näiteid, kuidas kirjeldavad ulgueestlased Eestit: \
-https://www.globaalsedeestlased.org/p/45-motet-kuidas-kirjeldada-eestit
 
-</details-wrapper>
+</details-wrapper> -->
 

@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Tegu
-description: "retsept"
+description: "sirgelda oma lemmik toidu retsept"
 images: [
     {
         src: teod/retsept.webp,
@@ -12,7 +12,14 @@ images: [
 
 # {{$doc.title}}: {{$doc.description}}
 
-Sirgelda retsept, mille järgi saab teha mõnd Saaremaa kohalikku või teie peres traditsioonilist rooga. 
+Sirgelda retsept, mille järgi saab teha mõnd Saaremaa kohalikku või teie suguvõsa, pere traditsioonilist toitu. Hea oleks alustada sellest, et teha kõigepealt etappide loetelu, millest toidu valmistamine koosneb. Siis visand, kus proovid oma infot paigutada nii, et su tekst ja kujutised on loetavad ja arusaadavad. Kui kõik klapib, on aeg teha lõplik versioon.
+
+Ülal näed üht näidet, kuidas siiaäkist valmistada. Siin veel inspiratsiooniks näiteid: 
+
+- https://sophiepeanut.com/illustration-portfolio-sketches/illustrated-recipes-by-sophie-peanut/
+- http://lilianleahy.com/illustration/its-fun-drawing-recipes/
+
+Kui teid on rühm või terve klass, kes selle teo teeb, siis võiksite oma pildid panna klassi seinale või virtuaalkeskkonda, neid esitleda ning arutleda, kui palju on toite, mida tehakse põlvest põlve, kuidas on muutunud toiduvalmistamine kodus. Viimase tarbeks oleks hea ka oma (vana)vanemaid küsitleda. Kas eelistatakse kiiremini valmivaid toite, kui palju tarbitakse valmistoite või süüakse väljas, mida pakutakse külalistele, kas toitumine on muutunud tervislikumaks või mitte, kui palju on kohalikke toiduaineid ja toite, ning kui palju on toite, mille algupära on mõnes muus kultuuris. Ja on sul toite, mida sa ise tahaksid, et kuuluksid su oma majapidamise menüüsse, kui oled täiskasvanu ja elad omaette, ühesõnaga, on sul on toite, mida tahad ikka ja jälle süüa ja kogu elu.
 
 #### Siiaäkine
 
@@ -35,8 +42,9 @@ Sirgelda retsept, mille järgi saab teha mõnd Saaremaa kohalikku või teie pere
 
 
 
-<!-- <details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
+<details-wrapper summary="Lisaks" icon="icon-park-outline:six-points">
 
+Võiksid lugeda **Jüri Tuuliku** <a href="../_lood/jyri-tuulik-raim">räimelugu</a>, **Mari Lepiku** <a href="../_lood/mari-lepik">lugu oma koolipäevast</a>, kus muuhulgas juttu ka koolitoidust ja Eesti Tervise Arengu Instituudi uuringu tulemusi koolilaste toitumisest ja kehakaalust: https://tai.ee/et/uudised/ulemaarase-kehakaaluga-30-algklasside-opilastest
 
 </details-wrapper>
- -->
+

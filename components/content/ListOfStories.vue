@@ -111,15 +111,16 @@
 </script>
 
 <template>
-    <section class="h-screen overflow-auto bg-primary-50 bg-[url('/images/saarlus-bg.webp')] bg-[length:100%_100%] p-10 dark:bg-secondary-900">
+    <section class="h-screen overflow-auto bg-primary-50 bg-[url('/images/saarlus-bg.webp')] bg-[length:2400px_1440px] p-10 
+    dark:bg-secondary-900 dark:bg-[url('/images/saarlus-bg--dark.webp')]">
 
         <h1 class="mb-4 font-Special text-5xl text-secondary-800 
             dark:text-primary-200">Lugude nimekiri</h1>
         
         <section class="flex gap-4 mt-10">
-            <IconButton icon="icon-park-outline:peoples" label="ŽANR" @click="togglePanels('genre')" />
-            <IconButton icon="icon-park-outline:peoples" label="TEGELASED" @click="togglePanels('person')" />
-            <IconButton icon="icon-park-outline:peoples" label="KOHAD" @click="togglePanels('place')" />
+            <IconButton icon="icon-park-outline:triangle-round-rectangle" label="ŽANR" @click="togglePanels('genre')" class="bg-white dark:bg-secondary-900/70" />
+            <IconButton icon="icon-park-outline:peoples" label="TEGELASED" @click="togglePanels('person')" class="bg-white dark:bg-secondary-900/70" />
+            <IconButton icon="icon-park-outline:globe" label="KOHAD" @click="togglePanels('place')" class="bg-white dark:bg-secondary-900/70" />
         </section>
         
 
