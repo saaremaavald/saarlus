@@ -30,10 +30,10 @@
             font-Normal prose prose-gray dark:prose-invert">
             <div class="bg-white p-4 max-w-2xl">
                 <p>
-                    Saarluse kodulehel leiad sa lood Saaremaaga seotud inimestelt. Sinu teha on teod, väiksemad ja suuremad. Ja et uued inimesed saaksid näha teie tegusid ja luua uusi, oma lugusid või teha tegusid, siis avalikuks: virtuaalnäitus sotsiaalmeediasse, kooli seintele ja miks mitte ka kaugemale.
+                    “Saarluse kompassi” ülesanded ehk saarluse uurimise teod - märka, mõtesta, märgi üles, mängi mõttemänge - kutsuvad vaimselt ja füüsiliselt uitama ehk ennast ja ümbritsevat jälgima, infot koguma, sortima, (läbi) kirjutama, sirgeldama. Tegude tulemusi saab esitleda, võrrelda ja üldistada paari- või rühmaaruteludes, väitlusringis, kasutada intervjuudes, et mängida mõttemänge, milline võiks tegutseja enda või Saaremaa elu olla tulevikus: mida hoida, mida muuta, mida uut tuua.
                 </p>
                 <p>
-                    Võib ka teha nii, et kõigepealt teed teo, siis vaatad, milliseid lugusid siin on, ja siis teed uuesti, kasutades uusi teadmisi, mõtteid, tundeid, mis tekkisid pärast lugusid.
+                    Joonistamisoskus pole oluline, tähtis on arusaadavus. Tegude tulemused tulevad just nii huvitavad ja kõnekad, kui palju neisse panustada. Nagu koolis, tööl, elus tervikuna.
                 </p>
             </div>
             <div class=" p-4">
@@ -42,18 +42,18 @@
                     <li>
                         <a href="https://www.youtube.com/watch?v=rZikhQ5w5Ck" target="_blank"
                         class="underline">
-                            Mis on visuaalne mõtlemine? 81 min 55) 
+                            Mis on visuaalne mõtlemine ja milleks hea? (inglise keeles) 1 min 55 s
                         </a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/watch?v=IvTHDbUbdHY" target="_blank"
                         class="underline">
-                            Miks sirgeldada?
+                            Miks sirgeldada? (inglise keeles) 2 min 32 s
                         </a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/watch?v=eLgTPDaholU" target="_blank"
-                        class="underline">Sirgeldamise 5 põhitõde</a>
+                        class="underline">Sirgeldamise 5 põhitõde (inglise keeles, sisaldab reklaami) 10 min 29 s</a>
                     </li>
                 </ul>
             </div>
