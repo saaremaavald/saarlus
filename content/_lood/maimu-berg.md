@@ -9,9 +9,9 @@ images: [
         src: maimu-berg.webp
     },
 ]
-tags: [Eikuskil]
-genre: [proosa]
-person: [Maimu, Hitler]
+tags: [Tallinn, Mustjala, Saksamaa]
+genre: [lühilugu]
+person: [Maimu, Hitler, Simon, Loll-Tiimi, Lillu]
 ---
 
 <!-- # {{$doc.title}} -->

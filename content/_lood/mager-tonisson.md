@@ -9,8 +9,8 @@ images: [
         src: mager-tonisson.webp
     },
 ]
-tags: [Eikuskil]
-genre: [ühiskond, kiri]
+tags: [Kuressaare, Lõpe, Tallinn, Saksamaa]
+genre: [kiri]
 person: [Helmut, Proua S., Ronald]
 ---
 

@@ -8,9 +8,9 @@ images: [
         src: "liia-hanni.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Atla, Pussa, Laratsi, Kolga, Austla, Karala, Tõravere, Tartu]
 genre: [intervjuu]
-person: [Liia]
+person: [Liia, Endel, Uku]
 ---
 
 <!-- # {{ $doc.title }} -->

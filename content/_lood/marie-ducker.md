@@ -9,9 +9,9 @@ images: [
         height: 90vh
     }
 ]
-tags: [Eikuskil]
+tags: [lapsepõlv, Kuressaare, Pärnu, Saksamaa]
 genre: [kunst, mälestus]
-person: [Marie]
+person: [Marie, Eugen]
 ---
 
 <!-- # {{ $doc.title }} -->

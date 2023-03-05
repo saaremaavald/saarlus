@@ -8,7 +8,7 @@ images: [
         src: "01_maria-hansar.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Tallinn, Saaremaa, Virtsu]
 genre: [intervjuu]
 person: [Maria H.]
 ---

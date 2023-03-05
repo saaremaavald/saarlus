@@ -9,8 +9,8 @@ images: [
         src: louis-kahn.webp
     },
 ]
-tags: [Linn, Eikuskil]
-genre: [ühiskond]
+tags: [Kuressaare]
+genre: [artikkel]
 person: [Louis]
 ---
 
@@ -28,7 +28,7 @@ person: [Louis]
 
 <hr />
 
-**Louis Kahn**, Saaremaal sündinud arhitekt, keda peetakse 20. sajandi üheks mõjukaimaks arhitektiks maailmas
+**Louis Kahn**, Saaremaal sündinud arhitekt, keda peetakse 20. sajandi üheks mõjukaimaks arhitektiks maailmas.
 
 
 

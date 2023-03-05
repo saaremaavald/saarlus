@@ -8,9 +8,9 @@ images: [
         src: "mario-talvist.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Orissaare, Tallinn, Inglismaa]
 genre: [intervjuu]
-person: [Mario]
+person: [Mario, lehm]
 ---
 
 <!-- # {{ $doc.title }} -->
