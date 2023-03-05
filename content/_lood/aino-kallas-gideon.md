@@ -40,7 +40,7 @@ Alles nüüd sain mahti vilksamisi ümber vaadata. Ehkki mu mõtted kogu aja oli
 “Kuidas siin elatakse?” küsisin haigele kätt andes. \
 “Halvasti üsna halvasti minek on lähedal. Ei ole enam abi neist maapealseist,” tuli vastus, vaevalt kuulduv, peagu sosin. \
 “Kas on ka arsti kutsutud? Ons ta käinud?” pärisin. \
-“Ei ole. Siin ei ole muid käinud kui see naabri naine, Leena! saab.Ta käib, kui ta tööde vahelt mahti.” \
+“Ei ole. Siin ei ole muid käinud kui see naabri naine, Leena, saab. Ta käib, kui ta tööde vahelt mahti.” \
 “Aga kuidas on su surematu hingega lugu? Kas oled valmis astuma meie Issanda ja Jumala ette, kes saab oma õigluse vaekausil kaaluma niihästi su head kui kurjad teod? Vasta selle peale, naine!”
 
 Haige ärakurnatud näol vilgatas jälle kohkunud, hirmunud ilme, otsekui jahikoertest ahistatud metsloomal, kuid ta ei saanud sõna suust. Jõuetumad käed vaid katsusid vaistlikult nagu tõrjumiseks tõusta. Mõistsin, et siin tuli lasta evangeeliumil käia seaduse pookstavi eel, kui taheti midagi kätte saada. Muutsin seepärast oma kõnetooni ja sõnasin rahustavalt:
@@ -76,7 +76,7 @@ Surija hingeldas kuuldavalt, nagu oleks vaesekese rinnas sepa lõõts töötanud
 
 “Ja sina...?” \
 Surija pea kukkus tagasi õlgpadjale. \
-“Ma kuulsin ta nõu vahetasin, nagu kästi.” \
+“Ma kuulsin ta nõu, vahetasin, nagu kästi.” \
 “Ja keegi ei märganud midagi?” \
 “Ei märganud midagi.” \
 “Kas ka mitte hiljem?” \

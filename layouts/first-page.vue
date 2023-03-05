@@ -1,5 +1,5 @@
 <template>
-    <div class="py-20 m-auto bg-white bg-[url('/images/saarlus-bg.webp')] bg-[length:1600px_960px]  dark:bg-secondary-900 dark:bg-[url('/images/bg-map-dark.svg')]">
+    <div class="py-20 m-auto">
         <main class="px-4 mx-auto sm:px-8 
           prose prose-gray dark:prose-invert">
             <slot>

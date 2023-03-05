@@ -120,11 +120,11 @@
             </h1>
             <!-- <h2 class="mt-8 font-Special text-secondary-800 text-4xl uppercase
             dark:text-secondary-500">Mis see veel on?</h2> -->
-            <p class="font-sans text-secondary-900 mb-0 text-lg
-            dark:text-secondary-400
+            <p class="font-sans text-secondary-900 mb-0 text-lg bg-white
+            dark:text-secondary-400 dark:bg-secondary-900
             lg:mt-5">Tule uita lugudes, mis on jutustanud, kirja pannud ja piltidena kujutanud inimesed, keda Saaremaaga seob elu või töö või õppimine - või kõik koos. Kindlasti leiad sel teel üht-teist tuttavat, tõenäoliselt palju uut, ning võib juhtuda, et leiad ka  iseenda - ja see vast oleks köige kenam?</p>
-            <p class="font-sans text-secondary-900 text-lg
-            dark:text-secondary-400">Esimese sammuna kliki <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="compassNeedleClick">kompassi keskel</a> ja vaata, kuhu satud. Või vali <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="toggleStories">nimekirjast</a> mõte, mis sind kaasa kutsub.</p>
+            <p class="font-sans text-secondary-900 text-lg bg-white
+            dark:text-secondary-400 dark:bg-secondary-900">Esimese sammuna kliki <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="compassNeedleClick">kompassi keskel</a> ja vaata, kuhu satud. Või vali <a class="text-primary-700 cursor-pointer dark:text-rimary-400" @click="toggleStories">nimekirjast</a> mõte, mis sind kaasa kutsub.</p>
 
         </div>
         
