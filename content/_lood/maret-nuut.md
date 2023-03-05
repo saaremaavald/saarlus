@@ -8,9 +8,9 @@ images: [
         src: "maret-nuut.webp"
     }
 ]
-tags: [Maret Nuut]
+tags: [Rootsi, Tallinn, Türi, Soome, Kilingi-Nõmme, Suurna]
 genre: [intervjuu]
-person: [Maret]
+person: [Maret, Meelis]
 ---
 
 <!-- # {{ $doc.title }} -->

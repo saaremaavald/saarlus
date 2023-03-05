@@ -8,9 +8,9 @@ images: [
         src: "maria-faust.webp"
     }
 ]
-tags: [Maria Faust]
+tags: [Kuressaare, Taani, Eesti, Saaremaa, Ameerika]
 genre: [intervjuu, muusika]
-person: [Maria F.]
+person: [Maria F., Milvi]
 ---
 
 <!-- # {{ $doc.title }} -->

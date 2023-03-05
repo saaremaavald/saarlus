@@ -10,9 +10,9 @@ images: [
     }
 ]
 dictionary: [[Inglis,inglise], [tiimer,aurik], [Köpu otsa kuhal,Kõpu poolsaare otsa kohal], [meistel,meestel], [Paldi merest,Balti merest], [taarist Peeterpurki aru viia,tarvis Peterburisse teade viia], [ää saaja,ära saada], [lasn luubi sisse ja söund,lasknud paadi merre ja sõudnud], [mättud,mättaid], [pärasti tulnd üles,hiljem selgunud] ]
-tags: [murdekeel, meri, kala, kammeljas, laev, Mustjala]
+tags: [Mustjala, Inglismaa, Kõpu]
 genre: [rahvajutt]
-person: [Aleksander L., Lest]
+person: [Aleksander L., lest, murre, meri, laev]
 ---
 
 

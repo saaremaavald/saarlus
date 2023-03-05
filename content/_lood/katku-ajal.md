@@ -10,9 +10,9 @@ images: [
     }
 ]
 dictionary: [[murdand,murdnud], ["ägat, ägas", "iga, igas"]]
-tags: [murdekeel, katk]
+tags: [Kärla, Saaremaa, Mustjala, Sõrve]
 genre: [rahvajutt]
-person: [Marii]
+person: [Marii, murre, katk, Mihkel]
 ---
 
 <!-- # {{$doc.title}} -->

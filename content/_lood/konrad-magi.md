@@ -8,9 +8,9 @@ images: [
         src: "konrad-magi.webp"
     }
 ]
-tags: [Konrad Mägi, käivitama, kuhjama, õhetama, plahvatama, põlema, pagema]
+tags: [Saaremaa, Kuressaare, Kihelkonna, Peterburi, Ahvenamaa, Normandia, Vilsandi, Helsingi, Viljandi, Tartu]
 genre: [kunst]
-person: [Konrad]
+person: [Konrad, Aino, Oskar, Eero, Enn]
 ---
 
 <!-- # {{ $doc.title }} -->

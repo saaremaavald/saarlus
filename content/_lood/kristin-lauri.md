@@ -8,9 +8,9 @@ images: [
         src: "kristin-lauri.webp"
     }
 ]
-tags: [Kristin Lauri]
+tags: [Kuressaare, Tartu]
 genre: [intervjuu]
-person: [Kristin]
+person: [Kristin, Anneli, Kaja, Grete]
 ---
 
 <!-- # {{ $doc.title }} -->
