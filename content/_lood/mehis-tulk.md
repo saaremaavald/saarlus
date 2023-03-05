@@ -9,7 +9,7 @@ images: [
         src: mehis-tulk.webp
     },
 ]
-tags: [Pöide, keskaeg]
+tags: [Pöide, Eikuskil]
 genre: [proosa]
 person: [Mehis, Asso, Piirit, Poiss, Tüdruk]
 ---

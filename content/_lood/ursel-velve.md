@@ -8,7 +8,7 @@ images: [
         src: "ursel-velve.webp"
     }
 ]
-tags: [Ursel Velve]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Ursel]
 ---

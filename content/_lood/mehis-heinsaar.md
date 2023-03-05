@@ -9,7 +9,7 @@ images: [
         src: mehis-heinsaar.webp
     },
 ]
-tags: [geenius aga ei ole]
+tags: [Eikuskil]
 genre: [proosa]
 person: [Mehis]
 ---

@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "folklore.ee"
-tags: []
+tags: [Eikuskil]
 genre: [ rahvapärimus ]
 person: [ Jüri ]
 ---

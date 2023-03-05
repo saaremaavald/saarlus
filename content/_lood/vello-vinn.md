@@ -8,7 +8,7 @@ images: [
         src: "vello-vinn.webp"
     }
 ]
-tags: [Vello Vinn, pagema, peegeldama, alustama, lahkuma]
+tags: [Eikuskil]
 genre: [kunst]
 person: [Vello]
 ---

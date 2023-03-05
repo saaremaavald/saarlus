@@ -9,7 +9,7 @@ images: [
         src: "pahila-soo.webp"
     }
 ]
-tags: [murdekeel, haldjad, soo, naine, tammik, Karja]
+tags: [Eikuskil, Karja]
 genre: [rahvajutt]
 person: [Priidu, Naine, Haldjas]
 ---

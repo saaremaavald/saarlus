@@ -9,7 +9,7 @@ images: [
         src: "andres-ehin-aavik.webp"
     }
 ]
-tags: [surm]
+tags: [Eikuskil, "Igal pool"]
 genre: [luule]
 person: [Johannes]
 ---

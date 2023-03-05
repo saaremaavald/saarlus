@@ -8,7 +8,7 @@ images: [
         src: "raido-lember.webp"
     }
 ]
-tags: [Raido Lember]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Piret]
 ---

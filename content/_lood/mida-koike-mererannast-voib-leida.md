@@ -10,7 +10,7 @@ images: [
     }
 ]
 dictionary: [[parklaev, purjelaev]]
-tags: [murdekeel, meri, laev, Kihelkonna, haakrik]
+tags: [Eikuskil, Kihelkonna]
 genre: [rahvajutt]
 person: [Priidu, Mees, Naine]
 ---

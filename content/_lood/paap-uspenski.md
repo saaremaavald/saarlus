@@ -8,7 +8,7 @@ images: [
         src: "paap-uspenski.webp"
     }
 ]
-tags: [Paap Uspenski]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Paap]
 ---

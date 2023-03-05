@@ -9,7 +9,7 @@ images: [
         src: sulev-truuvaart.webp
     },
 ]
-tags: [sullu]
+tags: [Eikuskil]
 genre: [ühiskond]
 person: [Sulev, Sullu]
 ---

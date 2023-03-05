@@ -11,7 +11,7 @@ images: [
     }
 ]
 dictionary: [[kuntsi, kunsti], [napsu pealt, otsekohe], [aganase,aganate sisse]]
-tags: [murdekeel, rehepapp, Vanapagan, torupill, muusika, Muhu]
+tags: [Eikuskil, Muhu]
 genre: [rahvajutt]
 person: [Aleksander J., Rehepapp]
 ---

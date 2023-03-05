@@ -9,7 +9,7 @@ images: [
         src: "jan-teevet.webp"
     }
 ]
-tags: [Orissaare, Paide, Tallinn, Virtsu, Väike väin]
+tags: [Orissaare, Paide, Tallinn, Virtsu, "Väike väin"]
 genre: [intervjuu]
 person: [Jan]
 ---

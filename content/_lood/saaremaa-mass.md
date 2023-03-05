@@ -9,7 +9,7 @@ images: [
         src: saaremaa-mass.webp
     },
 ]
-tags: [mäss]
+tags: [Eikuskil]
 genre: [ühiskond, mälestused]
 person: [Oskar]
 ---

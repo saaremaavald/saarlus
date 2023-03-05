@@ -8,7 +8,7 @@ images: [
         src: "suur-toll.webp"
     }
 ]
-tags: [Suur Tõll, Kärla]
+tags: [Eikuskil, Kärla]
 genre: [rahvajutt]
 person: [Tõll]
 ---

@@ -9,7 +9,7 @@ images: [
         src: "murelik-surnu.webp"
     }
 ]
-tags: [tüdruk, surm, Kaarma]
+tags: [Eikuskil, Kaarma]
 genre: [rahvajutt]
 person: [Tüdruk, Surm]
 ---

@@ -12,7 +12,7 @@ images: [
         zoom: true
     }
 ]
-tags: [kadripäev, santimine ]
+tags: [Sõrve ]
 genre: [rahvapärimus]
 person: [Mari, Kadri]
 ---

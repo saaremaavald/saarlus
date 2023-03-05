@@ -9,7 +9,7 @@ images: [
         src: heiki-pardi-seened.webp
     },
 ]
-tags: []
+tags: [Saaremaa]
 genre: [päevik]
 person: [Heiki, Piht, Jans, Helle, Mari, Priit, Maarika, seen]
 ---

@@ -7,7 +7,7 @@ images: [
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: []
+tags: [Eikuskil, "Igal pool"]
 genre: [luule]
 person: [Aira, naine]
 ---

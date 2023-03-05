@@ -8,7 +8,7 @@ images: [
         src: "piret-puppart.webp"
     }
 ]
-tags: [Piret Puppart]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Piret]
 ---

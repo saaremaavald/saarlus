@@ -7,7 +7,7 @@ images: [
         src: "lesta-kiivas-suu.webp"
     }
 ]
-tags: [pannileib, toit ]
+tags: [Eikuskil ]
 genre: [retsept]
 person: [Juta]
 ---

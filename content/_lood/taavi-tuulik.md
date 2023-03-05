@@ -8,7 +8,7 @@ images: [
         src: "taavi-tuulik.webp"
     }
 ]
-tags: [Taavi Tuulik]
+tags: [Eikuskil]
 genre: [intervjuu]
 person: [Taavi T.]
 ---
