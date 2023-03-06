@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Sõrve, Torgu]
-genre: [lühiproosa]
+genre: [lühilugu]
 person: [Andrus, viinamäetigu, Carl, Nikolai, Christine, maja]
 ---
 

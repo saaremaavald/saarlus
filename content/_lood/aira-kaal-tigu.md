@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "“Üks tigu ilma majata”, kogu “Üks tigu ilma majata”, Eesti Raamat, 1968."
-tags: [ Eikuskil, "Igal pool" ]
+tags: [ Saaremaa ]
 genre: [ luule ]
 person: [ Aira ]
 ---

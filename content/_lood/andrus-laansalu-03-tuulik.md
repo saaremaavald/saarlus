@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Saaremaa, Angla, Muhu]
-genre: [lühiproosa, muusika]
+genre: [lühilugu, muusika]
 person: [Andrus, tuulik, maja, Jüri]
 ---
 

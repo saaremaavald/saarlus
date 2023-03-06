@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Saaremaa, Salme]
-genre: [lühiproosa]
+genre: [lühilugu]
 person: [Andrus, maja]
 ---
 

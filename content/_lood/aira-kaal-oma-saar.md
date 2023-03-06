@@ -10,8 +10,8 @@ images: [
     }
 ]
 tags: [Kõinastu, Saareküla, Unguma, Maasilinn]
-genre: [lühiproosa]
-person: [Aira, Laani T.]
+genre: [lühilugu]
+person: [Aira, Laani ]
 ---
 
 <!-- # {{$doc.title}} -->

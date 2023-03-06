@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Arhangelsk, Kuressaare, Viiburi, Petrograd]
 genre: [mälestus]
-person: [Caesar, Amundsen, meri, Johannes, Vilkitski, Jošin, Geilmann, Dvardovski, Voznessenski, Arhipov, Frank, Maidanovitš, Dikson, Borissov, Lvov, Rammul, Laidus]
+person: [Caesar, Amundsen, meri, Johannes, Vilkitski]
 ---
 
 <!-- # {{$doc.title}} -->
