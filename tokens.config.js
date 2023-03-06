@@ -52,6 +52,8 @@ export default defineTheme({
             }
         },
         li: {
+            fontSize: '{typography.fontSize.lg}',
+            lineHeight: '{typography.lead.relaxed}',
             margin: '0.5em 0',
             listStylePosition: 'outside'
         },

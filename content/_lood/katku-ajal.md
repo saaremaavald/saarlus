@@ -10,9 +10,9 @@ images: [
     }
 ]
 dictionary: [[murdand, murdnud], ["ägat, ägas", "iga, igas"]]
-tags: [Kärla, Saaremaa, Mustjala, Sõrve]
+tags: [Saaremaa, Mustjala, Sõrve, Kärla]
 genre: [rahvajutt]
-person: [Marii, murre, katk, Mihkel]
+person: [Marii, Mihkel]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -32,7 +32,10 @@ Siis akkati ägat sorti inimesi Saaremaale elama tooma. Äga liik oli ikka ise s
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- pole
+- Professor **Pajusalu** räägib, miks on murdeid vaja: https://novaator.err.ee/256581/100-sekundi-video-kui-kaovad-murded-kaob-ka-eesti-keel
+- Kuidas tekkis eesti keel, saad lugeda siit: http://hunoratsep.ut.ee/sites/default/files/hunoratsep/files/eesti_keele_tekkimise_lugu.pdf
+- Saaremaa murdekeele tunnused leiad siit: http://saaremaa.folklore.ee/wordpress/?page_id=907
+- Kuidas veel saaks seletada Saaremaa eri murrakute teket? Kui lasta kujutlusvõimel lennata?
 
 </details-wrapper>
 
@@ -41,5 +44,6 @@ Siis akkati ägat sorti inimesi Saaremaale elama tooma. Äga liik oli ikka ise s
 <details-wrapper summary="Allikad" class="text-sm" icon="icon-park-outline:document-folder">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=836
+- Foto: **Oliver Maaker**
 
 </details-wrapper>
