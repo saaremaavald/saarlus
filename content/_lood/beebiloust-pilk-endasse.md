@@ -11,7 +11,7 @@ images: [
 origin: "“Pilk endasse”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
 tags: [ Sõrve, Narva ]
 genre: [ luule ]
-person: [ Andrus E., Beebilõust, murre ]
+person: [ Andrus, Beebilõust, murre ]
 ---
 
 <!-- # {{$doc.title}} -->

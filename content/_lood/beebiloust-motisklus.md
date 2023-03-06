@@ -11,7 +11,7 @@ images: [
 origin: "“Mõtisklus”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
 tags: [ Saaremaa, Kuressaare]
 genre: [ luule ]
-person: [ Andrus E., Beebilõust, meri, Piret, Suur Tõll, murre ]
+person: [ Andrus, Beebilõust, meri, Piret, Suur Tõll, murre ]
 ---
 
 <!-- # {{$doc.title}} -->

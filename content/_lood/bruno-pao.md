@@ -9,7 +9,7 @@ images: [
         src: bruno-pao.webp
     },
 ]
-tags: [Virtsu, Saaremaa, Moskva, Lozovaja, Taganrog, Kramatorsk, Aasov, Donbass, Valjala, Ameerika, Leningrad, Slavjansk, Virtsu, Muhu, Kuivastu, Sigtuna]
+tags: [Virtsu, Saaremaa, Moskva, Donbass, Taganrog, Valjala, Ameerika, Leningrad, Muhu, Kuivastu, Sigtuna]
 genre: [mälestus, päevik]
 person: [Bruno, loss]
 ---
@@ -124,7 +124,7 @@ Aastaid on läinud. Ma ei tunne siin Kallemäel enam lapsi, kes vastu tulles ter
 - Oled sa pidanud reisipäevikut, kirjutanud reisimuljeid üles? Mis vahe on reisi kogemisel ja muljete jäädvustamisel, kui reisil või matkates või lihtsalt jalutades ainult vaatad ning ei pildista ega kirjuta, või vaatad ja ainult pildistad, või vaatad ja ainult kirjutad, või vaatad ja pildistad ja kirjutad? 
 - Kui sa reisid või matkad või jalutad, siis mida sa tähele paned? Mis on see, mis su pilgu püüab, mis sind haarab?
 - Bruno Pao kirjutab: “Iga kord, kui ma Saaremaal sõidukist maapinnale astun, tunnen sõõrmeis kõigepealt erilist lubipoorse mulla lõhna, mis on ninapäraseks niisutatud merevee soolaka uduga.” Mida sina tunned, kui Saaremaal sõidukist maapinnale astud?
-- Bruno Pao pakub, et suurelt maalt tulnuid tõmbab Saaremaa omanäolisus, ehtsus, millest paljud paigad juba ilma jäänud on. Pao kirjutas nii 1970ndatel aastatel ehk ligi 50 aastat tagasi. Mis sina arvad, mis täna meeldib mujalt tulnuile Saaremaal, mis neid siia tõmbab?
+- Bruno Pao pakub, et suurelt maalt tulnuid tõmbab Saaremaa omanäolisus, ehtsus, millest paljud paigad juba ilma jäänud on. Pao kirjutas nii 1970. aastatel ehk ligi 50 aastat tagasi. Mis sina arvad, mis täna meeldib mujalt tulnuile Saaremaal, mis neid siia tõmbab?
 - Kas sul on teid, mille leidmiseks pole kellegi nõuannet vaja? Milliseid?
 - Bruno Pao elu ja töö kohta saab lugeda siit: https://mereviki.vta.ee/mediawiki/index.php/Bruno_Pao
 

@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Torgu, Jaapan, Saaremaa]
-genre: [lühiproosa, muusika]
+genre: [lühilugu, muusika]
 person: [Andrus, maja, tuulik]
 ---
 

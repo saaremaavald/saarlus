@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Saaremaa, Tallinn, Sõrve]
-genre: [lühiproosa]
+genre: [lühilugu]
 person: [Andrus, maja, Peter. Ludwig]
 ---
 

@@ -10,8 +10,8 @@ images: [
     },
 ]
 tags: [Karja, Pöide, Kaali]
-genre: [lühiproosa, muusika]
-person: [Andrus, maja, Manfred, ]
+genre: [lühilugu, muusika]
+person: [Andrus, maja, Manfred]
 ---
 
 <!-- # {{$doc.title}} -->

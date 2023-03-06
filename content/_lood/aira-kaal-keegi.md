@@ -7,7 +7,7 @@ images: [
         src: "aira-kaal-keegi.webp"
     }
 ]
-tags: [Eikuskil, "Igal pool"]
+tags: [ Saaremaa ]
 genre: [luule]
 person: [Aira, naine]
 ---
