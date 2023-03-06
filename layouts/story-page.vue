@@ -12,7 +12,12 @@
         <section class="flex items-stretch shadow-md">
             <template v-for="(img, i) in data.images" :key="`img${i}`">
                 <ImageWrapper
-                    :src="img.src" :imgpath="img.imgpath" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" 
+                    :src="img.src" 
+                    :imgpath="img.imgpath" 
+                    :zoom="img.zoom" 
+                    :bgPos="img.bgPos" 
+                    :bgSize="img.bgSize" 
+                    :height="img.height" 
                 />
             </template>
         </section>

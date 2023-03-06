@@ -2,8 +2,8 @@
     // import {ref, computed, provide} from "vue";
 
     const props = defineProps({
-        src : {     type:String },
-        imgpath : { type:String,    default: "/images/stories/"},
+        src : {     type:String,    default: "" },
+        imgpath : { type:String,    default: "../images/stories/"},
         height : {  type:String,    default: "75vh" },
         classes: {  type:String,    default: ""},
         bgSize: {   type:String,    default: "cover"},
