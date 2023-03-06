@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Kaali, Saaremaa, Torgu]
-genre: [lühiproosa]
+genre: [lühilugu]
 person: [Andrus, maja, viinamäetigu]
 ---
 

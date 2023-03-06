@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Anseküla, Üüdibe, Massi]
-genre: [lühiproosa, muusika]
+genre: [lühilugu, muusika]
 person: [Andrus, maja, Martin]
 ---
 
