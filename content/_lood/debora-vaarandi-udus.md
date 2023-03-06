@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-udus.webp"
     }
 ]
-tags: [Kuressaare ]
+tags: [Kuressaare]
 genre: [luule]
 person: [Debora]
 ---
@@ -48,12 +48,11 @@ ja huulte serval nukker naeruvina.
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kui tihti käid sa lossipargis? Mida sa seal teed?
+- Kui tihti käid sa lossipargis? Mida seal teed?
 - Kas sulle meeldib udu, udused ilmad? Miks? Mida hallidel päevadel teed?
 - Kuidas sinu jaoks on seotud loodus ja meeleolud, tunded nagu kurbus ja rõõm, õnn? 
 - Milline tähenduse vahe on sõnadel “kurbus” ja “tusk”, “solvamine” ja “torkamine”?
 - Mida tähendavad sõnad “suurduma”, “vereheretav”, “veretama”, “hään”? Abi võid saada murdesõnastikust: https://www.eki.ee/dict/vms/
-- Milliseid halli ja punase toone oskad nimetada? Abi võid saada siit: https://www.eki.ee/dict/ekss/
 
 </details-wrapper>
 

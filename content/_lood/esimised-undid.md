@@ -23,7 +23,7 @@ dictionary: [
     ["viha käie ta kohe", "viha käivat tema vastu, s.t olevat tema peale vihane"]
 ]
 genre: [rahvajutt]
-person: [Vanapagan, Vanajumal, Hunt, Karl]
+person: [Vanapagan, Vanajumal, hunt, Karl, murre]
 ---
 
 <details-wrapper summary="Enne lugemist:">

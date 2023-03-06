@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Tallinn, Saaremaa, Virtsu]
 genre: [intervjuu]
-person: [Maria H.]
+person: [Maria, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

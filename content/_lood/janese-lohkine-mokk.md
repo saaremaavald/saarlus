@@ -15,7 +15,7 @@ images: [
 dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama, korralikult üleval pidama, käituma]]
 tags: [Saksamaa, Valjala]
 genre: [rahvajutt]
-person: [jänes, lammas, murre]
+person: [jänes, lammas, murre, Oliver]
 ---
 
 

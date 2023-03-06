@@ -9,9 +9,9 @@ images: [
         src: mehis-tulk.webp
     },
 ]
-tags: [Pöide, Eikuskil]
-genre: [proosa]
-person: [Mehis, Asso, Piirit, Poiss, Tüdruk]
+tags: [Pöide]
+genre: [romaanikatkend]
+person: [Mehis, Asso, Piirit, poiss, tüdruk]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -94,7 +94,7 @@ Kui jõuame…
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kui sul oleks võimalik minna üheks päevaks ühte Saaremaa ajalooperioodi või -sündmusesse, siis millise valiksid? Miks?
+- Kui sul oleks võimalik minna üheks päevaks ühte Saaremaa ajalooetappi või -sündmusesse, siis millise valiksid? Miks?
 - Milline keskaegne nimi sobiks sulle? \
 “Vanemates kirjalikes allikates esinevad eestlased ainunimedega. Läti Henriku kroonikas
 näiteks Lembito, Meme, Wottele, Maniwalde, Unnepewe, Kyriawanus, Tabelinus, Wytamas.
@@ -107,7 +107,7 @@ nimed on üsna hästi võrreldavad alamsaksa-friisi nimedega: Ylle – Yle, Ylo,
 Tappete – Tabbe, Tabbinthie, Tabicke, Taepke; Yalde – Jalt, Jalte, Jaldert; Melete – Mele,
 Melef, Melis; Cake – Kaeke, Keke, Kekke. Saaremaa 16.–17. sajandi maaraamatutes esineb
 selliseid kokkulangevusi ülirohkesti.” Siit leiad pika loetelu nimesid, mille seast valida või ise kokku panna: http://nimi.keeletoimetajad.ee/wp-content/uploads/2011/03/Eesti-isikunimede-ajalugu.pdf
-- Mis sa arvad, kas sellest stseenist (ja kogu raamatust) võiks teha koomiksi või filmi? Miks? Millised Eesti või Saaremaa ajalugu käsitlevaid filme oled näinud? Millised neist on sulle meeldinud ja miks?
+- Mis sa arvad, kas sellest stseenist (ja kogu raamatust) võiks teha koomiksi? Või filmi? Miks? Millised Eesti või Saaremaa ajalugu käsitlevaid filme oled näinud? Millised neist on sulle meeldinud ja miks?
 
 </details-wrapper>
 

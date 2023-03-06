@@ -9,8 +9,8 @@ images: [
         src: mehis-heinsaar.webp
     },
 ]
-tags: [Eikuskil]
-genre: [proosa]
+tags: [Tapa, Atla, Eeriksaare, Jukirahu, Vilsandi]
+genre: [proospäevik]
 person: [Mehis]
 ---
 
@@ -62,7 +62,7 @@ Jõudes viimaks mere äärde ja vaadates kaldakive, laineid ja saart silmapiiril
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mis on sinu esimene mõte hommikul?
+- Mis on sinu esimene mõte hommikuti?
 - Millega olukord su peas praegusel ajal sarnaneb, kui tooksid võrdluse loodusest?
 - Milline on sinu igapäevane rutiin? Väikekodanlik või muu?
 - Milline on huvitav linn või muu koht, kus oled käinud? Mis tegi selle huvitavaks?

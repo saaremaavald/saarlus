@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Orissaare, Paide, Tallinn, Virtsu, "Väike väin"]
 genre: [intervjuu]
-person: [Jan]
+person: [Jan], Erki
 ---
 
 <!-- # {{ $doc.title }} -->

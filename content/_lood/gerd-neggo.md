@@ -11,8 +11,8 @@ images: [
     },
 ]
 tags: [Kuressaare, Pöide, Irkutsk, Stockholm, Berliin, Tallinn, Hamburg, Essen]
-genre: [artikkel, tants]
-person: [Gerd; Heili, Jenny, Andrus, Rudolf, Johannes, Ida, Salme, Paul, Els, Hanno, Rahel, August, Riina, Rudolf, Eduard, Mari, Vernerp]
+genre: [artikkel]
+person: [Gerd; Heili, Jenny, Andrus, Rudolf, Johannes, Ida, Salme, Paul, Els, Hanno, Rahel, August, Riina, Rudolf, Eduard, Mari]
 ---
 
 <!-- # {{$doc.title}} -->

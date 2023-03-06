@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Kuressaare, Taani, Eesti, Saaremaa, Ameerika]
 genre: [intervjuu, muusika]
-person: [Maria F., Milvi]
+person: [Maria, Milvi, Sirli]
 ---
 
 <!-- # {{ $doc.title }} -->

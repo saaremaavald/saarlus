@@ -10,8 +10,8 @@ images: [
     },
 ]
 dictionary: [ [koletu, määratu palju], [turral, turvas] ]
-tags: [ Eikuskil ]
-genre: [ ühiskond, mälestus ]
+tags: [ Saaremaa, Karja, Mustjala, Pöide, Ollamäe, Kõiguste ]
+genre: [ mälestus ]
 person: [ Melania ]
 ---
 

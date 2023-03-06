@@ -46,7 +46,7 @@ maalimata maalil
 
 - Kohtu tänav on paljude (kures)saarlaste arvates üks linna ilusamaid tänavaid, üks ehedamaid osi Kuressaare vanalinnast, kus on palju eriilmelisi maju eri ajastutest. Kui sa pole seda veel teinud, siis võiksid jalutada selle tänava otsast lõpuni läbi, ja vaadata, mille ja kelle huvitavaga sa seal kohtud. Muide, Kohtu tänav on nime saanud keskajal mööda seda kesklinnast kulgenud kohturongkäigu järgi, sest see oli lühim tee kesklinnast tavakohtu toimumispaigale Kellamäele pääsemiseks (Wikipedia andmeil). 
 - Mis on sinu kohalik lemmiktänav? Miks see sulle meeldib?
-- Kes on **Ants Vares**, näed siit ja veel teisi (kures)saarlasi, kes räägivad elust ja tööst 30 aastat tagasi: https://arhiiv.err.ee/video/vaata/pilt-kuressaare Kui sinul tuleks teha saade kohalikest loomeinimestest, siis kelle saatesse valiksid ja miks?
+- Kes on **Ants Vares**, näed siit ja veel teisi (kures)saarlasi, kes räägivad elust ja tööst 30 aastat tagasi: https://arhiiv.err.ee/video/vaata/pilt-kuressaare. Kui sinul tuleks teha saade kohalikest loomeinimestest, siis kelle saatesse valiksid ja miks?
 
 </details-wrapper>
 
