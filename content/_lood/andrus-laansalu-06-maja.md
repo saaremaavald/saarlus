@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Andrus Laansalu
-description: "Listi: globaalses mastaabis on tallinn ja sõrve tipp kõigist kohtadest ühekaugel"
+description: "globaalses mastaabis on tallinn ja sõrve tipp kõigist kohtadest ühekaugel"
 author: Andrus Laansalu
 origin: "kirjutatud tekst 9.detsembril 2022 Kuressaares Thule kojas toimunud mõttetalgute tarbeks, kus arutleti Kuressaarde uue kontserdimaja ehitamise vajalikkuse üle."
 images: [

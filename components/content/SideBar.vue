@@ -20,7 +20,7 @@
 <template>
     <section class="h-screen sticky top-0 left-0 
         flex flex-col justify-between items-center gap-6
-        bg-primary-200
+        bg-primary-200 shadow-md
         dark:bg-black
         print:invisible">
         

@@ -3,7 +3,7 @@
 
     const props = defineProps({
         src : {     type:String },
-        path : {    type:String,    default: "../images/stories/"},
+        imgpath : { type:String,    default: "/images/stories/"},
         height : {  type:String,    default: "75vh" },
         classes: {  type:String,    default: ""},
         bgSize: {   type:String,    default: "cover"},
@@ -16,7 +16,7 @@
     const zoomedImage = activeImage();
 
     const toggleOpen = () => {
-        zoomedImage.value = props.src;
+        zoomedImage.value = props.imgpath+props.src;
         isOpen.value = !isOpen.value;
     }
     
@@ -25,7 +25,7 @@
 <template>
     <div class="flex justify-center items-center bg-gradient-to-b from-blue-800 via-green-600 to-blue-700 shadow"
     :style="{
-        'background':`url(${props.path}${props.src})`,
+        'background':`url(${props.imgpath}${props.src})`,
         'background-size' : props.bgSize, 
         'background-repeat' : props.bgRepeat, 
         'background-position' : props.bgPos, 

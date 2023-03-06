@@ -9,7 +9,7 @@ images: [
         src: "katku-ajal.webp"
     }
 ]
-dictionary: [[murdand,murdnud], ["ägat, ägas", "iga, igas"]]
+dictionary: [[murdand, murdnud], ["ägat, ägas", "iga, igas"]]
 tags: [Kärla, Saaremaa, Mustjala, Sõrve]
 genre: [rahvajutt]
 person: [Marii, murre, katk, Mihkel]

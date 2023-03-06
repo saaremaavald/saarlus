@@ -6,7 +6,7 @@ author: Endla Tegova
 origin: "Tekstilõigud: Endla Tegova romaanist “Laulatatud”, kirjastus “Eesti Raamat”, 1986. / 1985. a romaanivõistlusel äramärgitud teos."
 images: [
     {
-        src: endla-tegova.webp
+        src: kyla-havimine.webp
     },
 ]
 tags: [Prantsusmaa, Rantsuse, Tallinn, Mässa, Suurissoo, Kalama]
