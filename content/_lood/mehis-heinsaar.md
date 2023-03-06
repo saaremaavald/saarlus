@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Tapa, Atla, Eeriksaare, Jukirahu, Vilsandi]
-genre: [proospäevik]
+genre: [päevik]
 person: [Mehis]
 ---
 

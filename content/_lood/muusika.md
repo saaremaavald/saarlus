@@ -5,7 +5,7 @@ description: valik laule ja lugusid Saaremaast või saare keeles
 author: rahvajutt
 images: [
     {
-        src: "suur-toll.webp"
+        src: "rehepapp.webp"
     }
 ]
 tags: []

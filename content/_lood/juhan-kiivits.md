@@ -12,7 +12,7 @@ images: [
 dictionary: [ [linnapeele, Kuressaare linnusesse] ]
 tags: [Ruhve, Kuressaare, Suuremaa, Riia, Peterburi, Leisi]
 genre: [ mälestus ]
-person: [ Juhan, Liisu, loss, Mihkel, mure]
+person: [ Juhan, Liisu, loss, Mihkel, murre]
 ---
 
 <!-- # {{$doc.title}} -->
