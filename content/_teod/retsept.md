@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Tegu
-description: "sirgelda oma lemmik toidu retsept"
+description: "sirgelda oma lemmiktoidu retsept"
 images: [
     {
         src: teod/retsept.webp,
