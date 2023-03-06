@@ -9,7 +9,7 @@ images: [
         src: "debora-vaarandi-bioloogiaopetajale.webp"
     }
 ]
-tags: [ kool ]
+tags: [ Saaremaa ]
 genre: [ luule, kiri ]
 person: [ Debora, lind ]
 ---

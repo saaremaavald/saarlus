@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Eikuskil]
-genre: [ühiskond, mälestused]
+genre: [ühiskond, mälestus]
 person: [Oskar]
 ---
 

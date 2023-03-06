@@ -9,7 +9,7 @@ images: [
         src: aino-kallas.webp
     },
 ]
-tags: [Kuressaare, kool, noorus, Abruka]
+tags: [Kuressaare, Abruka]
 genre: [lühilugu]
 person: [Aino, Andres, Jenny, von Poll, Beata, Armin, Eichenbaum]
 ---

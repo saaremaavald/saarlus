@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "“Crypti laul”, kogu “Siin Beebilõust, tere! Häired pimelinna tänavalt (luuletusi 2004 - 2006)”, Epifanio, 2006."
-tags: [Crypt, kool, Kuressaare]
+tags: [Crypt, Kuressaare]
 genre: [ luule, muusika ]
 person: [ Andrus E., Beebilõust, kits, ment, murre ]
 ---

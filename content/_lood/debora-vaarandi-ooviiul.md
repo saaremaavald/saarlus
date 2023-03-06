@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-ooviiul.webp"
     }
 ]
-tags: [noorus]
+tags: []
 genre: [luule, muusika]
 person: [Debora, ööviiul]
 ---

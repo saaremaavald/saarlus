@@ -3,6 +3,7 @@
 
     const props = defineProps({
         src : {     type:String },
+        path : {    type:String,    default: "../images/stories/"},
         height : {  type:String,    default: "75vh" },
         classes: {  type:String,    default: ""},
         bgSize: {   type:String,    default: "cover"},
@@ -24,7 +25,7 @@
 <template>
     <div class="flex justify-center items-center bg-gradient-to-b from-blue-800 via-green-600 to-blue-700 shadow"
     :style="{
-        'background':`url(${props.src})`,
+        'background':`url(${props.path}${props.src})`,
         'background-size' : props.bgSize, 
         'background-repeat' : props.bgRepeat, 
         'background-position' : props.bgPos, 

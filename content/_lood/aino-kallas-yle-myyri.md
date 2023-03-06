@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-yle-myyri.webp
     },
 ]
-tags: [Kuressaare, surm]
+tags: [Kuressaare]
 genre: [lühilugu]
 person: [Aino, kivimüür]
 ---

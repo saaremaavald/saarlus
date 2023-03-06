@@ -16,7 +16,7 @@ const { navigation } = useContent()
       </div>
       <nav class="flex gap-6 print:hidden">
         <NuxtLink to="/teejuht">Teejuht</NuxtLink>
-        <NuxtLink to="/projektist">Projektist</NuxtLink>
+        <NuxtLink to="/taust">Taust</NuxtLink>
         <NuxtLink to="/lood" class="text-white/0 absolute">.</NuxtLink>
         <NuxtLink to="/teod" class="text-white/0 absolute">.</NuxtLink>
         <!-- <NuxtLink

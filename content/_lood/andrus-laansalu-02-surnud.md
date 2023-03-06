@@ -9,7 +9,7 @@ images: [
         src: andrus-laansalu-surnud.webp
     },
 ]
-tags: [surm, Saaremaa, Salme]
+tags: [Saaremaa, Salme]
 genre: [lühiproosa]
 person: [Andrus, maja]
 ---

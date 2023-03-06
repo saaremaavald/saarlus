@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-koer.webp
     },
 ]
-tags: [Kihelkonna, surm]
+tags: [Kihelkonna]
 genre: [lühilugu]
 person: [Aino, koer, James, laev]
 ---

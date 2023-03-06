@@ -9,7 +9,7 @@ images: [
         src: aira-kaal-kuressaare.webp
     },
 ]
-tags: [Kuressaare, Trakai, kool, noorus]
+tags: [Kuressaare, Trakai]
 genre: [mälestus]
 person: [Aira, lehm, loss]
 ---

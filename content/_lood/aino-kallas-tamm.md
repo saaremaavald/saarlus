@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-tamm.webp
     },
 ]
-tags: [Abruka, Kuressaare, noorus, vanadus]
+tags: [Abruka, Kuressaare]
 genre: [lühilugu]
 person: [Aino, tamm, meri, Jaak, Ado, Madis, Suur Tõll, Ants, Riidu]
 ---

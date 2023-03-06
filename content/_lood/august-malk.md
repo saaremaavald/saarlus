@@ -9,7 +9,7 @@ images: [
         src: august-malk.webp
     },
 ]
-tags: [Vilsandi, lapsepõlv, surm]
+tags: [Vilsandi]
 genre: [lühilugu]
 person: [August, meri]
 ---

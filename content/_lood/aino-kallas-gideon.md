@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-gideon.webp
     },
 ]
-tags: [lapsepõlv, vanadus, sünd, surm, Kihelkonna]
+tags: [Kihelkonna]
 genre: [lühilugu]
 person: [Aino, Gideon, Anne, naine, laps, lind]
 ---

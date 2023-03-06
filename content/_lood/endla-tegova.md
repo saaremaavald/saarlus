@@ -9,7 +9,7 @@ images: [
         src: endla-tegova.webp
     },
 ]
-tags: [vanadus, noorus, surm, Rantsuse, Tallinn, Mässa, Suurissoo, Kalama]
+tags: [Prantsusmaa, Rantsuse, Tallinn, Mässa, Suurissoo, Kalama]
 genre: [romaanikatkend]
 person: [Endla, Maara, Vassel, Aap, Leo, murre, metssiga, Agnessa]
 ---

@@ -11,7 +11,7 @@ images: [
 ]
 dictionary: [ [koletu, määratu palju], [turral, turvas] ]
 tags: [ Eikuskil ]
-genre: [ ühiskond, mälestused ]
+genre: [ ühiskond, mälestus ]
 person: [ Melania ]
 ---
 

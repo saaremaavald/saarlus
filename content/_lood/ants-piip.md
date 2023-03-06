@@ -10,7 +10,7 @@ images: [
     },
 ]
 tags: [Kuressaare, Peterburi, London]
-genre: [mälestus, kool]
+genre: [mälestus]
 person: [Ants, Bruno, meri, Jaen, Eduard, Aleksander, Mihhail, Vassili, Juhan]
 ---
 

@@ -8,7 +8,7 @@ images: [
         src: "ilmar-torn.webp"
     }
 ]
-tags: [Möldri, Riksu, Karala, Atla, Kuressaare, kool, Pihtla, Tartu]
+tags: [Möldri, Riksu, Karala, Atla, Kuressaare, Pihtla, Tartu]
 genre: [kunst, mälestus]
 person: [Ilmar, Bernard, Debora, Aarne, Juhan, Olev, Joosep, Aleksander, Eugen, Guido, Nikolai]
 ---

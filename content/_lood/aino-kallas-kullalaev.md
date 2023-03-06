@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-kullalaev.webp
     },
 ]
-tags: [Sõrve, sünd, surm]
+tags: [Sõrve]
 genre: [lühilugu]
 person: [Aino, laev, kala]
 ---

@@ -9,7 +9,7 @@ images: [
         src: helene-ranna.webp
     },
 ]
-tags: [Ameerika, noorus]
+tags: [Ameerika]
 genre: [romaanikatkend]
 person: [Helene, August, Toivo]
 ---

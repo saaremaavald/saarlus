@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-kadakaaru.webp"
     }
 ]
-tags: [lapsepõlv, noorus]
+tags: [Saaremaa]
 genre: [mälestus]
 person: [Debora, kadakas]
 ---

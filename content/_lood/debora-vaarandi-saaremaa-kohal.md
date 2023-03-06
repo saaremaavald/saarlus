@@ -9,7 +9,7 @@ images: [
     }
 ]
 origin: "“Saaremaa kohal” (1958), kogu “Merelaule sajast suust ja sulest”, Koolibri, 2011."
-tags: [ Saaremaa, lapsepõlv ]
+tags: [ Saaremaa ]
 genre: [ luule ]
 person: [ Debora, kadakas ]
 ---

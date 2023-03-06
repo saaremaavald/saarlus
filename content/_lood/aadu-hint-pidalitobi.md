@@ -9,7 +9,7 @@ images: [
         src: aadu-hint-pidalitobi.webp
     },
 ]
-tags: [noorus, surm, Pammana, Vatku, Audaku, Veedri, Peipsi, Nina]
+tags: [Pammana, Vatku, Audaku, Veedri, Peipsi, Nina]
 genre: [romaanikatkend]
 person: [Aadu, Tüdruk, Aili, Poiss, Mare, Sohvi, Sander, pidalitõbi]
 ---

@@ -9,7 +9,7 @@ images: [
         src: aino-kallas-orjade-saar.webp
     },
 ]
-tags: [vanadus, Saaremaa]
+tags: [Saaremaa]
 genre: [lühilugu]
 person: [Aino, lammas, kadakas, kivi]
 ---

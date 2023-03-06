@@ -8,7 +8,7 @@ images: [
         src: "betti-alver-kaks-saarlast.webp"
     }
 ]
-tags: [noorus]
+tags: [Saaremaa]
 genre: [luule]
 person: [Betti, Suur Tõll, tamm, murre]
 ---

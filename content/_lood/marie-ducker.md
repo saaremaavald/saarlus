@@ -9,7 +9,7 @@ images: [
         height: 90vh
     }
 ]
-tags: [lapsepõlv, Kuressaare, Pärnu, Saksamaa]
+tags: [Kuressaare, Pärnu, Saksamaa]
 genre: [kunst, mälestus]
 person: [Marie, Eugen]
 ---

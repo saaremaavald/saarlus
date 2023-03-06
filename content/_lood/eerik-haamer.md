@@ -8,7 +8,7 @@ images: [
         src: "eerik-haamer.webp"
     }
 ]
-tags: [lapsepõlv, kool, Kuressaare, Peterburi, Tartu, Kaarma, Karja, Rootsi]
+tags: [Kuressaare, Peterburi, Tartu, Kaarma, Karja, Rootsi]
 genre: [kunst, mälestus]
 person: [Eerik, Alma, lehm, Reeli, loss]
 ---

@@ -9,7 +9,7 @@ images: [
         src: aleksandra-laas.webp
     },
 ]
-tags: [Newcastle, Kaarma, Tallinn, Aafrika, Leningrad, Saksamaa, Ameerika, New York, lapsepõlv, noorus, vanadus, surm]
+tags: [Newcastle, Kaarma, Tallinn, Aafrika, Leningrad, Saksamaa, Ameerika, New York]
 genre: [artikkel]
 person: [Aleksandra, Mihkel, meri, Aleksander]
 ---

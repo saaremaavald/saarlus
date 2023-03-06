@@ -9,7 +9,7 @@ images: [
         src: albert-uustulnd.webp
     },
 ]
-tags: [Kuressaare, kool, noorus]
+tags: [Kuressaare]
 genre: [romaanikatkend]
 person: [Albert, loss, Anno, Vaska, Lea, Pootsu, Ethel, Katrin, Karlo, Petu]
 ---
