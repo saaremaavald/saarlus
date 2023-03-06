@@ -8,9 +8,9 @@ images: [
         src: "taavi-rauniste.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Pärnu, Kuressaare, Kallemäe]
 genre: [intervjuu]
-person: [Taavi R.]
+person: [Taavi, Vilma]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -84,8 +84,8 @@ Me ei saa kõike aidata, aga kõik me saame aidata kedagi. Maailma muresid ei sa
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Taavi Rauniste ütleb, et ideed ei ole iseenesest midagi väärt, väärtuslikuks saavad need rakendamisel, see tähendab, et iga idee teostamisse ja toimimisse tuleb aega panustada. Kas oled nõus, et ideed tasub rääkida alles siis, kui on olemas kindel ellurakendusplaan? Oled sa ise mõne idee Saaremaal ellu viinud? Millise ja miks?
-- Taavi Rauniste käib enda sõnul kogu aeg ringi silmad lahti ja vaatab, mis suunas maailm liigub öeldes, et tänapäeval ei saa ühele kohale pikalt jääda, alati tuleb midagi juurde õppida, lugeda ja ringi liikuda, kogu aeg tuleb hetke vooga kaasa liikuda. Kuidas sina maailma jälgid ja sellega kaasa liigud?
+- Taavi Rauniste ütleb, et ideed ei ole iseenesest midagi väärt, väärtuslikuks saavad need rakendamisel, et iga idee teostamisse ja toimimisse tuleb aega panustada. Kas oled nõus, et ideed tasub rääkida alles siis, kui on olemas kindel ellurakendusplaan? Oled sa ise mõne idee Saaremaal ellu viinud? Millise ja miks?
+- Taavi Rauniste käib enda sõnul kogu aeg ringi silmad lahti ja vaatab, mis suunas maailm liigub, sest tänapäeval ei saa ühele kohale pikalt jääda, alati tuleb midagi juurde õppida, lugeda ja ringi liikuda, kogu aeg tuleb hetke vooga kaasa liikuda. Kuidas sina maailma jälgid ja sellega kaasa liigud?
 - “Me ei saa kõike aidata, aga kõik me saame aidata kedagi,” ütleb Taavi. Keda sina tahaksid aidata nüüd kohe või tulevikus? Keda on vaja aidata? Saaremaal, Eestis, maailmas?
 
 </details-wrapper>

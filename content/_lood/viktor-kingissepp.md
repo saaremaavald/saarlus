@@ -9,8 +9,8 @@ images: [
         src: viktor-kingissepp.webp
     },
 ]
-tags: [Eikuskil]
-genre: [ühiskond, kiri]
+tags: [Kuressaare, Peterburi]
+genre: [kiri]
 person: [Viktor]
 ---
 
@@ -40,7 +40,7 @@ Viktor
 
 <hr />
 
-*Viktor Kingissepp kirjutas selle kirja oma õele 17. oktoobril 1915. aastal 27-aastasena, mil õppis tollal Keiserliku Peterburi ülikooli õigusteaduskonnas.*
+*Viktor Kingissepp kirjutas selle kirja oma õele 17. oktoobril 1915. aastal 27-aastasena, mil õppis Keiserliku Peterburi ülikooli õigusteaduskonnas.*
 
 
 
@@ -50,9 +50,9 @@ Viktor
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Küllap tead, et Kuressaare nimi oli nõukogude ajal Kingissepa. Kes oli Viktor Kingissepp ja milline naljakas lugu on seotud talle asusamba püstitamisega Kuressaarde, sellele leiab vastuse ajakirjanik Raul Vinni artiklist: https://saartehaal.postimees.ee/6601616/noukogudeaja-viimane-etendus-viktori-tulek-ja-minek
+- Küllap tead, et Kuressaare nimi oli Nõukogude ajal Kingissepa. Kes oli Viktor Kingissepp ja milline naljakas lugu on seotud talle asusamba püstitamisega Kuressaarde, sellele leiab vastuse ajakirjanik Raul Vinni artiklist: https://saartehaal.postimees.ee/6601616/noukogudeaja-viimane-etendus-viktori-tulek-ja-minek
 - Millised on sinu kogemuse järgi vajalikud tingimused, et hästi õppida? Koolis käia? Miks just need tingimused?
-- Kas oled nõus kirjas väidetuga: “Nii tuleb kristlasel tung jumalale armsa elu järele siis, kui ta kõige sügavamas patumülkas püherdab; põhjanabareisijal igatsus soo ja päikese järele siis, kui teda pilkane põhjamaa öö ümbritseb jne.” Mis näiteid tooksid?
+- Kas oled nõus kirjas väidetuga: “Nii tuleb kristlasel tung jumalale armsa elu järele siis, kui ta kõige sügavamas patumülkas püherdab; põhjanabareisijal igatsus soo ja päikese järele siis, kui teda pilkane põhjamaa öö ümbritseb jne.” Miliiseid näiteid tooksid?
 - Millise kirja sina kirjutaksid endast nooremale inimesele, näiteks oma nooremale õele või vennale, kus sa annaksid nõu õppimise ja töötamise kohta? 
 - “Ma olen alati ainult neilt laenamist võimalikuks pidanud, kes mulle laenates sellele vastavalt oma tarviduste täitmist kitsendama ei pidanud.” Mis on sinu seisukoht raha laenamise osas? Miks? Mille jaoks võiks elus üldse raha laenata? Igapäevaeluks, õppimiseks? Kinnisvara ostuks, oma ettevõtmise alustamiseks? Mis puhul laenaksid ja/või oled laenanud eraisikult raha?
 - Kui sul on plaan minna peale gümnaasiumi edasi õppima, siis kuidas plaanid oma õpinguid rahastada? Millist tööd saaks või võiks õppimise kõrvalt teha, nii et kumbki ei kannataks?

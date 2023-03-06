@@ -9,9 +9,9 @@ images: [
         src: tarmo-teder-jaan.webp
     },
 ]
-tags: [Eikuskil]
-genre: [proosa]
-person: [Tarmo, Jaan, Hiie, Borka, Nietzsche]
+tags: [Kuressaare, Kellamäe, Põduste]
+genre: [romaanikatkend]
+person: [Tarmo, Jaan, Hiie, Borka, Nietzsche, Steve]
 ---
 
 <!-- jõudma ilmuma keerduma vedelema vaatama -->

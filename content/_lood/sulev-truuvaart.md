@@ -9,9 +9,9 @@ images: [
         src: sulev-truuvaart.webp
     },
 ]
-tags: [Eikuskil]
-genre: [ühiskond]
-person: [Sulev, Sullu]
+tags: [Vilsandi, Kihelkonna, Kuressaare]
+genre: [mälestus]
+person: [Sulev, Kusta, Aleksander, Arnold, Elviine, Johannes-Friedrich, Eerik, Sass, Tõnu]
 ---
 
 <!-- # {{$doc.title}} -->

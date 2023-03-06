@@ -11,9 +11,9 @@ images: [
     }
 ]
 dictionary: [[pailajupp, paelajupp], [jähi,jäi], [annergad,angerjad]]
-tags: [Eikuskil, Püha]
+tags: [Püha]
 genre: [rahvajutt]
-person: [Vanajumal]
+person: [Vanajumal, Mari]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -26,7 +26,6 @@ Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas panid tähele, et fotol on vaskuss. Nime järgi uss, aga kes ta tegelikult on?
 - Milline on sinu suhe ussi ja angerjaga? Oled esimest kohanud ja teist söönud?
 - Mis seisus on Euroopa angerjas? https://arhiiv.err.ee/vaata/kaduva-maailma-lavel-angerjas
 - Millised on eesti ussi-uskumused? Folklorist Mairi Kaasik tutvustab: https://www.folklore.ee/era/nt/PF2/2Kaasik.htm

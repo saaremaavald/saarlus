@@ -8,9 +8,9 @@ images: [
         src: "valmar-voolaid.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Kuressaare, Tartu, Püssi]
 genre: [intervjuu]
-person: [Valmar]
+person: [Valmar, Vilma]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -115,7 +115,7 @@ Valmar on aastast 2020 Kuressaare Ametikooli disaini õppesuuna kujundusgraafiku
 - Mis sa arvad, mitmes ja millises koolis edaspidises elus tahad ja tuleb õppida? Kas näed ka kutsekooli nende seas? Miks? 
 - Valmar Voolaid käib mere ääres stressi maandamas. Kuidas sina stressi maandad? Milline roll on selles loodusel?
 - Kuidas sulle tundub, kas sulle sobiks pigem suurlinna või väikese koha elu?
-- “Aga kõike ei peagi pildile talletama, eredamad hetked talletuvad ju ka mälupildile,” ütleb Valmar Voolaid. Kas oled nõus või ei? Miks? Kas ise mõtled sellele, kui pildistad? 
+- “Aga kõike ei peagi pildile talletama, eredamad hetked talletuvad ju ka mälupildile,” ütleb Valmar Voolaid. Kas oled nõus või ei? Miks? Mõtled sa ise sellele, kui pildistad? 
 
 </details-wrapper>
 

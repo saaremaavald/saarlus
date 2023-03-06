@@ -9,7 +9,7 @@ images: [
         src: "tatt-ja-amblik.webp"
     }
 ]
-tags: [Eikuskil, Püha, Nasva]
+tags: [Püha, Nasva]
 genre: [rahvajutt]
 person: [Arnold, Tatt, Ämblik]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Vahel talveõhtutel tegime itaaliakeelset õhtusööki ja tean öelda, et 20 protsenti Abruka elanikest oskab itaalia keelt.
+description: Tean öelda, et 20 protsenti Abruka elanikest oskab itaalia keelt.
 author: Tõnis Kipper
 origin: "Intervjuu: “Taavi Tuulik ootab Abrukal koovitajate vabastavat laulu”, Saarte Hääl, 9. aprill 2022."
 images: [
@@ -8,9 +8,9 @@ images: [
         src: "taavi-tuulik.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Abruka, Itaalia]
 genre: [intervjuu]
-person: [Taavi T.]
+person: [Taavi, Ülo, Jüri, Tõnis, Sass]
 ---
 
 <!-- # {{ $doc.title }} -->

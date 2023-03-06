@@ -8,9 +8,9 @@ images: [
         src: "salome-trei.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Kuressaare, Tartu, USA, New York, Saksamaa]
 genre: [kunst]
-person: [Salome]
+person: [Salome, Alan, Ulrika, Anne]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -57,7 +57,7 @@ Tema surma kuupäev on kokkuleppeline, sest kunstnik leiti oma korterist. Alan T
 
 - **Salome Trei** töid näeb 1969. aastal Tallinnas Kadrioru lossis toimunud näituse kataloogis: https://www.digar.ee/viewer/et/nlib-digar:410149/351515/page/1 ja Eesti Kunstimuuseumi digikogus: https://digikogu.ekm.ee/search?searchtype=simple&searchtext=salome+trei Milliseid neist sind kõnetavad? Miks? Saaremaa muuseumi kogus on 28 Salome Trei tööd, kui tekib huvi ka neid uurida.
 - Kas sinu suguvõsas on olnud pagulasi ja väliseestlasi? Millised on nende lood? 
-- Saaremaal Kõiguste sadamas on püsti kolm laevamasti – aga ilma laevata. Tegemist on purjelaeva Helene mälestuseks püstitatud mastidega. Helene võttis 78 aastat tagasi ühena viimastest laevadest ette põgenemise Rootsi, pardal 483 eestlast: https://www.err.ee/1608727597/saaremaal-pustitati-pogenike-laeva-malestuseks-kolm-masti
+- Saaremaal Kõiguste sadamas on püsti kolm laevamasti. Tegemist on purjelaeva Helene mälestuseks püstitatud mastidega. Helene võttis 78 aastat tagasi ühena viimastest laevadest ette põgenemise Rootsi, pardal 483 eestlast: https://www.err.ee/1608727597/saaremaal-pustitati-pogenike-laeva-malestuseks-kolm-masti
 
 
 </details-wrapper>

@@ -8,9 +8,9 @@ images: [
         src: "suur-toll.webp"
     }
 ]
-tags: [Eikuskil, Kärla]
+tags: [Kärla, Hirmuste, Kuressaare]
 genre: [rahvajutt]
-person: [Tõll]
+person: [Suur Tõll]
 ---
 
 <!-- # {{$doc.title}} -->

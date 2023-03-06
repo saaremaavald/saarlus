@@ -11,9 +11,9 @@ images: [
     },
 ]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
-tags: [Eikuskil]
+tags: [Pöide]
 genre: [rahvajutt]
-person: [Joann, Libahunt, Ämm]
+person: [Joann, libahunt, ämm, minia]
 ---
 
 

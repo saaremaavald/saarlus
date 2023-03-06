@@ -8,9 +8,9 @@ images: [
         src: "vello-vinn.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Salme, Saksamaa, Sõrve, Kaimri, Muhu, Tallinn]
 genre: [kunst]
-person: [Vello]
+person: [Vello, Mehis]
 ---
 
 

@@ -9,9 +9,9 @@ images: [
         src: tarmo-teder-kuressaare.webp
     },
 ]
-tags: [Kuressaare]
-genre: [proosa]
-person: [Tarmo]
+tags: [Kuressaare, Siber, Moskva; Abruka, Vätta, Sõrve]
+genre: [romaanikatkend]
+person: [Tarmo, Nikita, Aarne, Kalju, Tulk]
 ---
 
 
@@ -38,10 +38,10 @@ Ajaleht kuulutab töörahvale, et Stavropoli krais andsid nelja masina-traktorij
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kui sa kirjutaksid Kuressaare kirjelduse praegusest ajast ja enda vaatepunktist lähtudes, siis milliseid ehitisi kirjeldaksid?
-- Millise sündmuse valiksid Kuressaare linna elu viimaste aastakümnete suurimaks mõjutajaks (nagu tekstis on II maailmasõda)? Millised uudised valiksid kohalikust lehest, et praegust Kuressaare elu iseloomustada?
-- 1968: https://arhiiv.err.ee/video/vaata/ak-filmikroonika-1958-1991-saaremaa-347095
-- Kuressaare kirjeldus aastast 1981: https://arhiiv.err.ee/video/vaata/vaikelinn-saarel
+- Kui sa kirjutaksid Kuressaare kirjelduse praegusest ajast ja enda vaatepunktist lähtudes, siis milliseid ehitisi ja mida kirjeldaksid?
+- Millise sündmuse valiksid Kuressaare linna elu viimaste aastakümnete suurimaks mõjutajaks (nagu tekstis on teine maailmasõda)? Millised uudised valiksid kohalikust lehest, et praegust Kuressaare elu iseloomustada?
+- Saaremaa aastal 1968: https://arhiiv.err.ee/video/vaata/ak-filmikroonika-1958-1991-saaremaa-347095
+- Kuressaare aastal 1981: https://arhiiv.err.ee/video/vaata/vaikelinn-saarel
 
 </details-wrapper>
 

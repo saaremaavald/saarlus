@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Gotland, Saaremaa, Hiiumaa ja Ahvenamaa – kui ühte nendest kontrollid, siis suudad kontrollida suurt osa ülejäänud Läänemerest.
+description: Gotland, Saaremaa, Hiiumaa ja Ahvenamaa – kui ühte neist kontrollid, suudad kontrollida suurt osa ülejäänud Läänemerest.
 author: Erki Berends
 origin: "Intervjuu: “Vahur Karus: sõjaväelase ametis tuleb käsu peale tappa või surra”, Saarte Hääl, 14. veebruar 2022."
 images: [
@@ -8,9 +8,9 @@ images: [
         src: "vahur-karus.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Ukraina, Gotland, Hiiumaa, Ahvenamaa, Rootsi, Liiküla, Tartu, Afganistan, Kogula, Rootsi, Saksamaa, Pärnu, Noarootsi]
 genre: [intervjuu]
-person: [Vahur]
+person: [Vahur, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

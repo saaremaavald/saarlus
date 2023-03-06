@@ -8,9 +8,9 @@ images: [
         src: "ursel-velve.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Tallinn, Kuressaare, Sõrve, Muhu]
 genre: [intervjuu]
-person: [Ursel]
+person: [Ursel, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -83,7 +83,7 @@ Praegu ja lähitulevikus ei oska. Kunagi, kui lapsed on suured ja tööasjad är
 
 - Ursel Velve ütleb, et Kuressaares polnud jalgsikäimiseks ükski vahemaa liiga pikk. Milline vahemaa oleks sinu jaoks Kuressaares liiga pikk? Kui üldse on? Kui palju sa päevas jala käid või jalutad?
 - Intervjueerija ütleb, et julgelt unistada pole saarlaslik. Kas oled nõus? Kuidas põhjendad?
-- Ursel Velve läks ülikooli, pidi ülikooli minema, sest ema ja vanaema pidasid kõrgharidust oluliseks. Mida sina pead - või hoopis tahad - pärast kooli lõppu teha, mida pead oluliseks järgmise sammuna? Miks?
+- Ursel Velve läks ülikooli, pidi ülikooli minema, sest ema ja vanaema pidasid kõrgharidust oluliseks. Mida sina pead või hoopis tahad pärast kooli lõppu teha, mida pead oluliseks järgmise sammuna? Miks?
 
 </details-wrapper>
 

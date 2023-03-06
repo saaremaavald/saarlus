@@ -8,9 +8,9 @@ images: [
         src: "sander-molder.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Saksamaa, Berliin, Kuressaare]
 genre: [intervjuu, muusika]
-person: [Sander]
+person: [Sander, Laine]
 ---
 
 <!-- # {{ $doc.title }} -->
