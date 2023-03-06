@@ -8,7 +8,7 @@ images: [
         src: "robert-vahter.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Muhu, Pöide, Orissaare, Laimjala, Jööri, Valjala, Muhu, Pärnu]
 genre: [intervjuu]
 person: [Robert]
 ---

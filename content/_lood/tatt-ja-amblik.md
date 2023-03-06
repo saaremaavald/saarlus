@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Püha, Nasva]
 genre: [rahvajutt]
-person: [Arnold, Tatt, Ämblik]
+person: [Arnold, tatt, ämblik, murre]
 ---
 
 <!-- # {{$doc.title}} -->

@@ -10,9 +10,9 @@ images: [
     }
 ]
 dictionary: [[parklaev, purjelaev]]
-tags: [Eikuskil, Kihelkonna]
+tags: [Kihelkonna, Jöe-Simmu]
 genre: [rahvajutt]
-person: [Priidu, Mees, Naine]
+person: [Priidu, mees, naine, laev]
 ---
 
 *<sup><Icon name="icon-park-outline:info" size="24"></Icon></sup> Kuressaare “Hoppet” on kahemastiline kahvelkuunar ehk kaljas.*

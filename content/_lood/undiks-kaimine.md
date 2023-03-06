@@ -13,7 +13,7 @@ images: [
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
 tags: [Pöide]
 genre: [rahvajutt]
-person: [Joann, libahunt, ämm, minia]
+person: [Joann, libahunt, ämm, minia, murre]
 ---
 
 

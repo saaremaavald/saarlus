@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Võin öelda, et Saaremaa on mu hinge kodu.
+description: Saaremaa on mu hinge kodu.
 author: Ivika L. Nuut
 origin: "Intervjuu: “Reet Tepaskind aitab saarlastel paremat tervist saada”, 2. detsember 2021, Meie Maa. Intervjuu siin lühendatult."
 images: [
@@ -8,9 +8,9 @@ images: [
         src: "reet-tepaskind.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Saaremaa, Harilaid, Põlvamaa]
 genre: [intervjuu]
-person: [Reet]
+person: [Reet, Ivika]
 ---
 
 <!-- # {{ $doc.title }} -->
