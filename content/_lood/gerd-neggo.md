@@ -12,11 +12,7 @@ images: [
 ]
 tags: [Kuressaare, Pöide, Irkutsk, Stockholm, Berliin, Tallinn, Hamburg, Essen]
 genre: [artikkel]
-<<<<<<< HEAD
-person: [Gerd; Heili, Jenny, Andrus, Rudolf, Johannes, Ida, Salme, Paul, Els, Hanno, Rahel, August, Riina, Rudolf, Eduard, Mari, Vernerp]
-=======
 person: [Gerd; Heili, Jenny, Andrus, Rudolf, Johannes, Ida, Salme, Paul, Els, Hanno, Rahel, August, Riina, Rudolf, Eduard, Mari]
->>>>>>> bcc99c6c2c8d9ea100f37e7ccac02283c1172b15
 ---
 
 <!-- # {{$doc.title}} -->
