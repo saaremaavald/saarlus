@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Saaremaa]
 genre: [päevik]
-person: [Heiki, Piht, Jans, Helle, Mari, Priit, Maarika, seen]
+person: [Heiki, Helle, Mari, Priit, Maarika, seen]
 ---
 
 <!-- # {{$doc.title}} -->

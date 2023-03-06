@@ -51,7 +51,7 @@ Veel pole mõistetav osadus ja lepitus, ja ligimene on muidu üks vanaaegne sõn
 
 - On sul oma koht, kus käid mõtlemas elu ja maailma üle? Kus ja milline, kui oled nõus teistega jagama?
 - Milline on looduse roll sinu elus?
-- Kust sa ammutaid ideid, energiat?
+- Kust sa ammutad ideid, energiat?
 - Oled sa tundnud maailmavalu? Mis puhul?
 - Mida tähendavad sinu jaoks sõnad “osadus” ja “lepitus”?
 

@@ -8,7 +8,7 @@ images: [
         src: "debora-vaarandi-ooviiul.webp"
     }
 ]
-tags: []
+tags: [Saaremaa]
 genre: [luule, muusika]
 person: [Debora, ööviiul]
 ---

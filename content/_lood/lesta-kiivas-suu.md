@@ -10,9 +10,9 @@ images: [
     }
 ]
 dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]
-tags: [Anseküla ]
+tags: [ Anseküla ]
 genre: [rahvajutt]
-person: [Jaak L., lest, murre, Jumal]
+person: [Jaak, lest, murre, Jumal]
 ---
 
 

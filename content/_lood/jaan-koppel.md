@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Hispaania, Tallinn, Kuressaare, Tori, Kohtla-Järve, Moskva]
 genre: [intervjuu]
-person: [Jaan Ko., Erki]
+person: [Jaan, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

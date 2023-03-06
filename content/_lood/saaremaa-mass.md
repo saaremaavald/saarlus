@@ -9,8 +9,8 @@ images: [
         src: saaremaa-mass.webp
     },
 ]
-tags: [Eikuskil]
-genre: [ühiskond, mälestus]
+tags: [Kuressaare, Orissaare, Laimjala, Masa, Püha, Upa, Kellamäe, Kuivastu]
+genre: [mälestus]
 person: [Oskar]
 ---
 

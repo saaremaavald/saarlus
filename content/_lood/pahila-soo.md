@@ -9,9 +9,9 @@ images: [
         src: "pahila-soo.webp"
     }
 ]
-tags: [Eikuskil, Karja]
+tags: [Karja, Pahila]
 genre: [rahvajutt]
-person: [Priidu, Naine, Haldjas]
+person: [Priidu, naine, haldjas, Pilvi]
 ---
 
 
@@ -31,7 +31,7 @@ Ja sellest ajast peale ongi see soo Pahila soo nime all.
 
 - Mis sa arvad, miks oli palja peaga väljas käimine nii hirmus asi, et selle peale tammik maa alla vajus?
 - Mida sina oled saare naise kohta kuulnud? Milline on üks saare naine?
-- Mida arvad neist videoklippidest, kus kujutatakse saare naist? Mis sa arvad, miks saare naist neis klippides sellistena kujutatakse? Küsi näiteks ka oma (vana)vanematelt.
+- Mida arvad neist videoklippidest, kus kujutatakse saare naist? Mis sa arvad, miks saare naist neis klippides sellistena kujutatakse? Küsi ka oma (vana)vanematelt.
 https://www.youtube.com/watch?v=NGVvaLCt45Y
 https://www.youtube.com/watch?v=C11DwNkeJ90
 

@@ -9,9 +9,9 @@ images: [
     }
 ]
 origin: "“Murdepunkt”, Saare maakonna tantsupidu “Teel”, 2022"
-tags: [ Eikuskil ]
+tags: [ Saaremaa]
 genre: [ luule ]
-person: [ Mehis T. ]
+person: [ Mehis, murre]
 ---
 
 <!-- # {{$doc.title}} -->

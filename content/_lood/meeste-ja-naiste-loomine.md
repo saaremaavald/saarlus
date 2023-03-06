@@ -20,9 +20,9 @@ images: [
     }
 ]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
-tags: [Eikuskil]
+tags: [Saaremaa, Kaarma]
 genre: [rahvajutt]
-person: [Villem, Vanajumal, Mees, Naine]
+person: [Villem, Vanajumal, mees, naine, murre]
 ---
 
 <!-- # {{$doc.title}} -->

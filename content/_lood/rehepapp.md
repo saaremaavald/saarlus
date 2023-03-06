@@ -11,9 +11,9 @@ images: [
     }
 ]
 dictionary: [[kuntsi, kunsti], [napsu pealt, otsekohe], [aganase,aganate sisse]]
-tags: [Eikuskil, Muhu]
+tags: [Muhu, Pöide]
 genre: [rahvajutt]
-person: [Aleksander J., Rehepapp]
+person: [Aleksander, rehepapp, murre]
 ---
 
 <!-- # {{$doc.title}} -->
@@ -37,9 +37,9 @@ Minu isa mäletab veel vähe oma vanaisa, olnd öige väike mehike.
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Miks vanakurjad torupillimuusikat kartsid, ei kannatanud? Siin näed ja kuuled torupilli: https://www.youtube.com/watch?v=ZDUhWfmjW7k
+- Miks vanakurjad torupillimuusikat kartsid, välja ei kannatanud? Siin näed ja kuuled torupilli: https://www.youtube.com/watch?v=ZDUhWfmjW7k
 - Millal sa muusikat kuulad? Millist? Kuidas muusika sulle mõjub? On sind muusika vahel aidanud või suisa päästnud? Teed sa ise muusikat, laulad, mängid pilli?
-- Proovi lauseid moodustada, kus kasutad sõna “otsekohe” asemel “napsu pealt” või “napsult” nagu Anseküla murrakus öeldakse! PS Tõenäoliselt on “naps, napsult” olnud Saaremaalt kasutuses laiemalt tähenduses “hoop”, “hoobilt”, “sõrmenipsust”. 
+- Proovi lauseid moodustada, kus kasutad sõna “otsekohe” asemel “napsu pealt” või “napsult” nagu murdekeeles öeldakse! PS Tõenäoliselt on “naps, napsult” olnud Saaremaalt kasutuses laiemalt tähenduses “hoop”, “hoobilt”, “sõrmenipsust”. 
 
 </details-wrapper>
 

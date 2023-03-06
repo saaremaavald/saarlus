@@ -9,7 +9,7 @@ images: [
         src: kaali-jarv.webp
     }
 ]
-tags: [Eikuskil, Kaali järv]
+tags: [Kaali järv, Kuressaare]
 genre: [rahvajutt]
 person: [Olga]
 ---

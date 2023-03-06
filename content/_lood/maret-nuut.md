@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Rootsi, Tallinn, Türi, Soome, Kilingi-Nõmme, Suurna]
 genre: [intervjuu]
-person: [Maret, Meelis]
+person: [Maret, Meelis, Vilma]
 ---
 
 <!-- # {{ $doc.title }} -->

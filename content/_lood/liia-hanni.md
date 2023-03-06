@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Atla, Pussa, Laratsi, Kolga, Austla, Karala, Tõravere, Tartu]
 genre: [intervjuu]
-person: [Liia, Endel, Uku]
+person: [Liia, Endel, Uku, Anneli]
 ---
 
 <!-- # {{ $doc.title }} -->

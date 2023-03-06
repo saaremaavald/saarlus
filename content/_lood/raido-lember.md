@@ -8,9 +8,9 @@ images: [
         src: "raido-lember.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Valjala, Eesti]
 genre: [intervjuu]
-person: [Piret]
+person: [Piret, Raido, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->
@@ -76,7 +76,7 @@ Absoluutselt pean end saarlaseks. Soovin mingi krundi siia osta. Saar on mul sug
 
 <hr />
 
-**Raido Lember** on Ettevõtluse Arendamise Sihtasutuse ja KredExi ühendasutuse Välisinvesteeringute Keskus äriarendusjuht.
+**Raido Lember** on Ettevõtluse Arendamise Sihtasutuse ja KredExi ühendasutuse Välisinvesteeringute Keskuse äriarendusjuht.
 
 
 
@@ -84,9 +84,9 @@ Absoluutselt pean end saarlaseks. Soovin mingi krundi siia osta. Saar on mul sug
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mis on sinu saaremaine lemmiktoode? Mida sa ise Saaremaal toodaksid ja laia maailma müüksid?
+- Mis on sinu lemmiktoode Saaremaal? Mida sa ise Saaremaal toodaksid ja laia maailma müüksid?
 - Raido Lember on tagantjärele oma (vana)vanematele tänulik selle eest, et ta kupatati suveks maale tööle, mis aitas mõista loodust, traditsioone ja kasvatas töökultuuri, püsivust. Mille eest sa oma vanematele tänulik oled?
-- Mis on Saaremaa tunnused sinu jaoks?
+- Mis on Saaremaa iseloomulikud tunnused sinu jaoks?
 
 </details-wrapper>
 

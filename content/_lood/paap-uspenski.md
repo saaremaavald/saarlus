@@ -8,7 +8,7 @@ images: [
         src: "paap-uspenski.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Orissaare, Illiku, Tallinn]
 genre: [intervjuu]
 person: [Paap]
 ---

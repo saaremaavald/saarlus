@@ -9,9 +9,9 @@ images: [
         src: "murelik-surnu.webp"
     }
 ]
-tags: [Eikuskil, Kaarma]
+tags: [Kaarma, Irase]
 genre: [rahvajutt]
-person: [Tüdruk, Surm]
+person: [tüdruk, Kerli, Aino]
 ---
 
 <!-- # {{$doc.title}} -->

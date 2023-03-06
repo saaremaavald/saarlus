@@ -8,7 +8,7 @@ images: [
         src: "kruus-mandmets.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Karujärv, Tartu, Kuressaare, Paiküla]
 genre: [mälestus]
 person: [Jakob, Oskar]
 ---

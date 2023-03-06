@@ -11,7 +11,7 @@ images: [
 ]
 tags: [Tallinn, Orissaare, Maasilinn, Saksamaa, Tartu]
 genre: [intervjuu]
-person: [Karol]
+person: [Karol, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

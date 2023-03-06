@@ -8,9 +8,9 @@ images: [
         src: "piret-puppart.webp"
     }
 ]
-tags: [Eikuskil]
+tags: [Kõinastu, Tallinn, Laidunina, Harilaid, Muhu]
 genre: [intervjuu]
-person: [Piret]
+person: [Piret, Erki]
 ---
 
 <!-- # {{ $doc.title }} -->

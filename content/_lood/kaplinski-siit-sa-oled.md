@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Tartu, Saaremaa, Püha, Vätta, Kailuka]
 genre: [mälestus]
-person: [Jaan Ka.]
+person: [Jaan]
 ---
 
 <!-- # {{$doc.title}} -->

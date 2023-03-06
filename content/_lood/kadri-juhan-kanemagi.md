@@ -10,7 +10,7 @@ images: [
 ]
 tags: [Kuressaare, Leisi, Pärsama, Tallinn, Triigi, Karja, Orissaare, Muratsi, Soome, Läti, Leedu, Belgia, Holland, Luksemburg, Tšehhi, Slovakkia, Island, Rootsi]
 genre: [intervjuu]
-person: [Kadri, Juhan, tants]
+person: [Kadri, Juhan]
 ---
 
 <!-- # {{ $doc.title }} -->
