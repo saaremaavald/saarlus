@@ -1,4 +1,13 @@
 <script setup>
+
+    //  const countries = ['Austria', 'Belgia', 'Ämm', 'Andorra'];
+    const estonianCompare = (a, b) => {
+        const estonianAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZÕÄÖÜ";
+        return a.localeCompare(b, 'et', {alphabet: estonianAlphabet});
+    };
+    // countries.sort(estonianCompare);
+    // console.log(countries);
+    
     const allPersons = [];
     const persons = ref();
     const activePersons = ref([]);
@@ -12,9 +21,7 @@
         }
     };
     const sortedPersons = () => {
-        return [...persons.value].sort( (a, b) => {
-            return a.localeCompare(b);
-        });
+        return [...persons.value].sort(estonianCompare);
     };
 
     const allGenres = [];
@@ -31,9 +38,7 @@
         // console.log("active genres", activeGenres.value);
     };
     const sortedGenres = () => {
-        return [...genres.value].sort( (a, b) => {
-            return a.localeCompare(b);
-        });
+        return [...genres.value].sort(estonianCompare);
     };
     
     const allPlaces = [];
@@ -50,11 +55,13 @@
         // console.log("active places", activePlaces.value);
     };
     const sortedPlaces = () => {
-        return [...places.value].sort( (a, b) => {
-            return a.localeCompare(b);
-        });
+        return [...places.value].sort(estonianCompare);
     };
     
+
+
+
+
     const togglePanels = (panel) => {
         if(panel === "person"){
             personPanelOpen.value = true;
