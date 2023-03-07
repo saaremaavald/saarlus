@@ -116,7 +116,7 @@ Ohvritamm oli kätte maksnud oma teotajaile.
 - Millised on tänapäeval tabud looduses käitumise osas? 
 - Kuidas loodus “kätte maksab”? Millisel moel maailmas, Eestis, Saaremaal? 
 - Tead sa, kus on Saaremaal hiiekive või pühasid kohti? Ja nendega seotud lugusid? Milliseid?
-- Millisel moel on tänapäeva inimesed ebausklikud
+- Millisel moel on tänapäeva inimesed ebausklikud?
 
 </details-wrapper>
 

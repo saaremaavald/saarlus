@@ -78,7 +78,9 @@ Sinna, oma peremehe hauale ta viimaks surigi, ja kui taeva väravailgi vajatakse
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- lisada
+- Siin oleks vast kohasem esimese asjana küsida, mis tunne sul tekkis seda lugu lugedes?
+- Loe ka luuletaja **Betti Alveri** lugu, kuidas tal tuli mõte kirjutada poeem <a href="kaks-saarlast-saamislugu">“Kaks saarlast”</a> (klikka nimekirjas “Tegelased” Betti ja leiad loo). Mida arvad inimeste ja koerte truuduse tegudest, mis lõpevad surmaga?
+
 
 </details-wrapper>
 

@@ -50,7 +50,8 @@ See on Saaremaa, orjade saar...
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- lisada
+- Millega oled Aino Kallase kirjelduses nõus ja millega mitte? Miks? Mis on muutunud?
+- Kui sina kirjutaksid Saaremaa kirjelduse samas võtmes, aga peaksid asendama pealkirjas sõna “orjade” muu sõnaga, siis millega asendaksid? Miks? Kirjuta oma muudetud pealkirjaga Saaremaa kirjeldus.
 
 </details-wrapper>
 

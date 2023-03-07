@@ -104,7 +104,8 @@ Selle järele nägin teda rahunevat ja valu jooni ta laubal silenevat, kuni ta v
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- asas
+- Kuidas hindad sina ema tegu? Milliseid poolt- ja vastuargumente tema teole tooksid?
+- Kuidas sina lapsevanemana aitaksid kaasa sellele, et su lapsel oleks tulevikus hea elu?
 
 </details-wrapper>
 
