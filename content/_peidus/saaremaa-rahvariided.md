@@ -25,7 +25,7 @@ Kui hästi tunned Saaremaa rahvariideid ja kihelkondi? http://saaremaa.folklore.
 <!-- <story-author :author="author" :origin="origin"></story-author> -->
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<!-- <details-wrapper summary="Mis mõtted tekkisid?">
 
 - ?
 

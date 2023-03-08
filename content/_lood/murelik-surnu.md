@@ -34,7 +34,7 @@ Peale matust oli aeg-ajalt olnud kolinat kuulda.
 <story-author :author="author" :origin="origin"></story-author>
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kas sa oled oma (vana)vanematelt või teiselt sugulastelt kuulnud lugusid, mis kananaha ihule toovad? Kui jah, siis milliseid?
 - Kas tead, kuhu on sinu sugulased maetud (kui nad on maetud Saaremaale)? Käid sa surnuaial? Kui tihti ja millal?

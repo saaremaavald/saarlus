@@ -28,7 +28,7 @@ Jätku pannileiba! Saarlasest fotograafi **Meriliis Metsamäe** vanatädi Kihelk
 <!-- <story-author :author="author" :origin="origin"></story-author> -->
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kas tead, milliseid põnevaid toite ja toiduaineid Saaremaal veel valmistatakse? https://arhiiv.err.ee/vaata/suus-sulav-eesti-saaremaa
 

@@ -35,7 +35,7 @@ On antud nimi - m õ r v a r.
 <story-author :author="author" :origin="origin"></story-author>
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Milliseid sõnu sina neist kasutad: kuritegu, roim, luukere, luger, mõrtsukas, mõrvar?
 - Kui õige prooviksid sama moodi luuletada? Sõnu leiad ja oma arusaamist neist saad testida siin: http://saaremaa.folklore.ee/aavik/ 

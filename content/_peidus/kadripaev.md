@@ -53,7 +53,7 @@ Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei s
 <!-- <story-author :author="author" :origin="origin"></story-author> -->
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Vaata, millised kadrisandid Kuressaare ametikooli dekoraator-stilistid tegid: https://vimeo.com/188959541
 - Kuula kadrilaulu Kadri Voorandi esituses: https://www.youtube.com/watch?v=yQrwFaY0kEg

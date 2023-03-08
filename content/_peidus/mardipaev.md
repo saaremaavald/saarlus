@@ -51,7 +51,7 @@ Mida sa inimese hing veel ihkad!”
 <story-author :author="author" :origin="origin"></story-author>
 <!-- <story-dictionary :terms="dictionary"></story-dictionary> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kuidas sul mardipäevaga lood on? Oled marti jooksnud? Kas tead, et mardi- , kadri- ja muud sandid peaksidki olema gümnaasiumiealised noored, mitte väikesed lapsed?
 - Mardi- ja kadripäev või halloween? Eri rahvad tähistavad samasisulisi tähtpäevi eri ajal ja eri moodi. Kes meie pimeda sügise ikka ägedaks teeb, kui mitte me ise? https://opleht.ee/2018/10/teeme-rahvakultuuri-ise-endale-agedaks/
