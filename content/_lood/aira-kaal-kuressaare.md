@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Aira Kaal - Kuressaare
-description: "Me nimetasime oma kaunist linna küll kadakasakslikuks, küll väikekodanlikuks ja paljude muude halbade nimedega."
+description: "Me nimetasime oma kaunist linna paljude halbade nimedega."
 author: Aira Kaal
 origin: "Katkendid raamatust: Aira Kaal, “Seitse tõtt ja seitse valet”, Eesti Raamat, Tallinn, 1986. Tekstis kirjeldab autor 1920. aastate Kuressaaret."
 images: [

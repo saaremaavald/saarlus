@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Aino Kallas
-description: "Meestele oli ilma pikema jututa selge, mida selle musta, sassiskarvalise ja võõrast tõugu sõnumitooja hälitus sisaldas: see oli merehädaliste märk."
+description: "Meestele oli ilma pikema jututa selge: see oli merehädaliste märk."
 author: Aino Kallas
 origin: "Jutustus: Aino Kallas, “Truudus üle haua”, kogu “Armastuse vangid”, tõlkinud Johannes Aavik, kirjastus Orto, Toronto, 1952."
 images: [

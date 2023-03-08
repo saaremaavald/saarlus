@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Aino Kallas
-description: "Ühel põuasel heledal heinakuu laupäeval kahe maailmasõja vahel oli viieliikmeline lõbus seltskond Kuresaare supellinna kodanikke, nii täis- kui poolvillaseid, läinud purjetusretkele lähedasele Abruka saarele."
+description: "Viieliikmeline lõbus seltskond Kuresaare supellinna kodanikke, nii täis- kui poolvillaseid, oli läinud purjetusretkele lähedasele Abruka saarele."
 author: Aino Kallas
 origin: "Jutustus: Aino Kallas, “Ohvritamme kättemaks”, kogu “Armastuse vangid”, tõlkinud Johannes Aavik, kirjastus Orto, Toronto, 1952."
 images: [
