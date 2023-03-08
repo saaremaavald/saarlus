@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Sulev Truväärt
-description: "Ilm oli pilves, vaikne, lainet peaaegu ei olnud. Järsku kerkisid kaljunuki tagant kellegi saksa naastudega tanksaabastes jalad."
+description: "Järsku kerkisid kaljunuki tagant kellegi saksa naastudega tanksaabastes jalad."
 author: Sulev Truuväärt
 origin: "Sulev Truuväärt, “Meenutusi elust Vilsandi saarel pärast suurt sõda”, Saaremaa Muuseumi toimetised, 2005-2006. Meenutused käsitlevad perioodi, mis algab 1944. aastast. Siin lühendatult."
 images: [

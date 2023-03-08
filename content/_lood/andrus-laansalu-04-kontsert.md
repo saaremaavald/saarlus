@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Andrus Laansalu
-description: "Kuna aga rahvuslik ilmalik kontsert Saaremaal millekski täiesti ennekuulmatuks osutus, oli selleks saksa publikut nii rohkesti kohale ilmunud, et see Saaremaa suurim saal rahvahulka mahutada ei suutnud ja paljud pidid väljas läbi avatud akende laulu pealt kuulama."
+description: "Saaremaa suurim saal rahvahulka mahutada ei suutnud ja paljud pidid väljas läbi avatud akende laulu pealt kuulama"
 author: Andrus Laansalu
 origin: "kirjutatud tekst 9.detsembril 2022 Kuressaares Thule kojas toimunud mõttetalgute tarbeks, kus arutleti Kuressaarde uue kontserdimaja ehitamise vajalikkuse üle."
 images: [

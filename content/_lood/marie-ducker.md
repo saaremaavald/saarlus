@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Vanaema ja mina olime jõulise saarlase juhitud kelgul, samal ajal kui mehed pikkade pootshaakidega ees kõndisid ja jää tugevust kontrollisid.
+description: Vanaema ja mina olime jõulise saarlase juhitud kelgul, samal ajal kui mehed ees kõndisid ja jää tugevust kontrollisid.
 author: "Marie Dücker"
 origin: "lapsepõlvemälestused: “Herdflammen: Baltisches Haus- und Jugendblatt” / Tekst Eugen Dückeri kohta: Kunilaart.ee / Katkendid raamatust: “Naiste maailm” ja “Näitus “Eneseloomine”...”: “Eneseloomine. Emantsipeeruv naine Eesti ja Soome kunstis”"
 images: [

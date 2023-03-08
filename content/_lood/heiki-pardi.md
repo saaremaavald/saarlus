@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Heiki Pärdi
-description: "Nägime naisi, kel piibud suus... Nägime mehi unistaja hingedega ja silmadega."
+description: "Nägime naisi, kel piibud suus. Nägime mehi unistaja hingedega ja silmadega."
 author: Heiki Pärdi
 origin: "Katkendid raamatust: Heiki Pärdi artikkel “Abielu ja rahvakultuur - sajandialguse Saaremaa ERMi välipäevikuis.” Saaremaa Muuseumi toimetised, 1995."
 images: [

@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Kas olete Panga panga all jalutanud? Kas ka talvel? Kas Soeginina pangal hülgeid olete vaatamas käinud?
+description: Kas olete Panga panga all jalutanud? Ka talvel?
 author: Gunnar Usin
 origin: "Intervjuu: “Huvijuht Arti Allmägi käib Soegininal hülgeid vaatlemas,” Meie Maa, 10.märts 2022.  Intervjuu siin lühendatult."
 images: [

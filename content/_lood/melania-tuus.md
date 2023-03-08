@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Saaremaa on ikka Saaremaa
-description: "Saaremaa on ikka Saaremaa, oma kodu ikka oma kodu, kes sii ikka sü‛ndind on, see tahab sii surra koa"
+description: "Oma kodu ikka oma kodu, kes sii ikka sü‛ndind on, see tahab sii surra koa"
 author: Melania Tuus
 origin: "Aadu Toomessalu “Tuulik, kadakas, leib”, Valgus, 1969."
 images: [

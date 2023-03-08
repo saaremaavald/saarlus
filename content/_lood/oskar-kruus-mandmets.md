@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Jakob Mändmets
-description: Muidugi on olnud ka eredaid ja valgeid silmapilke, aga nad on olnud silmapilgud, millega ei ole teistel asja.
+description: Nad on olnud silmapilgud, millega ei ole teistel asja.
 author: Oskar Kruus
 images: [
     {

@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Mehis Tulk
-description: Vana Hauküla kabeli dominiiklasest preester Meinhard teab, et saarlased ei valeta, aga nad jätavad rahulolematust tundes alati miskit ütlemata.
+description: Saarlased ei valeta, aga nad jätavad rahulolematust tundes alati miskit ütlemata.
 author: Mehis Tulk
 origin: "Katkend romaanist: “Foogt. Maa ja taeva mõrsja. Esimene raamat”, Varrak, 2017."
 images: [

@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Saaremaa ühisgümnaasiumis oli selline tore ja hakkaja seltskond ning arusaamine, et koos ja ühtse tiimina on võimalik palju asju teha.
+description: Saaremaa ühisgümnaasiumis oli hakkaja seltskond ning arusaamine, et ühtse tiimina on võimalik palju asju teha.
 author: Erki Berends
 origin: "Intervjuu: “Ärilinnaku juht Ursel Velve: väikesest ideest võib sündida suuri asju” Saarte Hääl, 26. veebruar 2021."
 images: [

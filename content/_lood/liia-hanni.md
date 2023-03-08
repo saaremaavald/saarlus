@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: Kui kellelgi on tunne, et ma olen Saaremaa maha jätnud, siis ei – ma olen südames endiselt 100% saarlane.
+description: Ma olen südames endiselt 100% saarlane.
 author: Anneli Tarkmeel
 origin: "Intervjuu: “Väikesest Atla tüdrukust sirgus põhiseaduse „ema”, Meie Maa, 18. august 2021. Intervjuu siin lühendatult."
 images: [

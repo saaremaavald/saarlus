@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Turdus musicus
-description: Ma tundsin loodust kui torkivat kõrrepõldu, kust saadi must magus leib. Kui looma, kelle liha aurab kausis, koos tapaeelse kisaga mu kõrvus.
+description: Ma tundsin loodust kui looma, kelle liha aurab kausis, koos tapaeelse kisaga mu kõrvus.
 author: Debora Vaarandi
 origin: "“Turdus musicus” (1962), kogu “Debora Vaarandi. Tähine laotus tantsib”, koostaja Mall Jõgi, Tänapäev, 2007."
 images: [

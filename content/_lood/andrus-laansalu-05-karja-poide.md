@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Andrus Laansalu
-description: "teadlane ja leiutaja manfred MIM, kes muuseas on palju uurinud kaali meteoriiti ja kes on veendunud, et eestlased tekkisid saaremaal"
+description: "teadlane ja leiutaja manfred MIM, kes on palju uurinud kaali meteoriiti ja kes on veendunud, et eestlased tekkisid saaremaal"
 author: Andrus Laansalu
 origin: "kirjutatud tekst 9.detsembril 2022 Kuressaares Thule kojas toimunud mõttetalgute tarbeks, kus arutleti Kuressaarde uue kontserdimaja ehitamise vajalikkuse üle."
 images: [

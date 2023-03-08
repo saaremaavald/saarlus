@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Andrus Laansalu
-description: "surnute aeg kulgeb lihtsalt palju aeglasemalt, neil pole kuhugi kiiret."
+description: "surnute aeg kulgeb lihtsalt palju aeglasemalt, neil pole kuhugi kiiret"
 author: Andrus Laansalu
 origin: "kirjutatud tekst 9.detsembril 2022 Kuressaares Thule kojas toimunud mõttetalgute tarbeks, kus arutleti Kuressaarde uue kontserdimaja ehitamise vajalikkuse üle."
 images: [

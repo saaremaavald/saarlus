@@ -1,6 +1,6 @@
 ---
 layout: story-page
-description: '- "Milliste kavatsustega Tartus Pallase kunstikooli astusite?" - "Edasi jõuda."'
+description: '- Milliste kavatsustega Tartus Pallase kunstikooli astusite? - Edasi jõuda.'
 author: "Ulrika Jõemägi, Anne Untera"
 origin: "fiktiivse vestluse koostas Merit Karise kunstniku ainsate teadaolevate tsitaatidega tema elu ja loomingut käsitlevast raamatust “Kunstile ohverdatud elu”."
 images: [

@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Muusika
-description: valik laule ja lugusid Saaremaast või saare keeles
+description: ei tede poisid mede poiste vasta ei saa, ei teil pole seadisid laulusi koa!
 author: rahvajutt
 images: [
     {

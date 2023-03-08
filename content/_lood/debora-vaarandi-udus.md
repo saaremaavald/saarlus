@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Udus
-description: Kruus tasa krigisemas kanna all – nii hulgun kuluhallis rannapargis, suud-silmi uhub niiske uduvall.
+description: Nii hulgun kuluhallis rannapargis, suud-silmi uhub niiske uduvall.
 author: Debora Vaarandi, Saaremaal kasvanud ja õppinud luuletaja
 images: [
     {

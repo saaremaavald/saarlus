@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Mehis Heinsaar
-description: Mingi imelik, füüsiliselt aistitav olemise iiveldus oli rinnus, justkui oleksin soojavereline koolnu, kes kesk suvepäeva kadakate vahel ringi ukerdab.
+description: Justkui oleksin soojavereline koolnu, kes kesk suvepäeva kadakate vahel ringi ukerdab.
 author: Mehis Heinsaar
 origin: "Tekst: Mehis Heinsaar “Ööpäevik”, Loomingu Raamatukogu, 2022, nr 1-2. "
 images: [

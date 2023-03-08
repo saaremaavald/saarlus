@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Jänese lõhkine mokk
-description: Üpagem köik ühekorraga aja pääle, et kui kedagi vaenlast teispool aeda oleks olevad, siis meil julgem vastu akata.
+description: Üpagem köik ühekorraga aja pääle!
 author: rahvajutt
 origin: Rahvajutu kirja pannud Juhan Ratas Valjala kihelkonnas Lõve vallas.
 images: [
