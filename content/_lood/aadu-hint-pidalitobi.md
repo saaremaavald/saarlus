@@ -1,7 +1,7 @@
 ---
 layout: story-page
 title: Pidalitõbi
-description: "Kaksikud tüdrukud võtsid endilt ise elu, istusid vastamisi toolidele, tõmbasid paksu riide üle peade kokku ja hingasid selle all sisse miinikollase kuuma auru."
+description: "Tüdrukud võtsid endilt ise elu, tõmbasid paksu riide üle peade kokku ja hingasid selle all sisse miinikollase kuuma auru."
 author: Aadu Hint
 origin: "Katkendid romaanist: Aadu Hint “Tuuline rand” (k 38-43), Eesti Raamat, Tallinn, 1996."
 images: [
