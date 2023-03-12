@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{M as s,N as t,V as r}from"./runtime-core.esm-bundler.4dba96d9.js";const n={},a={class:"rounded-xl shadow p-6 dark:shadow-md"};function c(o,_){return s(),t("div",a,[r(o.$slots,"default")])}const f=e(n,[["render",c]]);export{f as default};
