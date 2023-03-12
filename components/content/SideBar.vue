@@ -18,18 +18,24 @@
 
 </script>
 <template>
-    <section class="h-screen sticky top-0 left-0 
+    <section class="h-screen h-[110vh] sticky top-0 left-0 
         flex flex-col justify-between items-center gap-6
         bg-primary-200 shadow-md
         dark:bg-black
         print:invisible">
         
         <nav class="flex flex-col gap-4 mt-[10vh]">
-            <IconButton icon="icon-park-outline:list" label="LOOD" @click="toggleList" />
-            <IconButton icon="icon-park-outline:writing-fluently" label="TEOD" @click="toggleEx" />
-            <!-- <IconButton icon="icon-park-outline:list" label="ASI" @click="toggleList" /> -->
+            <!-- <IconButton icon="icon-park-outline:list" label="LOOD" @click="toggleList" />
+            <IconButton icon="icon-park-outline:writing-fluently" label="TEOD" @click="toggleEx" /> -->
+            <NuxtLink to="/lood">
+                <IconButton icon="icon-park-outline:list" label="LOOD" />
+            </NuxtLink>
+            <NuxtLink to="/teod">
+                <IconButton icon="icon-park-outline:writing-fluently" label="TEOD" />
+            </NuxtLink>
         </nav>
-        <ColorModeSwitch class="mb-[10vh] dark:text-primary-100 hover:text-primary-700 dark:hover:text-primary-300" />
+        <ColorModeSwitch class="mb-[20vh] dark:text-primary-100 
+        hover:text-primary-700 dark:hover:text-primary-300" />
 
     </section>
     <Teleport to="body">

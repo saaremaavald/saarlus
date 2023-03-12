@@ -16,7 +16,7 @@
 </script>
 
 <template>
-    <section class="h-screen overflow-auto bg-primary-50 p-10 dark:bg-secondary-900">
+    <section class="p-10">
 
         <h1 class="mb-4 font-Special text-5xl text-secondary-800 
             dark:text-primary-200">
@@ -25,10 +25,11 @@
         
 
         <section 
-        class="flex flex-col lg:flex-row gap-4 
-        text-lg 
-            font-Normal prose prose-gray dark:prose-invert">
-            <div class="p-4 max-w-2xl">
+        class="flex flex-col text-lg bg-white rounded p-2
+            font-Normal prose prose-gray 
+            lg:flex-row gap-4 p-4
+            dark:prose-invert dark:bg-secondary-900">
+            <div class="p-4 max-w-xl xl:max-w-2xl">
                 <p>
                     “Saarluse kompassi” lugude lõpus on küsimusi, mille üle omaette või rühmas arutleda. Siin on ülesanded, saarluse uurimise teod, mille põhimõte on: märka, mõtesta, märgi üles, mängi mõttemänge. Saarluse teod kutsuvad loovalt mõtlema, kujutlusvõimet lendu laskma, teisisõnu vaimselt ja füüsiliselt uitama ehk ennast ja ümbritsevat jälgima, infot koguma, sortima, (läbi) kirjutama, sirgeldama. Tegude tulemusi saab esitleda, võrrelda ja üldistada paari- või rühmaaruteludes, väitlusringis, kasutada intervjuudes, et mängida mõttemänge, milline võiks tegutseja enda või Saaremaa elu olla tulevikus: mida hoida, mida muuta, mida uut tuua.
                 </p>
@@ -73,7 +74,7 @@
                     :to="ex._path"
                     @click="closeEx" :key="`ex${i}`">
                     <Card class="bg-white ring-1 ring-secondary-300 shadow transition
-                        dark:bg-secondary-800 dark:ring-secondary-700
+                        dark:bg-secondary-900 dark:ring-secondary-700
                         hover:shadow-lg dark:hover:ring-secondary-500"
                         :class="path == ex._path ? 'bg-yellow-100 dark:bg-primary-400 dark:text-primary-800' : ''"
                         :style="`transform:rotate(${-3+Math.random()*6}deg)`"
