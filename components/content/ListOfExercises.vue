@@ -30,10 +30,10 @@
             font-Normal prose prose-gray dark:prose-invert">
             <div class="p-4 max-w-2xl">
                 <p>
-                    “Saarluse kompassi” lugude lõpus on küsimusi, mille üle omaette või rühmas arutleda. Siin on ülesanded, saarluse uurimise teod, mille põhimõte on: märka, mõtesta, märgi üles, mängi mõttemänge. Saarluse teod kutsuvad loovalt mõtlema, kujutlusvõimet lendu laskma, teisisõnu vaimselt ja füüsiliselt uitama ehk ennast ja ümbritsevat jälgima, infot koguma, sortima, (läbi) kirjutama, sirgeldama. Tegude tulemusi saab esitleda, võrrelda ja üldistada paari- või rühmaaruteludes, väitlusringis, kasutada intervjuudes, et mängida mõttemänge, milline võiks tegutseja enda või Saaremaa elu olla tulevikus: mida hoida, mida muuta, mida uut tuua.
+                    “Saarluse kompassi” lugude järel on küsimusi, mille üle omaette või rühmas arutleda. Siin on ülesanded, saarluse uurimise teod, mille põhimõte on: märka, mõtesta, märgi üles, mängi mõttemänge. Saarluse teod kutsuvad loovalt mõtlema, kujutlusvõimet lendu laskma, teisisõnu vaimselt ja füüsiliselt uitama ehk ennast ja ümbritsevat jälgima, infot koguma, sortima, (läbi) kirjutama, sirgeldama. Tegude tulemusi saab esitleda, võrrelda ja üldistada paari- või rühmaaruteludes, väitlusringis, kasutada intervjuudes, et mängida mõttemänge, milline võiks tegutseja enda või Saaremaa elu olla tulevikus: mida hoida, mida muuta, mida uut tuua.
                 </p>
                 <p>
-                    Joonistamisoskus pole oluline, tähtis on arusaadavus. Tegude tulemused tulevad just nii huvitavad ja kõnekad, kui palju neisse panustada. Nagu koolis, tööl, elus tervikuna. Tähelepanelikku silma ja head sirgeldamist!
+                    Joonistamisoskus pole oluline, tähtis on arusaadavus. Tegude tulemused tulevad just nii huvitavad ja kõnekad, kui palju neisse panustada. Nagu koolis, tööl, elus tervikuna. Head sirgeldamist!
                 </p>
             </div>
             <div class="p-4">
