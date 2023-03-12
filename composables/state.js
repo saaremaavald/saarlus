@@ -7,5 +7,7 @@ export const placeOpen = () => useState('placeOpen', () => false);
 export const storiesData = () => useState('storiesData', () => null);
 export const activeImage = () => useState('activeImage', () => "sirgelda-kodu.webp");
 export const activeGenres = () => useState('activeGenres', () => []);
+export const activePlaces = () => useState('activePlaces', () => []);
+export const activePersons = () => useState('activePersons', () => []);
 // export const panelOpen = () => useState('panelOpen', () => true);
 // export const authorsOpen = () => useState('authorsOpen', () => false);

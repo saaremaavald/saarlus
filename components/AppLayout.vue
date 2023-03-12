@@ -15,13 +15,13 @@
 
 <template>
   <div class="grid grid-cols-[3rem_1fr] 
-  bg-white bg-[url('/images/saarlus-bg.webp')] bg-repeat bg-[length:960px_576px]
-  dark:bg-secondary-900 dark:bg-[url('/images/saarlus-bg--dark.webp')]
   sm:grid-cols-[4rem_1fr] 
   md:grid-cols-[6rem_1fr] md:bg-[length:1200px_720px]
   lg:grid-cols-[8rem_1fr] lg:bg-[length:2400px_1440px]
   print:grid-cols-[0_1fr] 
-  transition-all"
+  transition-all
+  bg-white bg-[url('/images/saarlus-bg.webp')] bg-repeat bg-[length:960px_576px]
+  dark:bg-secondary-900 dark:bg-[url('/images/saarlus-bg--dark.webp')]"
   :style="`background-position:${Math.random()*100}% ${Math.random()*100}%`"
   >
     <Html lang="et" :class="overflow ? 'overflow-hidden' : 'overflow-auto'" />
