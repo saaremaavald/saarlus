@@ -1,11 +1,11 @@
 <script setup>
   const { cover } = useAppConfig();
-  const list = listOpen();
-  const ex = exOpen();
+  // const list = listOpen();
+  // const ex = exOpen();
   const image = modalOpen();
 
   const overflow = computed(() => {
-    if(list.value == true || ex.value == true || image.value == true) {
+    if(image.value == true) {
       return true;
     } else {
       return false;
@@ -28,7 +28,9 @@
     <Meta property="og:image" :content="cover" />
     <!-- <Meta name="twitter:card" content="summary_large_image" /> -->
     
-    <side-bar class="print:hidden"></side-bar>
+    <div class="relative">
+      <side-bar class="print:hidden"></side-bar>
+    </div>
     <section>
       <AppLoadingBar />
       <slot />

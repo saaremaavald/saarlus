@@ -1,5 +1,5 @@
 <template>
-    <div class="py-20 m-auto">
+    <div class="py-20 mx-auto">
         <main class=" 
           prose prose-gray dark:prose-invert">
             <slot>

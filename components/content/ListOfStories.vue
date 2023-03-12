@@ -107,11 +107,11 @@
     places.value = sortedPlaces();
 
 
-    const showStories = listOpen();
+    // const showStories = listOpen();
 
-    const closeList = () => {
-        showStories.value = false;
-    }
+    // const closeList = () => {
+    //     showStories.value = false;
+    // }
 
 </script>
 
@@ -162,7 +162,7 @@
             <template v-for="(story, i) in data">
                 <!-- <div v-if="activeGenres.length == 0 || story.genre.some(genre => activeGenres.includes(genre))"> -->
                     <NuxtLink :to="story._path"
-                        v-if="(selectedPersons.length == 0 || story.person.some(person => selectedPersons.includes(person))) && (story.genre.some(genre => selectedGenres.includes(genre)) || selectedGenres.length == 0 && (story.tags.some(place => selectedPlaces.includes(place)) || selectedPlaces.length == 0))" @click="closeList" :key="`story${i}`">
+                        v-if="(selectedPersons.length == 0 || story.person.some(person => selectedPersons.includes(person))) && (story.genre.some(genre => selectedGenres.includes(genre)) || selectedGenres.length == 0 && (story.tags.some(place => selectedPlaces.includes(place)) || selectedPlaces.length == 0))" :key="`story${i}`">
                         <Card class="bg-white ring-1 ring-secondary-300 shadow transition
                         dark:bg-secondary-800 dark:ring-secondary-700
                         hover:shadow-lg dark:hover:ring-secondary-500"
