@@ -6,7 +6,8 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "postinstall": "nuxi prepare",
-    "deploy": "gh-pages -d .output/public --dotfiles"
+    "deploy": "gh-pages -d .output/public --dotfiles",
+    "netlify": "gh-pages -d .output/public -b netlify --dotfiles"
   },
   "devDependencies": {
     "@nuxt-themes/typography": "^0.7.1",
