@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   ],
   // ssr: false,
   experimental : {
-    payloadExtraction : false
+    payloadExtraction : false,
   },
   extends: ['content-wind'],
   content: {
@@ -16,7 +16,13 @@ export default defineNuxtConfig({
       anchorLinks: {depth: 2, exclude: [1,2]}
     }
   },
+  // GH pages trailing slash
+  // router: {
+  //   options: {
+  //     strict: true,
+  //   },
+  // },
   app: {
-    baseURL: '/saarlus/',
+    baseURL: '/saarlus/', // for GH pages 
   }
 })
